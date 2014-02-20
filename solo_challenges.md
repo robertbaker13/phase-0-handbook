@@ -1,0 +1,8 @@
+# Solo Challenges
+
+***
+## Purpose
+
+***
+##Expectations
+
