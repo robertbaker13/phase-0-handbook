@@ -2,14 +2,14 @@
 
 Each week you will have one challenge specifically designated as a solo challenge. This challenge is different, and needs to be addressed on its own terms. 
 
-***
+
 ## Purpose
 Solo challenges are designed to provide you the opportunity to work on your own and see how confident you are with the learning objectives. These challenges are meant to show you where you are in your abilities at the moment.**
 
 From the instructor's perspective, solo challenges provide us with an example of your work. We use these to assess how you are doing and give you feedback. We want to see that you are following the process we've outlined (pseudocode, initial code, refactor, reflect) and are demonstrating your familiarity and ability to implement the objectives. We do not expect your code to be perfect; we expect it to show how you work through a problem on your own. 
 
 **Solo Challenges draw on the objectives for the week, and are in the middle in terms of difficulty. It would be a good idea to go through the other challenges prior to completing the solo challenge. 
-***
+
 ##Expectations
 ### Research
 We ask you to follow a different protocol when researching for these challenges because they are meant to be an example of your work and current abilities. 
@@ -45,7 +45,7 @@ There has been some confusion on researching and plagiarism in the past because 
 If we suspect the work you submitted is not your own, which we determine from seeing if you understand exactly what it's doing from your pseudocode, refactoring, and reflection, we will contact you to set up a meeting to discuss your code. 
 
 
-***
+
 ## Code Review and Feedback
 
 You will receive a code review and feedback once per unit, generally on the second solo challenge (in the second week of the unit). This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve, without presenting it in, pardon my French, a shit sandwich. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp? 
