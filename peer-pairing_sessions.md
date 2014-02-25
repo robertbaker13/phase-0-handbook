@@ -1,13 +1,13 @@
 # Peer-Pairing Sessions
-***
+
 
 ## Purpose
-Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes, but it's not as easy as it may seem. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. Building relationships like this takesa lot of practice, so we've incorporated pair programming into Phase 0!  
+Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes, but it's not as easy as it may seem. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. Building relationships like this takes practice, so we've incorporated pair programming into Phase 0!  
 
 
 [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)
 
-***
+
 ## Expectations
 As part of Phase 0, students are expected to pair program with a member of your cohort at least six times each unit.** 
 
@@ -25,12 +25,12 @@ As part of Phase 0, students are expected to pair program with a member of your 
 You need to pair with the people assigned to you in your pairing assignments. See the link in your google+ community resources. Pairing assignments are divided into two sessions per week, but these are suggestions, not requirements. You can schedule sessions with any pair at any time during the three weeks, just make sure you communicate with your pair and decide which challenge to work on.
 
 
-***
+
 ## Courtesy
 
 Please keep in mind that all students are busy and working hard to balance work and Phase 0 requirements. If it turns out you can not make the session you've scheduled with your pair for any reason, please contact your pair as soon as possible. Try your best to work from a quiet place with a reliable internet connection. 
 
-***
+
 ## Success Guidelines
 
 You will be successful if you:
@@ -47,7 +47,7 @@ You will be successful if you:
 
 	
 
-***
+
 ## Feedback
 ###Submit Feedback
 
@@ -69,7 +69,7 @@ In order to make sure you and your pairs receive the feedback you've each submit
 
 **If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx)
 
-***
+
 ### Problems and Tips
 Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
 
