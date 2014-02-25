@@ -13,8 +13,6 @@ Each GPS challenge is designed to reinforce the learning objectives covered in t
 <br>
 <br>
 
-*** 
-
 
 ## Expectations
 
@@ -42,7 +40,7 @@ Each student is required to attend five Guided Pairing Sessions (GPS) during Pha
 * If you have something come up last minute, email your instructor and pair to let them know you will not be able to attend the session.
 * Please note: We only create enough sessions for every person to attend one. Please bear that in mind and try to avoid missing or having to reschedule any sessions.
 * If you need to reschedule, but all appointments are booked, please make an announcement to your cohort through email or on your community page to ask someone to switch.
-*****
+
 
 ## The Instructor's Role
 
@@ -52,9 +50,6 @@ Although you have one hour with the instructor, the challenges often take longer
 
 NOTE: If you are paired with an instructor without another pair, the session will be slightly different since you will be pairing with the instructor. Please take a deep breath and have fun! Feel free to pick your instructor's brain and deepen your understanding.
 
-
-
-***
 
 ## Success Guidelines
 These sessions are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, they are also ways for us to track how you are doing in Phase 0 to this point and will be used as determining factors in whether you will continue through the program or not. Guided Pairing Sessions give us a better idea of whether you will be successful in the program. This is not meant to discourage you or make you think each session is a test. We guage your success based on the following metrics. 
@@ -99,7 +94,6 @@ These sessions are intended to help you become a better pair, have a stronger co
 	- Prioritize completion or speediness over understanding
 
 
-*****
 
 ##Feedback and Transparency
 
