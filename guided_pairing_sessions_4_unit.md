@@ -106,18 +106,11 @@ These sessions are intended to help you become a better pair, have a stronger co
 
 You will receive feedback for the GPS sessions in two ways: 1) verbally in the final 5 minutes of each session and 2) via email. The verbal feedback will address immediate impressions from the session whereas feedback via email will be tailored to you. Email feedback will also include a technical and cultural score based on the following scale:
 
-	[-1] Showed little familiarity or comfort with learning objectives 
-	[ 0] Slightly behind with learning objectives 
-	[ 1] On track with learning objectives
-	[ 2] Ahead of where you need to be with the learning objectives
-	
 We are sharing this information with you for a couple of reasons:
 
 1. We believe that information we collect pertaining to you and your progress should be transparent and easily available (to you)
 2. We want you to know whether you are on the track for success at Dev Bootcamp
 3. We believe that you will be able to better tailor your preparation and progress in Phase 0 with this information
-
-*Please Note: A score of -1 or 0, while not wholly indicitive of whether you will be asked to stay or leave, will put you on our radar for close monitoring. 
 
 You should feel free to respond to your instructor if you have questions, comments, or concerns regarding your feedback. 
 
