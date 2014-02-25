@@ -1,12 +1,10 @@
 # Contact and Support List
 
 
-## Chicago
+<!--## Chicago
 
-***
-## New York City
+## New York City-->
 
-***
 ## San Francisco
 If you want help with:
 
