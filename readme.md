@@ -1,6 +1,6 @@
 # Phase 0 Student Handbook
 
-This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact your Phase 0 Facilitator or ask in your introductory session. 
+This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact your <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/contact_and_support_list.md" target="_blank"> Phase 0 Facilitator</a>, ask your instructor in your introductory session, or create an pull request to add a question to the <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/FAQ.md" target="_blank">FAQ</a>. 
 
 
 1. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/learning_strategies.md" target="_blank">Overview</a>
@@ -10,6 +10,6 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 5. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/solo_challenges.md" target="_blank">Solo Challenges</a>
 6. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/contact_and_support_list.md" target="_blank">Contact and Support List</a>
 7. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/FAQ.md" target="_blank">FAQ's</a>
-8. <a href="" target="blank">Useful links</a>
+<!--8. <a href="" target="blank">Useful links</a>-->
 
 *NOTE: If you are a phase 0 student on the four-unit model, please refer to <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/GPS_4_units_model.md" target="_blank"> this</a> Guided Pairing Session document.*

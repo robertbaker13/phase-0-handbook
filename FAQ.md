@@ -1,2 +1,2 @@
 # Frequently Asked Questions
-If you want to add questions to this FAQ, create an issue by clicking "issues" in the right-hand navigation bar. We will get notified and will answer your questions. 
+If you want to add questions to this FAQ, create pull request on this page by clicking "pull request" on the repository's main page. Instructions coming soon. We will get notified of pull requests and will answer your questions. 
