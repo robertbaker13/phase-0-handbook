@@ -9,7 +9,7 @@ Pair programming has gained in popularity among companies as enabling developers
 
 
 ## Expectations
-As part of Phase 0, students are expected to pair program with a member of your cohort at least six times each unit.** 
+As part of Phase 0, students are expected to pair program with a member of your cohort at least three or four times per unit.** 
 
 * It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties**
 * You should set aside at least 45 minutes for each pairing session
@@ -20,9 +20,7 @@ As part of Phase 0, students are expected to pair program with a member of your 
   3. What time you need to finish the session
 
 
-**Note: You can access other student's email addresses on the cohort page on Socrates. Click on the person's picture and it will let you access their profile. 
-###### For SF Students:
-You need to pair with the people assigned to you in your pairing assignments. See the link in your google+ community resources. Pairing assignments are divided into two sessions per week, but these are suggestions, not requirements. You can schedule sessions with any pair at any time during the three weeks, just make sure you communicate with your pair and decide which challenge to work on.
+**Note: You should select pairs from your unit accountability group. You can access each other's email addresses on the cohort page on Socrates. Click on the person's picture and it will let you access their profile. 
 
 
 
