@@ -24,13 +24,11 @@ Each student is required to attend five Guided Pairing Sessions (GPS) during Pha
   	 - Week 3: GPS 1.2
     
     Unit 2
-     - Week 4-6: GPS 2.1
+     - Week 5: GPS 2.1
      
     Unit 3
-     - Weeks 7-9: GPS 3.1
+     - Weeks 7: GPS 3.1
 
-
-** Each school may deviate slightly from this schedule 
 
 ### Courtesy
 
