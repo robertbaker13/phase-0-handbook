@@ -1,9 +1,9 @@
 # Learning and Success
 
 ## Approach to Learning
-Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural. Moreover, you will not be able to rely grades to figure out how you are doing. You will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
+Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural. Moreover, you will not be able to rely on grades to figure out how you are doing. You will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
 
-Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp instructor's role is to act as a guide and resource, rather than an transmitter of information. You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well. 
+Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp instructor's role is to act as a guide and resource, rather than a transmitter of information. You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well. 
 
 That said, the Dev Bootcamp experience is not for everyone. The curriculum condenses an inordinate amount of information into 9 weeks, and the rigor, pace, and teaching style does not suit every student's needs. It is important to be honest with yourself and your teachers if this teaching and learning style does not suit your learning needs. 
 
@@ -20,11 +20,11 @@ In order to be successful at Dev Bootcamp, students need to:
 
 
 ## Learning and Thinking Styles
-As part of the prep work for Phase 0, we asked you to identify your <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a> and <a href="http://www.thelearningweb.net/personalthink.html" target="_blank"> Gregorc thinking style</a>. We ask you to do this so you can better tailor your experience at Dev Bootcamp to your unique learning needs. For example, if you are a multimodal learner who is an Abstract Random (AR) thinker, you will probably not do as well coding by yourself without any resources to guide you. You would do better to have a couple videos, bits of reading, and a pair to work with to solve challenges. 
+As part of the prep work for Phase 0, we asked you to identify your <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a> and <a href="http://www.thelearningweb.net/personalthink.html" target="_blank"> Gregorc thinking style</a>. We ask you to do this so you can better tailor your experience at Dev Bootcamp to your unique learning needs. For example, if you are a multimodal learner who is an Abstract Random (AR) thinker, you will probably not do as well coding by yourself without any resources to guide you. You would do better to have a couple of videos, bits of reading, and a pair to work with to solve challenges. 
 
 There is not one way to learn how to program, and we are not trying to make you into the "typical" programmer who works by him/herself and solves all problems without help. You should ask for help, seek additional resources, and work on your own when you need to. 
 
-We are working to create curriculum that appeals to all different learning and thinking styles, but it's not perfect. We appreciate any feedback on our curriculum and suggestions for improvement. 
+We are working to create a curriculum that appeals to all different learning and thinking styles, but it's not perfect. We appreciate any feedback on our curriculum and suggestions for improvement. 
 
  
 
@@ -64,7 +64,7 @@ We gauge a student's fit in Phase 0 and Dev Bootcamp through their kindness, int
 ####Getting asked to leave
 It's not our goal to kick people out of the program. It is our goal to identify people who will not thrive at Dev Bootcamp. We truly want to save students the pain of leaving their jobs, moving etc. only to find out that Dev Bootcamp isn't the right environment for them. 
 
-We take the decision to ask a student to leave seriously, and we do so after considerable thought. Having one yellow flag emerge during the course of Phase 0 is not a deal-breaker in and of itself, but showing a combination or repeatedly demonstrating any of these indicators is a problem. If this happens, we will warn the student through via email. We make decisions to allow students to continue or ask them to leave at the end of each unit.
+We take the decision to ask a student to leave seriously, and we do so after considerable thought. Having one yellow flag emerge during the course of Phase 0 is not a deal-breaker in and of itself, but showing a combination or repeatedly demonstrating any of these indicators is a problem. If this happens, we will warn the student through email. We make decisions to allow students to continue, or ask them to leave, at the end of each unit.
 
 In the event a student is asked to leave, Dev Bootcamp will provide the student with a full refund, including the non-refundable deposit. 
 
