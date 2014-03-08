@@ -23,10 +23,7 @@ Completion of challenges is not that you have the right answer, the perfect code
 
 If you are starting as a bashful beginner, your attempts may not even yield a working solution.  This is OK.  The most important thing we need to see is your engagement, your dedication to learning the material.  If your solution ends up being 30 lines of pseudocode and you don't know where to begin, make a comment saying where you are stuck and submit it.  Then reach out to your cohort mates to see if anyone has solved the challenge and pair with them.
 
-<br>
-<br>
-<br>
-<br>
+***
 The objectives and challenges for each unit are not suggestions, and they are not optional.  These are expectations that we have of you in order for you to succeed and thrive during Phase 0, which will determine whether or not you’ll thrive during phases 1-3 at DBC.
 
 We expect you to satisfy your objectives on time, meaning completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/contact_and_support_list.md" target="_blank">see Contacts </a>
