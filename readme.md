@@ -12,5 +12,3 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 7. <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/FAQ.md" target="_blank">FAQ's</a>
 
 <!--8. <a href="" target="blank">Useful links</a>-->
-
-*NOTE: If you are a phase 0 student on the four-unit model, please refer to <a href="https://github.com/Devbootcamp/phase_0_handbook/blob/master/GPS_4_units_model.md" target="_blank"> this</a> Guided Pairing Session document.*
