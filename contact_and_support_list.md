@@ -14,7 +14,6 @@
 4. **Your progress, learning strategies, GPS,** *and anything not included above* contact <mailto:rebecca@devbootcamp.com>
 
 ## San Francisco
-If you want help with:
 
 1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
 2. **Changing cohorts or withdrawing** contact <mailto:karim@devbootcamp.com>
