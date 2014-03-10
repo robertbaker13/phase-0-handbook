@@ -7,15 +7,15 @@
 #### Instructor:
 **Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
 
-## Location-Based:
-#### Changing Cohorts or Withdrawing
+#### Location-specific
+##### Changing Cohorts or Withdrawing
 |Location |Contact |
 |---------|--------|
 |Chicago | <mailto:tiffany@devbootcamp.com>|
 |New York City | <mailto:tanner@devbootcamp.com>|
 |San Francisco| <mailto:karim@devbootcamp.com>
 
-#### Your progress, learning strategies, GPS, *and anything not included elsewhere*
+##### Your progress, learning strategies, GPS, *and anything not included elsewhere*
 |Location |Contact |
 |---------|--------|
 |Chicago | <mailto:abi@devbootcamp.com>|
