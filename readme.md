@@ -9,6 +9,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 4. [Guided Pairing Sessions](/guided_pairing_sessions.md)
 5. [Peer-Pairing Sessions and Feedback](/peer-pairing_sessions.md)
 6. [Solo Challenges](/solo_challenges.md)
+7. [Research, Debugging, and Google](research,_debugging,_and_google.md)
 7. [Contact and Support List](/contact_and_support_list.md)
 8. [FAQ's](/FAQ.md)
 
