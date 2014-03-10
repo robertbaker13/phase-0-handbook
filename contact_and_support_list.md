@@ -1,10 +1,13 @@
 # Contact and Support List
 
-Global issues
+####Global:
 1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
 2. **Phase 0 curriculum, issues with this handbook, etc.** contact <mailto:maria@devbootcamp.com>
 
-## Location-Based Issues
+#### Instructor:
+**Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
+
+## Location-Based:
 #### Changing Cohorts or Withdrawing
 |Location |Contact |
 |---------|--------|
@@ -19,5 +22,4 @@ Global issues
 |New York City | <mailto:rebecca@devbootcamp.com>|
 |San Francisco| <mailto:maria@devbootcamp.com>
 
-Instructor Issues:
-**Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
+
