@@ -1,21 +1,23 @@
 # Contact and Support List
 
-
-## Chicago
+Global issues
 1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
-2. **Changing cohorts or withdrawing** contact <mailto:tiffany@devbootcamp.com>
-3. **Your feedback for a specific GPS session or code review** contact the instructor or coach.
-4. **Your progress, learning strategies, GPS,** *and anything not included above* contact <mailto:abi@devbootcamp.com>
+2. **Phase 0 curriculum, issues with this handbook, etc.** contact <mailto:maria@devbootcamp.com>
 
-## New York City
-1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
-2. **Changing cohorts or withdrawing** contact <mailto:tanner@devbootcamp.com>
-3. **Your feedback for a specific GPS session or code review** contact the instructor.
-4. **Your progress, learning strategies, GPS,** *and anything not included above* contact <mailto:rebecca@devbootcamp.com>
+## Location-Based Issues
+#### Changing Cohorts or Withdrawing
+|Location |Contact |
+|---------|--------|
+|Chicago | <mailto:tiffany@devbootcamp.com>|
+|New York City | <mailto:tanner@devbootcamp.com>|
+|San Francisco| <mailto:karim@devbootcamp.com>
 
-## San Francisco
+#### Your progress, learning strategies, GPS, *and anything not included elsewhere*
+|Location |Contact |
+|---------|--------|
+|Chicago | <mailto:abi@devbootcamp.com>|
+|New York City | <mailto:rebecca@devbootcamp.com>|
+|San Francisco| <mailto:maria@devbootcamp.com>
 
-1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
-2. **Changing cohorts or withdrawing** contact <mailto:karim@devbootcamp.com>
-3. **Your feedback for a specific GPS session or code review** contact the instructor.
-4. **Your progress, learning strategies, GPS,** *and anything not included above* contact <mailto:maria@devbootcamp.com>
+Instructor Issues:
+**Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
