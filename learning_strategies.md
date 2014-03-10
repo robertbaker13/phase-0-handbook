@@ -3,7 +3,7 @@
 ## Approach to Learning
 Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural. Moreover, you will not be able to rely on grades to figure out how you are doing. You will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
 
-Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp instructor's role is to act as a guide and resource, rather than a transmitter of information. You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well. 
+Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp instructor's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well. 
 
 That said, the Dev Bootcamp experience is not for everyone. The curriculum condenses an inordinate amount of information into 9 weeks, and the rigor, pace, and teaching style does not suit every student's needs. It is important to be honest with yourself and your teachers if this teaching and learning style does not suit your learning needs. 
 
@@ -22,7 +22,11 @@ In order to be successful at Dev Bootcamp, students need to:
 ## Learning and Thinking Styles
 As part of the prep work for Phase 0, we asked you to identify your <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a> and <a href="http://www.thelearningweb.net/personalthink.html" target="_blank"> Gregorc thinking style</a>. We ask you to do this so you can better tailor your experience at Dev Bootcamp to your unique learning needs. For example, if you are a multimodal learner who is an Abstract Random (AR) thinker, you will probably not do as well coding by yourself without any resources to guide you. You would do better to have a couple of videos, bits of reading, and a pair to work with to solve challenges. 
 
-There is not one way to learn how to program, and we are not trying to make you into the "typical" programmer who works by him/herself and solves all problems without help. You should ask for help, seek additional resources, and work on your own when you need to. 
+There is not one way to learn how to program or be a programmer, and we are not trying to make you into the "typical" programmer who works by him/herself and solves all problems without help. 
+
+In fact, the popular view of a programmer sitting in a basement alone is completely wrong for the vast majority of coding jobs.  As a software developer, you will pair program, work with a team of engineers (and sometimes teams of teams), and work with other teams within a company, such as marketing, product, customer service, and design. Part of being a professional programmer will be assessing a problem, thinking through and discussing solutions, "spiking" (or experimenting) alone or with a team, and estimating how long something will take to code.  All of DBC will prepare you for that.  You are starting now.
+
+In other words, you should ask for help, seek additional resources, and work on your own when you need to. 
 
 We are working to create a curriculum that appeals to all different learning and thinking styles, but it's not perfect. We appreciate any feedback on our curriculum and suggestions for improvement. 
 
