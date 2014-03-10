@@ -5,10 +5,11 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 1. [Overview](/overview.md)
 2. [Learning Strategies](/learning_strategies.md)
-3. [Guided Pairing Sessions](/guided_pairing_sessions.md)
-4. [Peer-Pairing Sessions and Feedback](/peer-pairing_sessions.md)
-5. [Solo Challenges](/solo_challenges.md)
-6. [Contact and Support List](/contact_and_support_list.md)
-7. [FAQ's](/FAQ.md)
+3. [Pairing in Phase 0](pairing_in_phase_0.md)
+4. [Guided Pairing Sessions](/guided_pairing_sessions.md)
+5. [Peer-Pairing Sessions and Feedback](/peer-pairing_sessions.md)
+6. [Solo Challenges](/solo_challenges.md)
+7. [Contact and Support List](/contact_and_support_list.md)
+8. [FAQ's](/FAQ.md)
 
 <!--8. <a href="" target="blank">Useful links</a>-->
