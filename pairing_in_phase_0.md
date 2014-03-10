@@ -86,6 +86,7 @@ Pairing remotely is more difficult than pairing in person.  You can't see a pers
 
 While pairing in Phase 0, **you cannot communicate too much**.  For realz.
 
-<small>I hope it goes without saying (but I will say it anyway) that this does not apply to inappropriate topics.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.</small>
+## Respectful Communication
+I hope it goes without saying (but I will say it anyway) that pairing or any other communication during DBC should not involve inappropriate topics.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
 
 
