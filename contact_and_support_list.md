@@ -8,14 +8,20 @@
 **Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
 
 #### Location-specific
-##### Changing Cohorts or Withdrawing
+***
+##### Contact the Cohort Roster Engineer 
+Regarding changing cohorts or withdrawing
+
 |Location |Contact |
-|---------|--------|
+|--------|-----|
 |Chicago | <mailto:tiffany@devbootcamp.com>|
 |New York City | <mailto:tanner@devbootcamp.com>|
-|San Francisco| <mailto:karim@devbootcamp.com>
+|San Francisco| <mailto:karim@devbootcamp.com>|
 
-##### Your progress, learning strategies, GPS, *and anything not included elsewhere*
+
+##### Contact your Phase 0 Facilitator
+Regarding your progress, learning strategies, GPS, *and anything not included elsewhere*
+
 |Location |Contact |
 |---------|--------|
 |Chicago | <mailto:abi@devbootcamp.com>|
