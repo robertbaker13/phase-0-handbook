@@ -62,7 +62,7 @@ Breaking down problems into smaller, more manageable pieces is the most importan
 Once you get some results, make sure to ask:
 
 - How old is this post?
-- wWho wrote it? Are they trust-worthy
+- Who wrote it? Are they trust-worthy
 - Does it solve my problem?
 - Does it solve part of my problem?
 - Do I understand the solution? If not, what can I do to understand it?
