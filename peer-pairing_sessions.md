@@ -9,7 +9,7 @@ Pair programming has gained in popularity among companies as enabling developers
 
 
 ## Expectations
-As part of Phase 0, students are expected to pair program with a member of your cohort at least three or four times per unit.** 
+As part of Phase 0, students are expected to pair program with a member of your cohort at least three times in unit 1 and four times in units 2 and 3.** 
 
 * It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties**
 * You should set aside at least 45 minutes for each pairing session
@@ -33,7 +33,7 @@ Please keep in mind that all students are busy and working hard to balance work 
 
 You will be successful if you:
 
-	- Check in with your pair according to the <a href="http://vimeo.com/76662569" target="_blank">Pairing is Caring</a> video. 
+	- Check in with your pair according to the Pairing is Caring* video. 
 	- Decide which of you will be driver and navigator, discuss what each role requires, and stick with it. 
 	- Ask your pair to switch roles so you each know your responsibilities
 	- Keep communication open and tell your pair when you need time to think
@@ -43,7 +43,7 @@ You will be successful if you:
 	- Use feedback you've received to become a better pair
 	- Alternate between driving and navigating. Aim to spend about 50% of your time in each role.
 
-	
+*<a href="http://vimeo.com/76662569" target="_blank">Pairing is Caring</a>	
 
 
 ## Feedback
