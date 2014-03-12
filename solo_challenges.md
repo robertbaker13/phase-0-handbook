@@ -1,6 +1,6 @@
 # Solo Challenges
 
-Each week you will have one challenge specifically designated as a solo challenge. This challenge is different, and needs to be addressed on its own terms. 
+Each week (after week 1) you will have one challenge specifically designated as a solo challenge. This challenge is different, and needs to be addressed on its own terms. 
 
 
 ## Purpose
