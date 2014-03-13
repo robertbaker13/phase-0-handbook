@@ -5,7 +5,7 @@
 Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes, but it's not as easy as it may seem. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. Building relationships like this takes practice, so we've incorporated pair programming into Phase 0!  
 
 
-<a href="http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/" target="_blank">Pair Programming Considered Extremely Beneficial</a>
+[Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)
 
 
 ## Expectations
@@ -43,15 +43,15 @@ You will be successful if you:
 	- Use feedback you've received to become a better pair
 	- Alternate between driving and navigating. Aim to spend about 50% of your time in each role.
 
-*<a href="http://vimeo.com/76662569" target="_blank">Pairing is Caring</a>	
+*[Pairing is Caring](http://vimeo.com/76662569)	
 
 
 ## Feedback
 ###Submit Feedback
 
-You must complete feedback on <a href="https://socrates.devbootcamp.com/feedback" target="_blank">Feedbackinator</a> for every pairing session you complete to receive credit for it. If you do not submit feedback for your pair, we will not know you have done the pairing session, and you may be flagged for not meeting Phase 0 expectations. 
+You must complete feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback) for every pairing session you complete to receive credit for it. If you do not submit feedback for your pair, we will not know you have done the pairing session, and you may be flagged for not meeting Phase 0 expectations. 
 
-Make sure you watch <a href="http://vimeo.com/76762772" target="_blank">Engineering Empathy: EQ and Feedback</a> prior to giving feedback.**
+Make sure you watch [Engineering Empathy: EQ and Feedback prior to giving feedback](http://vimeo.com/76762772).**
 
 **All feedback must be anonymous to protect privacy.** Please, abstain from writing your pair's name anywhere in the free-form text to protect their privacy. Other students review each piece of feedback and rate it for kindness, actionability, and specificity and feedback will not reach a student if it is not rated high enough on each of these measures by other students. This means that all feedback is viewed by many students, and it's important not to bias anyone towards or against a student and make feedback feel safe. 
 
@@ -65,7 +65,7 @@ In order to make sure you and your pairs receive the feedback you've each submit
 
 *TIP: Rate 5 pieces of feedback at a time until you submit at least 20 pieces.* 
 
-**If you want another resource for help on writing good feedback, check out <a href="http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx" target="_blank">Seven Keys to Effective Feedback</a>
+**If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx)
 
 
 ### Problems and Tips

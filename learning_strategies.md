@@ -16,11 +16,11 @@ In order to be successful at Dev Bootcamp, students need to:
 5. Be excited to teach others
 5. Adopt, adapt, or create approaches to solving problems
 
-*Also see <a href = "http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/" target="_blank"> Learn to Code or Code to Learn?</a>*
+*Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/) *
 
 
 ## Learning and Thinking Styles
-As part of the prep work for Phase 0, we asked you to identify your <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a> and <a href="http://www.thelearningweb.net/personalthink.html" target="_blank"> Gregorc thinking style</a>. We ask you to do this so you can better tailor your experience at Dev Bootcamp to your unique learning needs. For example, if you are a multimodal learner who is an Abstract Random (AR) thinker, you will probably not do as well coding by yourself without any resources to guide you. You would do better to have a couple of videos, bits of reading, and a pair to work with to solve challenges. 
+As part of the prep work for Phase 0, we asked you to identify your [VARK learning style](http://www.vark-learn.com/english/page.asp?p=questionnaire) and [Gregorc thinking style](http://www.thelearningweb.net/personalthink.html) . We ask you to do this so you can better tailor your experience at Dev Bootcamp to your unique learning needs. For example, if you are a multimodal learner who is an Abstract Random (AR) thinker, you will probably not do as well coding by yourself without any resources to guide you. You would do better to have a couple of videos, bits of reading, and a pair to work with to solve challenges. 
 
 There is not one way to learn how to program or be a programmer, and we are not trying to make you into the "typical" programmer who works by him/herself and solves all problems without help. 
 
