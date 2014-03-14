@@ -20,12 +20,17 @@ Regarding changing cohorts or withdrawing
 
 
 ##### Contact your Phase 0 Facilitator
-Regarding your progress, learning strategies, GPS, *and anything not included elsewhere*
+Regarding 
+- Changing cohorts or withdrawing
+- Your progress
+- Learning strategies
+- GPS
+- *and anything not included elsewhere*
 
 |Location |Contact |
 |---------|--------|
 |Chicago | <mailto:abi@devbootcamp.com>|
 |New York City | <mailto:rebecca@devbootcamp.com>|
-|San Francisco| <mailto:maria@devbootcamp.com>
+|San Francisco| <mailto:greg@devbootcamp.com>
 
 
