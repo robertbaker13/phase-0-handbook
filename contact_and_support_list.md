@@ -20,7 +20,7 @@ Regarding
 |Location |Contact |
 |---------|--------|
 |Chicago | <mailto:abi@devbootcamp.com>|
-|New York City | <mailto:rebecca@devbootcamp.com>|
+|New York City | <mailto:samblackman@devbootcamp.com>|
 |San Francisco| <mailto:greg@devbootcamp.com>
 
 
