@@ -34,7 +34,7 @@ Each student is required to attend five Guided Pairing Sessions (GPS) during Pha
 
 * Please connect to a reliable internet network in a quiet place
 * Wear headphones during GPS to reduce feedback
-* Cancel any sessions you cannot make (via [TimeCenter](https://www.timecenter.com/devbootcamp/)) **at least 6 hours prior** to your appointment. *Note: Chicago and NYC students should disregard this and email coaches directly for cancellations.*
+* Cancel any sessions you cannot make **more than 6 hours prior to your session.**
 * If you have something come up last minute, email your instructor and pair to let them know you will not be able to attend the session.
 * Please note: We only create enough sessions for every person to attend one. Please bear that in mind and try to avoid missing or having to reschedule any sessions.
 * If you need to reschedule, but all appointments are booked, please make an announcement to your cohort through email or on your community page to ask someone to switch.
