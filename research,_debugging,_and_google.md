@@ -28,7 +28,7 @@ You won't use these in Phase 0, but we want you to know they exist
 
 You should try to solve a challenge or at least psuedo-code using just what you've learned and the resources we've given you.  If you get stuck or during refactoring, you can feel free to google for help.
 
-However, **you should always understand the code you submit**.  If you cannot describe the solution to a non-technical person (a "[rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging")"), then you should not submit that code.
+However, **you should always understand the code you submit**.  If you cannot describe the solution to a non-technical person (a "[rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging)"), then you should not submit that code.
 
 Learning by reading and understanding other people's code is one thing. Stealing code is another. This is particularly important for Solo Challenges, Assessments, and later, job interviews.
 
