@@ -15,7 +15,7 @@ You can track your own progress by checking in to see if you’re fulfilling com
 ### Guided Pairing Sessions
 You are expected to attend all guided pairing sessions. Please see [Guided Pairing Sessions](guided_pairing_sessions.md)  for more help and details. 
 ### Peer Pairing Sessions
-You are expected to pair with a peer at least six times each unit. See [Peer-Pairing Sessions](peer-pairing_sessions.md)  for more information. 
+You are expected to pair with a peer at least 3-4 times each unit. See [Peer-Pairing Sessions](peer-pairing_sessions.md)  for more information. 
 ### Reflections
 You will be asked to submit a reflection at the end of each unit. It is due the last Sunday at 11:59pm. 
 ### Challenges
