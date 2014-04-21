@@ -40,4 +40,4 @@ Please include (just copy paste and fill in):
 4. New email address:
 5. Do you want your email changed in Socrates as well? 
 
-This will change where your we email updates and calendar permissions. 
+This will change where we email updates and calendar permissions. 
