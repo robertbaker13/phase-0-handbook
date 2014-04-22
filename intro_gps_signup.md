@@ -15,14 +15,15 @@ When you receive that email, add both calendars to your account.
 1. Click on a session you want
 2. Check the number of guests listed under guests. If there are 3 for a GPS or 6 for an intro session, the session is full. 
 3. If the session is not full, please add your email address under "guests" and change the remaining number of spots.
-If the session is full change the [1 left] to [FULL]. Make sure you save the changes! You do not need to send updates to existing guests. 
+If the session is full change the [1 left] to [FULL]. Make sure you save the changes! Then click the button that does not send invites to existing guests. Please do not click the "X" on this modal. It may not save the session properly.
 4. To cancel, you will need to go to the **master calendar** and click the 'x' next to your email address - then SAVE. 
-DO NOT USE the RSVP - That is the event on your personal calendar and will just cause confusion for people looking 
+**DO NOT USE the RSVP** - That is the event on your personal calendar and will just cause confusion for people looking 
 at the master since they won't know whether you canceled as an accident.  You need to cancel attendence at least 6 hours in advance to
 give other students a chance to sign up. We only offer enough sessions for every student to attend one. 
 **It goes without saying that you should be very careful not to delete anyone else's name from the session.**
 5. When you add your email to the session, you will also have the same session appear on your personal 
 gmail calendar. So if everything was done properly, you should see two sessions side by side.
+6. **DOUBLE CHECK** your email is added to the master session and that your personal copy looks the exact same (has a video call and guests). If there are any discrepancies between the master and your own, something probaby messed up somewhere. Try again. 
 
 When the time for your GPS arrives, click the "Join Video Call" link in the invite. 
 
