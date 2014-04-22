@@ -32,7 +32,7 @@ If you have any issues getting into the session, please contact the session crea
 If you have any questions, problems, or concerns, please contact us.
 
 ## How to change your email address:
-Please send us an email with the subject "Change email address"
+Please send <mailto:kelly@devbootcamp.com> an email with the subject "Change email address"
 Please include (just copy paste and fill in):
 
 1. Name:
