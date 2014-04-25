@@ -6,7 +6,7 @@
 3. **Progress, changing cohorts, learning strategies, Guided Pairing Sessions, expectations, etc.** contact <mailto:kelly@devbootcamp.com>
 
 #### Instructor:
-**Your feedback for a specific GPS session or code review** contact the specific instructor/coach using their name@devbootcamp.com
+**Your feedback for a specific GPS session or code review** contact the specific instructor or guide.
 
 
 <!--
