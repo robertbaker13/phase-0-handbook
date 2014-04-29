@@ -10,26 +10,26 @@
 
 | Guide Name | email |
 |------------|-------|
-| Allen Dayag | a.dayag@gmail.com |
-| Andrew Wittrock | awittrock@gmail.com |
-| Dominic Scotto | dominicscotto@gmail.com |
-| Emily Anderson | anderson.emilyhi@gmail.com |
-| Emily Foley | foleyemilym@gmail.com |
-| Emmanuel Kaunitz | ekaunitz@gmail.com |
-| Jacky Sum | jsum528@gmail.com |
-| Jess Unrein | j.l.unrein@gmail.com |
-| John Norton | john.j.norton@gmail.com |
-| Jonathan Howden | jonathanhowden@gmail.com |
-| Jonathan Wu | jonathan.x.wu@gmail.com |
-| Justin Park | jpark3000@gmail.com |
-| Laura Crowe | lleecrowe@gmail.com |
-| Lorena Mesa | lorena.n.mesa@gmail.com |
-| Matt Higgins | matthew.alan.higgins@gmail.com |
-| Mohit Ramchandani | mohitr35@gmail.com |
-| Neal Peters | nealcpeters@gmail.com |
-| Priya Mathew | pri1229@gmail.com |
-| Rick Rubio | rickarubio@gmail.com |
-| Roy Lee | lee.sh.roy@gmail.com |
+| Allen Dayag | <mailto:a.dayag@gmail.com> |
+| Andrew Wittrock | <mailto:awittrock@gmail.com> |
+| Dominic Scotto | <mailto:dominicscotto@gmail.com> |
+| Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
+| Emily Foley | <mailto:foleyemilym@gmail.com> |
+| Emmanuel Kaunitz | <mailto:ekaunitz@gmail.com> |
+| Jacky Sum | <mailto:jsum528@gmail.com> |
+| Jess Unrein | <mailto:j.l.unrein@gmail.com> |
+| John Norton | <mailto:john.j.norton@gmail.com> |
+| Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
+| Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
+| Justin Park | <mailto:jpark3000@gmail.com> |
+| Laura Crowe | <mailto:lleecrowe@gmail.com> |
+| Lorena Mesa | <mailto:lorena.n.mesa@gmail.com> |
+| Matt Higgins | <mailto:matthew.alan.higgins@gmail.com> |
+| Mohit Ramchandani | <mailto:mohitr35@gmail.com> |
+| Neal Peters | <mailto:nealcpeters@gmail.com> |
+| Priya Mathew | <mailto:pri1229@gmail.com> |
+| Rick Rubio | <mailto:ickarubio@gmail.com> |
+| Roy Lee | <mailto:lee.sh.roy@gmail.com> |
 <!--
 ##### Contact your Phase 0 Facilitator
 Regarding 
