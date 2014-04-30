@@ -18,7 +18,7 @@ It's important to note that **fetching changes will NOT override your work.** On
 ![Sync](imgs/3.jpg)
 
 ####5. Change the "Primary remote repository" back to your forked repository
-![Setup](imgs/4.jpg)
+![Change back](imgs/4.jpg)
 
 ####6. Press "Update Remote"
 
