@@ -32,7 +32,7 @@ They are listed under the "About this Community" section on the main page. You s
 
 ####7. [Watch the "Stypi Tutorial"](https://vimeo.com/76870082)
 
-####8. Finish reading through the [Phase 0 Handbook](./)! You want to be well acquainted with the program!
+####8. Finish reading through the [Phase 0 Handbook](readme.md)! You want to be well acquainted with the program!
 
 
 ### Competency-Based
