@@ -45,3 +45,16 @@ You will be successful if you:
 
 *[Pairing is Caring](http://vimeo.com/76662569)	
 
+
+### Problems and Tips
+Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
+
+**Problem: "My pair isn't responding to my messages."**<br>
+*Tip: How did you contact them? A number of students have had issues contacting others via google. Try contacting your pair via email. If you still have difficulty, let your facilitator know and they can try to put you in contact with one another.*
+
+**Problem: "My pair stood me up!"**<br> 
+*Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that there actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
+
+
+**Problem: "My pair drove AND navigated during the session."**<br>
+*Tips: If you didn't clarify who would drive and navigate from the outset, you can ask to clarify it anytime in the session. If you did identify who would drive and navigate, but you feel you aren't able to play your role, you can ask your pair to take a step back on your duties so you can fulfill them. Try asking questions about potential design choices and offer your own ideas. Finally, if nothing is working, you can tell your pair that you need a break from the session and say you can reschedule for later since you don't feel the session is beneficial at the moment.*
