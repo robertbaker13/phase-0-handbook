@@ -1,4 +1,4 @@
-[Table of Contents](./)
+[Table of Contents](readme.md)
 
 # Frequently Asked Questions
 This will be updated as you ask questions on the google+ community. 

@@ -1,4 +1,4 @@
-[Table of Contents](./)
+[Table of Contents](readme.md)
 
 # Contact and Support List
 

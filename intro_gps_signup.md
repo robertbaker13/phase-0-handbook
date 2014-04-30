@@ -1,4 +1,4 @@
-[Table of Contents](./)
+[Table of Contents](readme.md)
 
 # How to Sign Up for Intro Sessions and GPS
 

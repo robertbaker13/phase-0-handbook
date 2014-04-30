@@ -1,4 +1,4 @@
-[Table of Contents](./)
+[Table of Contents](readme.md)
 
 # Pairing in Phase 0
 

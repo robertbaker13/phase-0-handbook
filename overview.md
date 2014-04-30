@@ -1,4 +1,4 @@
-[Table of Contents](./)
+[Table of Contents](readme.md)
 
 # Welcome to Dev Bootcamp's Phase 0!
 
