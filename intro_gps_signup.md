@@ -16,20 +16,21 @@ When you receive that email, add both calendars to your account.
 2. Check the number of guests listed under guests. If there are 3 for a GPS or 6 for an intro session, the session is full. 
 3. If the session is not full, please add your email address under "guests" and change the remaining number of spots.
 If the session is full change the [1 left] to [FULL]. Make sure you save the changes! Then click the button that does not send invites to existing guests. Please do not click the "X" on this modal. It may not save the session properly.
-4. To cancel, you will need to go to the **master calendar** and click the 'x' next to your email address - then SAVE. 
-**DO NOT USE the RSVP** - That is the event on your personal calendar and will just cause confusion for people looking 
-at the master since they won't know whether you canceled as an accident.  You need to cancel attendence at least 6 hours in advance to
-give other students a chance to sign up. We only offer enough sessions for every student to attend one. 
-**It goes without saying that you should be very careful not to delete anyone else's name from the session.**
-5. When you add your email to the session, you will also have the same session appear on your personal 
+4. When you add your email to the session, you will also have the same session appear on your personal 
 gmail calendar. So if everything was done properly, you should see two sessions side by side.
-6. **DOUBLE CHECK** your email is added to the master session and that your personal copy looks the exact same (has a video call and guests). If there are any discrepancies between the master and your own, something probaby messed up somewhere. Try again. 
+5. **DOUBLE CHECK** your email is added to the master session and that your personal copy looks the exact same (has a video call and guests). If there are any discrepancies between the master and your own, something probably messed up somewhere. Try again. 
 
 When the time for your GPS arrives, click the "Join Video Call" link in the invite. 
 
 If you have any issues getting into the session, please contact the session creator (listed in the event). They will be able to help you.
 
 If you have any questions, problems, or concerns, please contact us.
+
+#### To Cancel a GPS Session
+**You must cancel at least 6 hours in advance!** 
+- Go to the **master calendar** and click the 'x' next to your email address, change the number of spots left in the title -- then **SAVE**. 
+- **DO NOT USE the RSVP to cancel** - That is the event on your personal calendar and will not remove you from the session.
+- It goes without saying that you should be very careful not to delete anyone else's name or sessions from the master calendar. 
 
 ## How to change your email address:
 Please send <mailto:kelly@devbootcamp.com> an email with the subject "Change email address"
