@@ -33,6 +33,7 @@ It's important to note that **fetching changes will NOT override your work.** On
 **Note: Syncing your fork only updates your local copy of the repository; it does not update your repository on GitHub.**
 
 ### Setting up a new remote (link to a repository hosted on github.com)
+*You'll only need to do set up a remote once!*
 
 ####1. Check your current remote. This should link to your personal fork. 
 
