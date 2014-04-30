@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # Phase 0 Prerequisities
 
 Before you begin Phase 0, there are prerequisites that need to be met to ensure you are prepared for the experience. Please make sure to complete each task *prior to the start of week 1.*

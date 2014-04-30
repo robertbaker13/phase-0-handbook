@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # How to Sign Up for Intro Sessions and GPS
 
 We are using google calendars to sign up for introductory sessions and GPSs. It's a bit of a learning curve 

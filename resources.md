@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 ## Resources and Reading List
 
 #### Ruby

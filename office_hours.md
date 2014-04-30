@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # Office Hours
 
 Phase 0 provides at least 10 office hours per week. These are times where an Prep Guide will enter the [collaboration hangout](https://plus.google.com/hangouts/_/event/cn84s0i6f761j9rpv4a3ljddg0o?authuser=0&hl=en) to answer any of your questions. 

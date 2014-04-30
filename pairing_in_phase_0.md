@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # Pairing in Phase 0
 
 ## Background on Pair Programming

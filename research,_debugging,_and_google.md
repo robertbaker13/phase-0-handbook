@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # Research, Debugging, and Google
 
 Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  This site (Github) was built to help people share code.

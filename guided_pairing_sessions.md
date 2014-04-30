@@ -1,3 +1,5 @@
+[Table of Contents](./)
+
 # Guided Pairing Sessions (GPS)
 
 ## Purpose
