@@ -9,7 +9,7 @@ Pair programming has gained in popularity among companies as enabling developers
 
 
 ## Expectations
-As part of Phase 0, students are expected to pair program with a member of your cohort at least three times in unit 1 and four times in units 2 and 3.** 
+As part of Phase 0, students are expected to pair program with a member of your cohort at least four times in unit 1 and six times in units 2 and 3.** (Try to pair at least twice per week).
 
 * It is up to you to arrange pairing sessions with your cohort mates at a time that suits both parties**
 * You should set aside at least 45 minutes for each pairing session
