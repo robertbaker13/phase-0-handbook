@@ -7,18 +7,18 @@ It's important to note that **fetching changes will NOT override your work.** On
 ## Using the Github App
 
 ####1. Go to the settings tab
-![Setup](../imgs/1.jpg)
+![Setup](imgs/1.jpg)
 
 ####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase_0_unit_1)
-![Change remote](../imgs/2.jpg)
+![Change remote](imgs/2.jpg)
 
 ####3. Press "Update Remote"
 
 ####4. Press "Sync Branch"
-![Sync](../imgs/3.jpg)
+![Sync](imgs/3.jpg)
 
 ####5. Change the "Primary remote repository" back to your forked repository
-![Setup](../imgs/4.jpg)
+![Setup](imgs/4.jpg)
 
 ####6. Press "Update Remote"
 
@@ -47,7 +47,8 @@ $ git remote -v
 ####2. Set up a new remote
 
 ```shell
-$ git remote add upstream https://github.com/Devbootcamp/phase_0_unit_1.git #You are adding Devbootcamp's repository saying you want to be able to fetch (grab changes) from it.
+$ git remote add upstream https://github.com/Devbootcamp/phase_0_unit_1.git 
+# You are adding Devbootcamp's repository saying you want to be able to fetch (grab changes) from it.
 
 ```
 
