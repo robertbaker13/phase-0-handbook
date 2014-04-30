@@ -4,13 +4,13 @@
 
 
 ## Expectations
-You will be expected to put at least 10-15 hours of work per week during Phase 0, which will last for the next 9 weeks until you start Phase 1 on site.
+You will be expected to put in at least 10-15 hours of work per week during Phase 0, which will last for the next 9 weeks until you start Phase 1 on site.
 
-You are now starting Unit 1. Phase 0 is divided into thee Units, each unit is three weeks long.
+You are now starting Unit 1. Phase 0 is divided into three Units, each unit is three weeks long.
 
 DBC is a fine balance between taking responsibility for your own education, tracking your own progress, exposing your needs and ignorance to your teachers, and also being supported and held accountable by us.  You’re learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process.  Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at DBC.
 
-You can track your own progress by checking in to see if you’re fulfilling completing the expectations and challenges on time, and if you’re able to demonstrate the learning objectives. You will be held accountable by us at certain checkpoints, the most important of which is at the end of Unit 1. You should always feel free  to write us and ask for more orientation and guidance.
+You can track your own progress by checking in to see if you’re fulfilling expectations, completing challenges on time, and if you’re able to demonstrate the learning competencies. You will be held accountable by us at certain checkpoints, the most important of which is at the end of Unit 1. You should always feel free  to write us and ask for more orientation and guidance.
 
 **We’d like to make what we mean by objectives and expectations as clear as possible:**
 
@@ -21,7 +21,7 @@ You are expected to pair with a peer a number of times each unit. See [Peer-Pair
 ### Reflections
 You will be asked to submit a reflection at the end of each unit. It is due the last Sunday at 11:59pm. 
 ### Challenges
-Completion of challenges is not that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest,  best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.  
+Completing challenges does not mean that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest,  best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.  
 
 If you are starting as a bashful beginner, your attempts may not even yield a working solution.  This is OK.  The most important thing we need to see is your engagement, your dedication to learning the material.  If your solution ends up being 30 lines of pseudocode and you don't know where to begin, make a comment saying where you are stuck and submit it.  Then reach out to your cohort mates to see if anyone has solved the challenge and pair with them.
 
