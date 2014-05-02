@@ -25,13 +25,15 @@ We expect all students and staff to show kindness by providing feedback and code
 
 
 ## The third agreement: Effort
-This may be the most straight-forward agreement. In essence, we expect every person to put in the maximum amount of energy into each challenge every day. This means that we expect you to do your best to meet each learning competency. If you are struggling, we expect you to ask others (including staff) for help.
+This may be the most straight-forward agreement. In essence, we expect you to bring your whole self (your intelligence, focus, and creativity) into each challenge every day. This means that we expect you to do your best to meet each learning competency. If you are struggling, we expect you to ask others (including staff) for help.
 
-We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The DBC experience is fundamentally about *learning*. We expect students to demonstrate effort and their mastery of each learning competency by completing the challenges. 
+We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The DBC experience is fundamentally about *learning*. We expect students to demonstrate effort and mastery of each learning competency by completing the challenges. 
 
 ***
 
 Not meeting these agreements are grounds for being asked to leave the program (at any phase). 
 
-We will send periodic updates to students who have not submitted their work, missed a Guided Pairing Session (GPS), or have fallen out of integrity in other ways. These emails are not meant to shame students. Rather, we want to remind students of their agreement to come to DBC in integrity, with kindness, and with effort everyday. We want to give all students the opportunity to meet these agreements. We recognize difficulties arise which cause students to be unable to meet these each week, so it's vital students communicate with staff and their fellow students. 
+We will send periodic updates to students who have not submitted their work, missed a Guided Pairing Session (GPS), or have fallen out of integrity in other ways. These emails are not meant to shame. Rather, we simply want to remind you of your agreement to come to DBC in integrity, with kindness, and with effort everyday. We want to give everyone the opportunity to meet these agreements. 
+
+However, we recognize that life happens which can make it impossible to complete every challenge. In these situations, it's vital that students communicate with staff regularly to create a personal action plan that will get them on track and back in sync with these agreements. 
 
