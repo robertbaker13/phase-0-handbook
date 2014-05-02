@@ -4,9 +4,11 @@ At Dev Bootcamp, we have three agreements that guide our actions (this includes 
 
 
 ## The first agreement: Integrity
-In simplest form, this means being honest. When I was in elementary school, it was taught to me as "doing the right thing even when no one is watching." 
+In simplest form, this means being honest. One way to embody integrity is "doing the right thing even when no one is watching." 
 
-At Dev Bootcamp, we expect people to be in integrity by:
+At Dev Bootcamp, we are asking you to do a crazy thing: to learn how to be a web developer within a matter of weeks.  For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have made Dev Bootcamp be successful. 
+
+At Dev Bootcamp, we have rules put in place that support an optimal learning environment and ensure that everyone gets the most out of the program.  We expect you to be in integrity with these rules:
 - Showing up on time
 - Working through the curriculum each week
 - Communicating with your accountability group and Phase 0 staff when you are struggling
