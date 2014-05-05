@@ -5,9 +5,10 @@
 We are using google calendars to sign up for introductory sessions and GPSs. It's a bit of a learning curve
 at first, but bear with us.
 
-You should receive an email from maria@devbootcamp.com saying a calendar was shared with you. NOTE: It's only
+### Calendar Links
+You may receive an email from maria@devbootcamp.com saying a calendar was shared with you. NOTE: It's only
 shared with the email address the invite was sent to. If that is not a google account, or you use a different
-calendar (with a different email), please email us according to the instructions below.
+calendar (with a different email), please email us according to the instructions below. If you do not receive an email, please look on your google+ community under "About this community." The links are located there as well.. 
 
 You can also follow this [video](http://vimeo.com/92005818) on how to sign up.
 
