@@ -21,8 +21,9 @@ You are expected to attend all guided pairing sessions. Please see [Guided Pairi
 ### Peer Pairing Sessions
 You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing_sessions.md) for more information. 
 
-### Reflections
-You will be asked to submit a reflection at the end of each unit. It is due the last Sunday at 11:59pm.
+###Submissions
+You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.
+
 ### Challenges
 
 Completing challenges does not mean that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest, best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.
