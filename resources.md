@@ -56,3 +56,4 @@
 - [GitHub for Beginners, Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oCnoK6Ohf5NlNs)
 - [Try Git](https://www.codeschool.com/courses/try-git)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
+- [Git Immersion](http://gitimmersion.com/)
