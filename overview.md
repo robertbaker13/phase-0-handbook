@@ -4,7 +4,7 @@
 
 
 ## Expectations
-You will be expected to put in at least 10-15 hours of work per week during Phase 0, which will last for the next 9 weeks until you start Phase 1 on site.
+You will be expected to put in at least 15-25 hours of work per week (depending on experience) during Phase 0, which will last for the next 9 weeks until you start Phase 1 on site.
 
 You are now starting Unit 1. Phase 0 is divided into three Units, each unit is three weeks long.
 
