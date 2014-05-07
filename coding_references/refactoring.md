@@ -1,4 +1,4 @@
-### Refactoring
+# How to Refactor
 
 When you return to your solution. Ask yourself:
 - Are the variable names you've chosen clear? (see [Tips for Naming Variables](https://web.archive.org/web/20131212155508/http://www.makinggoodsoftware.com/2009/05/04/71-tips-for-naming-variables/))

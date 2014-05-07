@@ -1,13 +1,20 @@
-# Reviewing Solutions
+# How to Review Other's Solutions
 
-Review two of your accountability group members' solutions, and give them kind, specific, and actionable feedback. 
+We use a github feature "issues" to give feedback to other students. The instructions for doing this are below. 
 
-**Try to review others' solutions equally this week.**
+
+### Make sure your repo's "Issues" are enabled
+For each Phase 0 Repository, you will need to have issues enabled to be able to get feedback. 
+
+Please do this for each repo you have. Click on **settings** on the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
 
 ### How to find other solutions
 Take a look at some other students' solutions to the challenges. To do this, go to the fork icon at the top of your repo. There
 should be a number next to it. Click on the number. It will take you to a graph, but above the graph, there will be a "Members" tab. 
 Click on it. You should then see all the forks by other students.
+
+### Who to Review
+Review one of your accountability group members' solutions and another student who is not in your accountability group. Give them actionable, specific, and kind (ASK) feedback. If they do not have issues enabled, please let them know and remind them to do so. 
 
 ### How to create a new issue
 1. Click on "Issues"
