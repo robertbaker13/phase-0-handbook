@@ -18,7 +18,7 @@ At Dev Bootcamp, we have codes of conduct that support an optimal learning envir
 - Posting and responding to questions on the community
 - Going through the entire process outlined in each challenge
 
-Part of being in integrity also means that when you fall out of it for whatever reason (such as being a human being) you own up to it.  Most of the time all it takes is and aknowledgment of being out of integrity and everybody can move on.
+Part of being in integrity also means that when you fall out of it for whatever reason (such as being a human being) you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
 
 ## The second agreement: Kindness
 We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does not preclude giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK). 
