@@ -1,12 +1,41 @@
 # How to Pseudocode
 
-Based on the provided test code, your own driver test code, or challenge instructions, you should have an idea of what your code needs to accomplish.
+You should have tests already created (whether it's RSpec tests, JavaScript tests, or your own driver test code/assert statements)
 
-In the pseudocode section of your `my_solution` file, identify the input to the class or method and output (what you expect to get).
+The first thing you should do (before even starting to pseudocode) is to run the tests. Each test should fail. 
 
-You probably already have driver test code written. Looking at your tests, write specific step-by-step ideas in code-like English to pass each of the tests. 
+Then, in the pseudocode section of your `my_solution` file, identify what you are inputting to the class/method/code and what you need the code to output (what you expect to get).
 
-Each line should be something you can easily translate into code. 
-For help with writing pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example.
+From there, look at each test and write specific step-by-step ideas in code-like English to pass each of the tests. 
 
-*NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
+Each line should be something you can easily translate into code.
+
+For example, if you are trying to convert every letter in a string to a number based on its location in the alphabet, you would probably want more info than this:
+
+```ruby
+# PSEUDOCODE
+# Input = string with letters
+# Output = string with numbers
+
+# Convert all letters into their numbers
+```
+
+Instead, you would probably want something more like:
+
+```ruby
+#PSEUDOCODE
+# Create array all letters
+# split input of letters into array
+# Iterate through the input array 
+# Check index of letter in all_letters array
+# index = index + 1
+# push index to new array
+# Convert finished array of numbers to string
+```
+
+You should feel free to supplement your pseudocoding with trying things out in IRB.
+
+If you would like guidance or an some ideas on how to write pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example.
+
+Pseudocode is for you. It may seem trivial and silly  for simple challenges, but its an important and necessary step when you are working on more complex problems. You will want to get into practice of pseudocoding early so you are prepared for organizing your thoughts when it's required. 
+
