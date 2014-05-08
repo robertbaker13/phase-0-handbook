@@ -6,7 +6,7 @@
 ## Expectations
 You will be expected to put in at least 15-25 hours of work per week (depending on experience) during Phase 0, which will last for the next 9 weeks until you start Phase 1 on site.
 
-You are now starting Unit 1. Phase 0 is divided into three Units, each unit is three weeks long.
+You are now starting Unit 1. Phase 0 is divided into three Units. Each Unit is three weeks long.
 
 DBC is a fine balance between taking responsibility for your own education, tracking your own progress, exposing your needs and ignorance to your teachers, and also being supported and held accountable by us.  You’re learning this balance in Phase 0, and it might get confusing or frustrating at times but that’s all part of the process.  Learning it here, during Phase 0, is what will help you maintain that balance during your 9 weeks at DBC.
 
