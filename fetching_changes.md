@@ -4,7 +4,7 @@ Devbootcamp makes modifications and edits to the curriculum often. When this hap
 
 It's important to note that **fetching changes will NOT override your work.** On the rare occasion we do modify a 'my_solution' file, you may have a merge conflict, All you'll have to do is select which parts you want. This is not likely to happen, so don't worry about it much. 
 
-Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update. Check this by running `git branch` in your terminal. DO NOT try fetching these changes into your [USERNAME].github.io repo. You will mess things up!
+Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase_0_unit_1`, `phase_0_unit_2`, or `phase_0_unit_3`. Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
 
 ## Using the Github App
 
