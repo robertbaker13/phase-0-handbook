@@ -26,6 +26,7 @@
 - [Mozilla's CSS - Getting Started](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) (sections 1-6 if you're unfamiliar with CSS, sections 3-5 if you're familiar with CSS)
 - [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
 - [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
+- [The Difference Between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/) 
 - [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
 - [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
