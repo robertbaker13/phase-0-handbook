@@ -3,7 +3,7 @@
 ## Resources and Reading List
 
 #### Surviving DBC
-- [One student's thoughts on surviving week 1](http://slides.com/goodproduce/surviveweekone)
+- [One student's thoughts on surviving week 1 of Phase 1](http://slides.com/goodproduce/surviveweekone)
 
 #### Ruby
 - [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
