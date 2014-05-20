@@ -6,6 +6,7 @@
 - [One student's thoughts on surviving week 1 of Phase 1](http://slides.com/goodproduce/surviveweekone)
 
 #### Ruby
+- [A Beginners Guide to Ruby](http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/)
 - [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
 - [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
