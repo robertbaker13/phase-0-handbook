@@ -6,31 +6,10 @@ It's important to note that **fetching changes will NOT override your work.** On
 
 Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase_0_unit_1`, `phase_0_unit_2`, or `phase_0_unit_3`. Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
 
-## Using the Github App
-
-####1. Go to the settings tab
-![Setup](imgs/1.jpg)
-
-####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase_0_unit_1)
-![Change remote](imgs/2.jpg)
-
-####3. Press "Update Remote"
-
-####4. Press "Sync Branch"
-![Sync](imgs/3.jpg)
-
-####5. Change the "Primary remote repository" back to your forked repository
-![Change back](imgs/4.jpg)
-
-####6. Press "Update Remote"
-
-####7. You should now see the updated files in your local repository!
-
-####8. You'll need to sync these changes with your fork to see them on Github.com!
-
 
 ## Using the Command Line 
-*(adapted from [Github](https://help.github.com/articles/syncing-a-fork))*
+*For Windows, Linux, and OSX. For week 1 and 2, if you are an OS user, you can use the app instructions below. Starting in week 3, everyone should use the command line.*
+*(Adapted from [Github](https://help.github.com/articles/syncing-a-fork)).*
 
 **Note: Syncing your fork only updates your local copy of the repository; it does not update your repository on GitHub.**
 
@@ -131,3 +110,26 @@ $ git push origin master
 
 ###4. Check github.com!
 Look at your master branch on github.com. It should have your forked changes!
+
+## Using the Github App (OS only)
+*If you're using windows/linux, you'll need to look at the terminal instructions*
+
+####1. Go to the settings tab
+![Setup](imgs/1.jpg)
+
+####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase_0_unit_1)
+![Change remote](imgs/2.jpg)
+
+####3. Press "Update Remote"
+
+####4. Press "Sync Branch"
+![Sync](imgs/3.jpg)
+
+####5. Change the "Primary remote repository" back to your forked repository
+![Change back](imgs/4.jpg)
+
+####6. Press "Update Remote"
+
+####7. You should now see the updated files in your local repository!
+
+####8. You'll need to sync these changes with your fork to see them on Github.com!
