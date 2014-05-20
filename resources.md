@@ -62,3 +62,7 @@
 - [Try Git](https://www.codeschool.com/courses/try-git)
 - [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
 - [Git Immersion](http://gitimmersion.com/)
+
+#### Typing and Shortcuts
+- [Typing.io](http://typing.io/)
+- [shortcutFoo](https://www.shortcutfoo.com/)
