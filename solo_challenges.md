@@ -10,7 +10,7 @@ Solo challenges are designed to provide you the opportunity to work on your own 
 
 From the instructor's perspective, solo challenges provide us with an example of your work. We use these to assess how you are doing and give you feedback. We want to see that you are following the process we've outlined (pseudocode, initial code, refactor, reflect) and are demonstrating your familiarity and ability to implement the objectives. We do not expect your code to be perfect; we expect it to show how you work through a problem on your own. 
 
-**Solo Challenges draw on the objectives for the week, and are in the middle in terms of difficulty. It would be a good idea to go through the other challenges prior to completing the solo challenge. 
+**Solo Challenges draw on the various learning competencies you are covering in that particular week, and are in the middle in terms of difficulty. It would be a good idea to go through the other challenges prior to completing the solo challenge. 
 
 ##Expectations
 ### Research
