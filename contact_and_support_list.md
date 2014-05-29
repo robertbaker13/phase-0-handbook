@@ -24,6 +24,7 @@
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
 | Justin Park | <mailto:jpark3000@gmail.com> |
+| Katherine Hayden | <mailto:katherineimogene@gmail.com> |
 | Laura Crowe | <mailto:lleecrowe@gmail.com> |
 | Lorena Mesa | <mailto:lorena.n.mesa@gmail.com> |
 | Matt Higgins | <mailto:matthew.alan.higgins@gmail.com> |
