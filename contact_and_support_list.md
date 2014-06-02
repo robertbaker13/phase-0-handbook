@@ -20,12 +20,10 @@
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
 | Emily Foley | <mailto:foleyemilym@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
-| Jacky Sum | <mailto:jsum528@gmail.com> |
 | Jess Unrein | <mailto:j.l.unrein@gmail.com> |
 | John Norton | <mailto:john.j.norton@gmail.com> |
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
-| Justin Park | <mailto:jpark3000@gmail.com> |
 | Katherine Hayden | <mailto:katherineimogene@gmail.com> |
 | Laura Crowe | <mailto:lleecrowe@gmail.com> |
 | Lorena Mesa | <mailto:lorena.n.mesa@gmail.com> |
