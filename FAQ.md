@@ -18,10 +18,10 @@ This will be updated as you ask questions on the google+ community.
   5. Do you want your email changed in Socrates as well? 
 
 **Q: Can we use DBC space in Phase 0?** <br>
-**A:** This is up to the location. In San Francisco, students are not able to use space on site during Phase 0, but each location has visiting hours. Please email your [facilitator](contact_and_support_list.md) to ask.
+**A:** In order to maintain an optimal learning environment for students in phases 1-3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events or ask to tour the space. Please email the [facilitator](contact_and_support_list.md) to begin the process of arranging a tour.
 
 **Q: What are the hours at DBC?** <br>
-**A:** This depends on the location. Ask your [facilitator](contact_and_support_list.md) in the introductory session.
+**A:** This depends on the location. Ask the [facilitator](contact_and_support_list.md) in the introductory session.
 
 **Q: I'm trying to add the office hour and cohort google calendar to my calendar, and it says I don't have access. What do I do?**<br>
 **A:** There are a few reasons this could happen, but it's almost always a permissions issue. As you can imagine, we don't want just ANYONE able to add themselves to
