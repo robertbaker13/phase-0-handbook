@@ -5,7 +5,9 @@
 ####Global:
 1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
 2. **Phase 0 curriculum, issues with this handbook, etc.** contact <mailto:maria@devbootcamp.com>
-3. **Progress, changing cohorts, learning strategies, Guided Pairing Sessions, expectations, etc.** contact <mailto:kelly@devbootcamp.com>
+3. **Progress, changing cohorts, learning strategies, Guided Pairing Sessions, expectations, etc.** contact <mailto:kelly@devbootcamp.com><br>
+<br>
+*Please Note: Global Staff work from 9am-6pm PST Monday through Friday. We do not work on weekends, but will get to any emails as soon as possible on Monday morning.* 
 
 #### Instructor:
 **Your feedback for a specific GPS session or code review** contact the specific instructor or guide.
