@@ -9,9 +9,9 @@ For each Phase 0 Repository, you will need to have issues enabled to be able to 
 Please do this for each repo you have. Click on **settings** on the "Features" section, add a check next to "Issues." This will allow others to give you feedback on your site!
 
 ### How to find other solutions
-Take a look at some other students' solutions to the challenges. To do this, go to the fork icon at the top of your repo. There
-should be a number next to it. Click on the number. It will take you to a graph, but above the graph, there will be a "Members" tab. 
-Click on it. You should then see all the forks by other students.
+Take a look at some other students' solutions to the challenges. To do this, go to the fork icon at the top of your repo. Thereshould be a number next to it. Click on the number. It will take you to a graph. Click on the username of the person whose solution you want to view. Then click on the repository name after their username at the top, which will take you to their fork of the repository. 
+
+You can also collect your other accountability members usernames and find it simply by substituting Devbootcamp with their username, which will take you to that person's fork.
 
 ### Who to Review
 Review one of your accountability group members' solutions and another student who is not in your accountability group. Give them actionable, specific, and kind (ASK) feedback. If they do not have issues enabled, please let them know and remind them to do so. 
