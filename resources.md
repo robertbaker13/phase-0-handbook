@@ -46,6 +46,7 @@
 
 ####SQL
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
+- [SQL tutorial](http://www.sqlcourse2.com/index.html)
 - [SQL SELECT statements](https://www.youtube.com/watch?v=DDIAnk6CRsU)
 - [SQL Tutorial on w3schools.org](http://www.w3schools.com/sql/default.asp)   
 - [Zetcode's SQLite Tutorial](http://zetcode.com/db/sqlite/)
