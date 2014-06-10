@@ -20,7 +20,6 @@
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
 | Emily Foley | <mailto:foleyemilym@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
-| Jess Unrein | <mailto:j.l.unrein@gmail.com> |
 | John Norton | <mailto:john.j.norton@gmail.com> |
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
