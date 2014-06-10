@@ -6,7 +6,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 1. [Overview](overview.md)
 2. [Phase 0 Prerequisites](phase_0_prerequisites.md)
-3. [IKE: Integrity, Kindness, and Effort](pillars.md)
+3. [IKE: Integrity, Kindness, and Effort](three-agreements.md)
 3. [Learning Strategies](learning_strategies.md)
 4. [Pairing in Phase 0](pairing_in_phase_0.md)
 5. [Signing up for Intro and GPS Sessions](intro_gps_signup.md)
