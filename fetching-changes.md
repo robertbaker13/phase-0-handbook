@@ -115,18 +115,18 @@ Look at your master branch on github.com. It should have your forked changes!
 *If you're using windows/linux, you'll need to look at the terminal instructions*
 
 ####1. Go to the settings tab
-![Setup](imgs/1.jpg)
+![Setup](imgs/setup.jpg)
 
 ####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase_0_unit_1)
-![Change remote](imgs/2.jpg)
+![Change remote](imgs/change-remote.jpg)
 
 ####3. Press "Update Remote"
 
 ####4. Press "Sync Branch"
-![Sync](imgs/3.jpg)
+![Sync](imgs/sync.jpg)
 
 ####5. Change the "Primary remote repository" back to your forked repository
-![Change back](imgs/4.jpg)
+![Change back](imgs/change-back.jpg)
 
 ####6. Press "Update Remote"
 

@@ -4,10 +4,10 @@
 This will be updated as you ask questions on the google+ community. 
 
 **Q: Are Introductory Sessions on Skype or Google?**<br>
-**A:** From this point, all of our sessions will be conducted via google hangout. If you signed up properly, you should have an event on your google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro_gps_signup.md) to sign up. 
+**A:** From this point, all of our sessions will be conducted via google hangout. If you signed up properly, you should have an event on your google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro-gps-signup.md) to sign up. 
 
 **Q: How do I change my DBC email address?** <br>
-**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should first change your email address on [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and then contact the [facilitator](contact_and_support_list.md) with the following template to change your address: 
+**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should first change your email address on [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and then contact the [facilitator](contact-and-support-list.md) with the following template to change your address: 
 
   Please include (just copy paste and fill in):
   
@@ -18,10 +18,10 @@ This will be updated as you ask questions on the google+ community.
   5. Do you want your email changed in Socrates as well? 
 
 **Q: Can we use DBC space in Phase 0?** <br>
-**A:** In order to maintain an optimal learning environment for students in phases 1-3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events or ask to tour the space. Please email the [facilitator](contact_and_support_list.md) to begin the process of arranging a tour.
+**A:** In order to maintain an optimal learning environment for students in phases 1-3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events or ask to tour the space. Please email the [facilitator](contact-and-support-list.md) to begin the process of arranging a tour.
 
 **Q: What are the hours at DBC?** <br>
-**A:** This depends on the location. Ask the [facilitator](contact_and_support_list.md) in the introductory session.
+**A:** This depends on the location. Ask the [facilitator](contact-and-support-list.md) in the introductory session.
 
 **Q: I'm trying to add the office hour and cohort google calendar to my calendar, and it says I don't have access. What do I do?**<br>
 **A:** There are a few reasons this could happen, but it's almost always a permissions issue. As you can imagine, we don't want just ANYONE able to add themselves to

@@ -23,7 +23,7 @@ Before you begin Phase 0, there are prerequisites that need to be met to ensure 
 ####3. Request to join your Google+ Community. The link will be given to you in your Phase 0 Welcome email. 
 This is **vital** to success in Phase 0. We communicate with students primarily through the community.
 
-####4. [Add the google calendars](intro_gps_signup.md) with the calendars in your google+ community. 
+####4. [Add the google calendars](intro-gps-signup.md) with the calendars in your google+ community. 
 They are listed under the "About this Community" section on the main page. You should have an office hours/ tutoring calendar and a cohort-specific calendar. 
 
 ####5. [Watch "EQ: Engineering Empathy and Feedback"](http://vimeo.com/76762772) **It's important you watch the whole thing!**

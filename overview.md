@@ -17,7 +17,7 @@ You can track your own progress by checking in to see if you’re fulfilling exp
 
 ### Guided Pairing Sessions
 
-You are expected to attend all guided pairing sessions. Please see [Guided Pairing Sessions](guided_pairing_sessions.md) for more help and details. 
+You are expected to attend all guided pairing sessions. Please see [Guided Pairing Sessions](guided-pairing-sessions.md) for more help and details. 
 ### Peer Pairing Sessions
 You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing_sessions.md) for more information. 
 
@@ -33,7 +33,7 @@ If you are starting as a bashful beginner, your attempts may not even yield a wo
 ***
 The objectives and challenges for each unit are not suggestions, and they are not optional.  These are expectations that we have of you in order for you to succeed and thrive during Phase 0, which will determine whether or not you’ll thrive during phases 1-3 at DBC.
 
-We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. [See Contacts](contact_and_support_list.md)
+We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. [See Contacts](contact-and-support-list.md)
 
 If you are not meeting these objectives and we do not know why, we start assuming one of two things:
 
