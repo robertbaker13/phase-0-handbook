@@ -6,7 +6,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 1. [Overview](overview.md)
 2. [Phase 0 Prerequisites](phase-0-prerequisites.md)
-3. [IKE: Integrity, Kindness, and Effort](pillars.md)
+3. [IKE: Integrity, Kindness, and Effort](three-agreements.md)
 3. [Learning Strategies](learning-strategies.md)
 4. [Pairing in Phase 0](pairing-in-phase-0.md)
 5. [Signing up for Intro and GPS Sessions](intro-gps-signup.md)
@@ -19,7 +19,8 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 12. [Tutoring Sessions](tutoring.md)
 13. [Contact and Support List](contact-and-support-list.md)
 14. [Phase 0 Reading/Resource List](resources.md)
-15. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
-16. [FAQ's](FAQ.md)
+15. [Text Editor Setup](text_editor_setup.md)
+16. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
+17. [FAQ's](FAQ.md)
 
 *To create an issue, look at the vertical navigation bar at the right. There should be a circle with an exclamation point. Click on that, and then click the "new issue" button. 
