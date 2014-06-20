@@ -8,7 +8,6 @@ Navigate to the appropriate directory in your terminal. Make sure you are in the
 
 
 ## Using the Command Line 
-*For Windows, Linux, and OSX. For week 1 and 2, if you are an OS user, you can use the app instructions below. Starting in week 3, everyone should use the command line.*
 *(Adapted from [Github](https://help.github.com/articles/syncing-a-fork)).*
 
 **Note: Syncing your fork only updates your local copy of the repository; it does not update your repository on GitHub.**
@@ -85,7 +84,7 @@ $ git branch
 #OR
 
 $ git checkout master
-# checks out to your master branch
+# switch to your master branch
 ```
 
 Then merge the changes.This will bring your master branch into sync with Devbootcamp's master branch - and you won't lose your local changes. 
@@ -103,33 +102,10 @@ If you did not have any un-synced commits, git will perform a "fast-forward".
 $ git commit -m "added Devbootcamp's changes"
 
 $ git push origin master
-# origin refers to your local repository
-# master refers to the master branch on your github.com forked repository
+# origin refers to the name of the remote repo
+# master refers to the name of the branch you are pushing
 
 ```
 
 ###4. Check github.com!
-Look at your master branch on github.com. It should have your forked changes!
-
-## Using the Github App (OS only)
-*If you're using windows/linux, you'll need to look at the terminal instructions*
-
-####1. Go to the settings tab
-![Setup](imgs/setup.jpg)
-
-####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase-0-unit-1)
-![Change remote](imgs/change-remote.jpg)
-
-####3. Press "Update Remote"
-
-####4. Press "Sync Branch"
-![Sync](imgs/sync.jpg)
-
-####5. Change the "Primary remote repository" back to your forked repository
-![Change back](imgs/change-back.jpg)
-
-####6. Press "Update Remote"
-
-####7. You should now see the updated files in your local repository!
-
-####8. You'll need to sync these changes with your fork to see them on Github.com!
+Look at your master branch on github.com. It should have your changes!
