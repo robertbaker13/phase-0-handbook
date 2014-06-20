@@ -4,7 +4,7 @@ Devbootcamp makes modifications and edits to the curriculum often. When this hap
 
 It's important to note that **fetching changes will NOT override your work.** On the rare occasion we do modify a 'my_solution' file, you may have a merge conflict, All you'll have to do is select which parts you want. This is not likely to happen, so don't worry about it much. 
 
-Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase_0_unit_1`, `phase_0_unit_2`, or `phase_0_unit_3`. Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
+Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase0-unit1`, `phase_0_unit_2`, or `phase_0_unit_3`. Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
 
 
 ## Using the Command Line 
@@ -29,7 +29,7 @@ $ git remote -v
 ####2. Set up a new remote
 
 ```shell
-$ git remote add upstream https://github.com/Devbootcamp/phase_0_unit_1.git 
+$ git remote add upstream https://github.com/Devbootcamp/phase0-unit1.git 
 # You are adding Devbootcamp's repository saying you want to be able to fetch (grab changes) from it.
 
 ```
@@ -39,8 +39,8 @@ $ git remote add upstream https://github.com/Devbootcamp/phase_0_unit_1.git
 ```shell
 origin    https://github.com/[your_username_here]/repo.git (fetch)
 # origin    https://github.com/[your_username_here]/repo.git (push)
-# upstream  https://github.com/Devbootcamp/phase_0_unit_1.git (fetch)
-# upstream  https://github.com/Devbootcamp/phase_0_unit_1.git (push) # You do not want to push to this repository!
+# upstream  https://github.com/Devbootcamp/phase0-unit1.git (fetch)
+# upstream  https://github.com/Devbootcamp/phase0-unit1.git (push) # You do not want to push to this repository!
 ```
 
 ### Syncing
@@ -56,7 +56,7 @@ $ git fetch upstream
 # remote: Compressing objects: 100% (53/53), done.
 # remote: Total 62 (delta 27), reused 44 (delta 9)
 # Unpacking objects: 100% (62/62), done.
-# From https://github.com/Devbootcamp/phase_0_unit_1
+# From https://github.com/Devbootcamp/phase0-unit1
 #  * [new branch]      master     -> upstream/master
 
 ```
@@ -117,7 +117,7 @@ Look at your master branch on github.com. It should have your forked changes!
 ####1. Go to the settings tab
 ![Setup](imgs/setup.jpg)
 
-####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase_0_unit_1)
+####2. Change the "Primary remote repository" to the upstream repo you want to use. (https://github.com/Devbootcamp/phase0-unit1)
 ![Change remote](imgs/change-remote.jpg)
 
 ####3. Press "Update Remote"
