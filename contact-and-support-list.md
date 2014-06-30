@@ -14,13 +14,10 @@
 
 | Guide Name | email |
 |------------|-------|
-| Allen Dayag | <mailto:a.dayag@gmail.com> |
 | Andrew Wittrock | <mailto:awittrock@gmail.com> |
-| Dominic Scotto | <mailto:dominicscotto@gmail.com> |
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
 | Emily Foley | <mailto:foleyemilym@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
-| John Norton | <mailto:john.j.norton@gmail.com> |
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
 | Katherine Hayden | <mailto:katherineimogene@gmail.com> |
