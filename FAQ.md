@@ -17,8 +17,8 @@ This will be updated as you ask questions on the google+ community.
   4. New email address:
   5. Do you want your email changed in Socrates as well? 
 
-**Q: Can we use DBC space in Phase 0?** <br>
-**A:** In order to maintain an optimal learning environment for students in phases 1-3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events or ask to tour the space. Please email the [facilitator](contact-and-support-list.md) to begin the process of arranging a tour.
+**Q: Can we visit or use DBC space in Phase 0?** <br>
+**A:** In order to maintain an optimal learning environment for students in phases 1 - 3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, **request** a tour or attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events. Please email the [facilitator](contact-and-support-list.md) to begin the process of arranging a tour. Tours are only given at specific times by appointment. Please do not drop by and request an appointment without making arrangements with on-site staff. 
 
 **Q: What are the hours at DBC?** <br>
 **A:** This depends on the location. Ask the [facilitator](contact-and-support-list.md) in the introductory session.
