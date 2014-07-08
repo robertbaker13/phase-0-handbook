@@ -15,7 +15,7 @@ Before you begin Phase 0, there are prerequisites that need to be met to ensure 
 ####2. Log in to [Socrates*](https://socrates.devbootcamp.com/) and update your profile with the following:
    - [Twitter](https://twitter.com/)
    - [LinkedIn](https://www.linkedin.com/)
-   - [Gravatar](http://en.gravatar.com/) (this is where we pull your picture so make sure it's of your face!)
+   - [Gravatar](http://en.gravatar.com/) (this is where we pull your picture for Socrates so make sure it's of your face!)
    - [Hacker News](https://news.ycombinator.com/)
    - [Google+](https://plus.google.com) We use google+ rather than facebook
    - [Github](https://github.com/)
@@ -26,13 +26,15 @@ This is **vital** to success in Phase 0. We communicate with students primarily 
 ####4. [Add the google calendars](intro-gps-signup.md) with the calendars in your google+ community. 
 They are listed under the "About this Community" section on the main page. You should have an office hours/ tutoring calendar and a cohort-specific calendar. 
 
-####5. [Watch "EQ: Engineering Empathy and Feedback"](http://vimeo.com/76762772) **It's important you watch the whole thing!**
+####5. [Watch "EQ: Emotional Intelligence"](https://vimeo.com/99779530) 15 min *Please watch this if you haven't already"*
 
-####6. [Watch "Pairing is Caring"](https://vimeo.com/76662569)
+####6. [Watch DBC's video on Feedback](https://vimeo.com/99780302) 27 min
 
-####7. [Watch the "Stypi Tutorial"](https://vimeo.com/76870082)
+####7. [Watch "Pairing is Caring"](https://vimeo.com/76662569) 5 min
 
-####8. Finish reading through the [Phase 0 Handbook](readme.md)! You want to be well acquainted with the program!
+####8. [Watch the "Stypi Tutorial"](https://vimeo.com/76870082) 2 min
+
+####9. Finish reading through the [Phase 0 Handbook](readme.md)! You want to be well acquainted with the program!
 
 
 ### Competency-Based
