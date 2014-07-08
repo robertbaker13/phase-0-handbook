@@ -19,7 +19,7 @@ You can track your own progress by checking in to see if you’re fulfilling exp
 
 You are expected to attend all guided pairing sessions. Please see [Guided Pairing Sessions](guided-pairing-sessions.md) for more help and details. 
 ### Peer Pairing Sessions
-You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing_sessions.md) for more information. 
+You are expected to pair with a peer a number of times each unit. See [Peer-Pairing Sessions](peer-pairing-sessions.md) for more information. 
 
 ###Submissions
 You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.
