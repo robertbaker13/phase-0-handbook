@@ -26,7 +26,7 @@ This is **vital** to success in Phase 0. We communicate with students primarily 
 ####4. [Add the google calendars](intro-gps-signup.md) with the calendars in your google+ community. 
 They are listed under the "About this Community" section on the main page. You should have an office hours/ tutoring calendar and a cohort-specific calendar. 
 
-####5. [Watch "EQ: Emotional Intelligence"](https://vimeo.com/99779530) 15 min *Please watch this if you haven't already"*
+####5. [Watch "EQ: Emotional Intelligence"](https://vimeo.com/99779530) 15 min *Please watch this if you haven't already*
 
 ####6. [Watch DBC's video on Feedback](https://vimeo.com/99780302) 27 min
 
