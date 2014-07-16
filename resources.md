@@ -42,6 +42,11 @@
 - [Writing our own Class in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
 - [Ruby Classes and Objects](http://www.tutorialspoint.com/ruby/ruby_classes.htm)
 
+#### Other Programming Concepts
+- [Algorithms in a Nutshell](http://shop.oreilly.com/product/9780596516246.do)
+- [Algorithm Design Manual](http://www.algorist.com/)
+- [Code Complete](http://www.cc2e.com/Default.aspx)
+
 
 #### Ruby
 - [A Beginners Guide to Ruby](http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/)
@@ -50,8 +55,12 @@
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
 - [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
 - [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)  
+- [Humble little Ruby Book](http://www.humblelittlerubybook.com/)
+- [Eloquent Ruby](http://eloquentruby.com/)
+- [Confident Ruby](http://www.confidentruby.com/)
 
-####SQL
+
+####SQL and Databases
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
 - [SQL tutorial](http://www.sqlcourse2.com/index.html)
 - [SQL SELECT statements](https://www.youtube.com/watch?v=DDIAnk6CRsU)
@@ -62,6 +71,7 @@
 - [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 - [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 - [VIDEO: SQL Joins](https://www.youtube.com/watch?v=sAhPEzRrZCA)
+- [Seven Databases in Seven Weeks](http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks)
 
 #### Surviving DBC
 - [One student's thoughts on surviving week 1 of Phase 1](http://slides.com/goodproduce/surviveweekone)
