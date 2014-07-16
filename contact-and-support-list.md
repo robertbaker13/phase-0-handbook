@@ -4,8 +4,7 @@
 
 ####Global:
 1. **Billing, tuition, payments, refund policies etc.** contact <mailto:ar@devbootcamp.com>
-2. **Phase 0 curriculum, issues with this handbook, etc.** contact <mailto:maria@devbootcamp.com>
-3. **Progress, changing cohorts, learning strategies, Guided Pairing Sessions, expectations, etc.** contact <mailto:kelly@devbootcamp.com><br>
+2. **Any other phase 0 concerns.** contact <mailto:phase0@devbootcamp.com><br>
 <br>
 *Please Note: Global Staff work from 9am-6pm PST Monday through Friday. We do not work on weekends, but will get to any emails as soon as possible on Monday morning.* 
 
@@ -14,19 +13,21 @@
 
 | Guide Name | email |
 |------------|-------|
-| Andrew Wittrock | <mailto:awittrock@gmail.com> |
+| Buck O'Leary | <mailto:howardeoleary@gmail.com>
+| Connor Harwood | <mailto:Harwood.connor@gmail.com>
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
 | Emily Foley | <mailto:foleyemilym@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
 | Katherine Hayden | <mailto:katherineimogene@gmail.com> |
+| Keaty Gross | <mailto:holla@keaty.com>
 | Laura Crowe | <mailto:lleecrowe@gmail.com> |
 | Lorena Mesa | <mailto:lorena.n.mesa@gmail.com> |
 | Matt Higgins | <mailto:matthew.alan.higgins@gmail.com> |
 | Mohit Ramchandani | <mailto:mohitr35@gmail.com> |
 | Neal Peters | <mailto:nealcpeters@gmail.com> |
-| Priya Mathew | <mailto:pri1229@gmail.com> |
+| Pei Xiong Liu | <mailto:peixiong.liu@gmail.com> |
 | Rick Rubio | <mailto:ickarubio@gmail.com> |
 | Roy Lee | <mailto:lee.sh.roy@gmail.com> |
 <!--
