@@ -6,7 +6,7 @@ Each week you will have one challenge specifically designated as a solo challeng
 
 
 ## Purpose
-Solo challenges are designed to provide you the opportunity to work on your own and see how confident you are with the learning objectives. These challenges are meant to show you where you are in your abilities at the moment.**
+Solo challenges are designed to provide you the opportunity to work on your own and see how confident you are with the learning objectives. These challenges are meant to show you where you are in your abilities at the moment.
 
 From the instructor's perspective, solo challenges provide us with an example of your work. We use these to assess how you are doing and give you feedback. We want to see that you are following the process we've outlined (pseudocode, initial code, refactor, reflect) and are demonstrating your familiarity and ability to implement the objectives. We do not expect your code to be perfect; we expect it to show how you work through a problem on your own. 
 
@@ -21,11 +21,12 @@ We ask you to follow a different protocol when researching for these challenges 
 3. Abstain researching or using solutions to the challenge. *See plagiarism section below for details.* 
 
 ### Process
-One of the goals of Phase 0 is to teach strategies for solving problems and learning effectively. This is why we ask you to follow each step with every challenge. When completing your solo challenges, it's important that each section is complete and descriptive. We will be evaluating each section, not just your initial or refactored solution. 
+One of the goals of Phase 0 is to teach strategies for solving problems and learning effectively. This is why we ask you to follow each step with every challenge (where applicable). When completing your solo challenges, it's important that each section is complete and descriptive. We will be evaluating each section, not just your initial or refactored solution. 
 
 ##### Pseudocode:
 Your pseudocode should break the problem down into easily-implantable pieces. You don't want to put too much into one step, or have overly long sentences. Challenge yourself to really break the problem down into code-like English. See these guides: [Pseudocode Standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) or [Pseudocode Overview](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf). NOTE: Pseudocode is not required for HTML/CSS solo challenges. 
 
+*For the week 1 HTML/CSS solo challenge, no pseudocode or refactoring is necessary. For week 2 a wireframe should be included as pseudocode*
 
 ##### Refactoring
 Remember writing essays? Usually you would write a sloppy rough draft that would get your ideas out there and then (assuming you had time) try to remove typos and edit for clarity. Refactoring should be the same. You don't want to spend your time writing a completely new solution, instead you want to to simplify your existing solution, improve the naming and readability, and remove any unnecessary code or implement the code using new methods. Try reading this article  ["What is Refactoring?"](http://c2.com/cgi/wiki?WhatIsRefactoring) for guidance. If you find yourself wanting to completely change the interior logic of your solution, make sure you explain why you decided to make that shift.
