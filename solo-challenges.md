@@ -26,7 +26,7 @@ One of the goals of Phase 0 is to teach strategies for solving problems and lear
 ##### Pseudocode:
 Your pseudocode should break the problem down into easily-implantable pieces. You don't want to put too much into one step, or have overly long sentences. Challenge yourself to really break the problem down into code-like English. See these guides: [Pseudocode Standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) or [Pseudocode Overview](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf). NOTE: Pseudocode is not required for HTML/CSS solo challenges. 
 
-*For the week 1 HTML/CSS solo challenge, no pseudocode or refactoring is necessary. For week 2 a wireframe should be included as pseudocode*
+*For the week 1 HTML/CSS solo challenge, no pseudocode or refactoring is necessary. For week 2 a wireframe should be included as pseudocode.*
 
 ##### Refactoring
 Remember writing essays? Usually you would write a sloppy rough draft that would get your ideas out there and then (assuming you had time) try to remove typos and edit for clarity. Refactoring should be the same. You don't want to spend your time writing a completely new solution, instead you want to to simplify your existing solution, improve the naming and readability, and remove any unnecessary code or implement the code using new methods. Try reading this article  ["What is Refactoring?"](http://c2.com/cgi/wiki?WhatIsRefactoring) for guidance. If you find yourself wanting to completely change the interior logic of your solution, make sure you explain why you decided to make that shift.
