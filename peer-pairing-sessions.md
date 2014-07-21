@@ -22,10 +22,6 @@ As part of Phase 0, students are expected to pair program with a member of your 
   3. What time you need to finish the session
 
 
-**Note: You should select pairs from your unit accountability group. You can access each other's email addresses on the cohort page on Socrates. Click on the person's picture and it will let you access their profile. 
-
-
-
 ## Courtesy
 
 Please keep in mind that all students are busy and working hard to balance work and Phase 0 requirements. If it turns out you can not make the session you've scheduled with your pair for any reason, please contact your pair as soon as possible. Try your best to work from a quiet place with a reliable internet connection. 
