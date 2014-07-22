@@ -102,7 +102,7 @@ If you have a weird window pop up that looks like this: ![vim window](imgs/vim-w
 
 <br>you'll want to [set up sublime text](text-editor-setup.md) as your default text editor (step 3). 
 
-###3. Commit and sync your new local repository with your remote fork on github.com
+###3. Commit and push your new local repository with your remote fork on github.com
 
 ```shell
 $ git commit -m "added Devbootcamp's changes"
