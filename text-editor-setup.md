@@ -2,9 +2,9 @@
 
 # Setting up Sublime Text 
 
-First step is to download sublime text from [Sublime Text](http://www.sublimetext.com/)
+### 1. Download sublime text from [Sublime Text](http://www.sublimetext.com/)
 
-next, you want to create a symlink (symbolic link) to open sublime from your console.
+### 2. Create a symlink (symbolic link) to open sublime from your console.
 
 Here are some guides:
 
@@ -20,7 +20,7 @@ Linux support:
 
 [Ubuntu](http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2/227617#227617)
 
-Lastly, you want to add sublime as your default editor for git:
+### 3. Add sublime as your default editor for git:
 
 ```$ git config --global core.editor subl```
 

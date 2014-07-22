@@ -42,8 +42,8 @@ origin    https://github.com/[your_username_here]/repo.git (fetch)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (push) # You do not want to push to this repository!
 ```
 
-### Syncing
-You have a couple fo steps to add changes from Devbootcamp's repository. 
+### Updating your local repository
+You have a couple of steps to add changes from Devbootcamp's repository. 
 
 ####1. Fetch the Changes
 Fetching from Devbootcamp's remote repository will bring in Devbootcamp's changes into a special branch in your local repository. **Note: it's not merged yet**
@@ -95,6 +95,10 @@ $ git merge upstream/master
 ```
 
 If you did not have any un-synced commits, git will perform a "fast-forward". 
+
+Sometimes git will open up a vim or sublime window and ask for a commit message. If you're in sublime, you can simply save and quit, or change the top line with a commit message you choose - then save and quit. 
+
+If you have a weird window pop up that looks like this: ![vim window](imgs/vim-window.png), you'll want to [set up sublime text](text-editor-setup.md) as your default text editor (step 3). 
 
 ###3. Commit and sync your new local repository with your remote fork on github.com
 
