@@ -98,7 +98,9 @@ If you did not have any un-synced commits, git will perform a "fast-forward".
 
 Sometimes git will open up a vim or sublime window and ask for a commit message. If you're in sublime, you can simply save and quit, or change the top line with a commit message you choose - then save and quit. 
 
-If you have a weird window pop up that looks like this: ![vim window](imgs/vim-window.png), you'll want to [set up sublime text](text-editor-setup.md) as your default text editor (step 3). 
+If you have a weird window pop up that looks like this: ![vim window](imgs/vim-window.png)
+
+<br>you'll want to [set up sublime text](text-editor-setup.md) as your default text editor (step 3). 
 
 ###3. Commit and sync your new local repository with your remote fork on github.com
 
