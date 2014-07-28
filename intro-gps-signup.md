@@ -36,7 +36,7 @@ If you have any questions, problems, or concerns, please contact us.
 - It goes without saying that you should be very careful not to delete anyone else's name or sessions from the master calendar. 
 
 ## How to change your email address:
-Please send <mailto:kelly@devbootcamp.com> an email with the subject "Change email address"
+Please send <mailto:phase0@devbootcamp.com> an email with the subject "Change email address"
 Please include (just copy paste and fill in):
 
 1. Name:
