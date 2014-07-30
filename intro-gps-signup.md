@@ -14,7 +14,7 @@ Congrats! You've signed up for an intro session. You should receive a confirmati
 
 # How to Sign Up for a GPS
 
-GPS are mandatory pairing sessions held four times in Phase 0.
+GPS are mandatory pairing sessions held four times in Phase 0. You must attend GPS the weeks that they are offered.
 
 ### Here are the steps to sign up:
 
@@ -22,9 +22,19 @@ GPS are mandatory pairing sessions held four times in Phase 0.
 2. You will be taken to a screen to sign up for an intro session. Click "Sign up for an Intro Session."
 3. You'll see all available times. Click "Sign Up" on one that works for you.
 
-#### To Cancel a GPS Session
-**You must cancel at least 6 hours in advance!**
+When the time for your GPS arrives, click the "Join Video Call" link in your email invite.
 
+## How to change your email address:
+Please send <mailto:phase0@devbootcamp.com> an email with the subject "Change email address"
+Please include (just copy paste and fill in):
+
+1. Name:
+2. Cohort and location:
+3. Old email address:
+4. New email address:
+5. Do you want your email changed in Socrates as well?
+
+This will change where we email updates and calendar permissions. You will need to change your email at apply.devbootcamp.com.
 
 *The Following Instructions Are Not Applicable to the October 6, 2014 cohort and Later*
 
