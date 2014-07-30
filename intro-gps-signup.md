@@ -36,7 +36,7 @@ Please include (just copy paste and fill in):
 
 This will change where we email updates and calendar permissions. You will need to change your email at apply.devbootcamp.com.
 
-*The Following Instructions Are Not Applicable to the October 6, 2014 cohort and Later*
+##The Following Instructions Are Not Applicable to the October 6, 2014 cohort and later.
 
 # How to Sign Up for Intro Sessions and GPS
 
