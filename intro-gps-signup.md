@@ -6,7 +6,7 @@ Intro Sessions are orientation meetings held the first week of Phase 0. They are
 
 ### Here are the steps to sign up for an Intro Session:
 
-1. Once you've received your account activation email, follow the link to activate your account.
+1. Once you've received your account activation email, follow the [link](https://phase0.devbootcamp.com) to activate your account.
 2. You will be taken to a screen to sign up for an intro session. Click "Sign Up for an Intro Session."
 3. You'll see all available times. Click "Sign Up" on one that works for you.
 
@@ -18,7 +18,7 @@ GPS are mandatory pairing sessions held four times in Phase 0. You must attend G
 
 ### Here are the steps to sign up:
 
-1.Click on "Sign up for a GPS Session."
+1. Click on "Sign up for a GPS Session."
 2. You will be taken to a screen to sign up for an intro session. Click "Sign up for an Intro Session."
 3. You'll see all available times. Click "Sign Up" on one that works for you.
 
