@@ -15,7 +15,10 @@ Navigate to the appropriate directory in your terminal. Make sure you are in the
 ### Setting up a new remote (link to a repository hosted on github.com)
 *You'll only need to do set up a remote once!*
 
-####1. Check your current remote. This should link to your personal fork. 
+####1. Check where you are in your terminal!
+Type `pwd` to see which directory you are in. Make sure you are in the correct directory for fetching. You want to make sure all of your phase-0 repositories and your github.io sites are all separate. If you do not check where you are, you will likely make a mistake and cause a lot of problems. 
+
+####2. Check your current remote. This should link to your personal fork. 
 
 ```shell
 $ git remote -v
@@ -25,7 +28,7 @@ $ git remote -v
 
 ```
 
-####2. Set up a new remote
+####3. Set up a new remote
 
 ```shell
 $ git remote add upstream https://github.com/Devbootcamp/phase-0-unit-1.git 
@@ -33,7 +36,7 @@ $ git remote add upstream https://github.com/Devbootcamp/phase-0-unit-1.git
 
 ```
 
-3. Verify your new remote
+####4. Verify your new remote
 
 ```shell
 origin    https://github.com/[your_username_here]/repo.git (fetch)
