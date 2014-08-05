@@ -39,6 +39,8 @@ $ git remote add upstream https://github.com/Devbootcamp/phase-0-unit-1.git
 ####4. Verify your new remote
 
 ```shell
+$ git remote -v
+
 origin    https://github.com/[your_username_here]/repo.git (fetch)
 # origin    https://github.com/[your_username_here]/repo.git (push)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (fetch)
