@@ -41,7 +41,7 @@ They are listed under the "About this Community" section on the main page. You s
 
 ####1. Complete the [DBC Prep Objectives](https://gist.github.com/dbc-challenges/2712a4b3c9fc01a37840)
 
-####2. Review sections from Ruby Labs in Socrates. *(This is not intended to teach you everything you need for the exercises, but is meant to be a review of the Prep Objectives)*
+####2. Review sections from Ruby Labs in Socrates - do not complete the exercises associated with each. *(This is not intended to teach you everything you need for the exercises, but is meant to be a review of the Prep Objectives)*
    - [Introduction](https://socrates.devbootcamp.com/labs/ruby/introduction)
    - [Primitives](https://socrates.devbootcamp.com/labs/ruby/primitives/)
    - [Methods](https://socrates.devbootcamp.com/labs/ruby/methods/)

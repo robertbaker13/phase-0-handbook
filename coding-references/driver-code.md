@@ -73,12 +73,12 @@ nums_to_words(150) == "one hundred fifty"
 nums_to_words(199) == "one hundred ninety nine"
 nums_to_words(213) == "two hundred thirteen" #=> This could easily return something like "two hundred ten three".
 
-``
+```
 
 ###An optimal test code format
 So this isn't a perfect form of tests, and there are testing frameworks that help. You'll encounter testing frameworks in various weeks in phase 0. For now, using driver test code is a good start, but you can also challenge yourself to write tests that provide more clarity. 
 
-You can write Driver test code to help immediately  answer questions like:
+You can write Driver test code to help immediately answer questions like:
 * "What is the actual test that is passing or failing?"  
 * "What is the context of the test?"
 * "What did the code return if it failed?"
