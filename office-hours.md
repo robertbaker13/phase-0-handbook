@@ -2,13 +2,16 @@
 
 # Office Hours
 
-Phase 0 provides at least 10 office hours per week. These are times where an Prep Guide will enter the [collaboration hangout](https://plus.google.com/hangouts/_/event/cn84s0i6f761j9rpv4a3ljddg0o?authuser=0&hl=en) to answer any of your questions. 
+Office hours are a time that you can ask questions and bring issues you are having to a phase 0 guide. Some examples of office hours issues are: looking over code, working through parts of a challenge, problems setting up git, getting your development environment on track.
 
-You do not need to sign up for office hours, just jump into the hangout and ask your questions anytime during that hour. You don't need to stay the whole time. 
+To access the video chat, you need to add the office hours and tutoring calendar to your google calendars.
 
-Please note: Office hours are times to get help with concepts in the Phase 0 curriculum. We know that many of you take some extra time to work on other projects you want help on, but advanced questions from these projects should wait for DBC on site. 
+Follow this [link](https://www.google.com/calendar/embed?src=devbootcamp.com_nlp0d3j0ot6q9rgll6bu6vpjqg@group.calendar.google.com&ctz=America/Los_Angeles) and press the tiny rectangle on the bottom right with the + Google Calendar. Confirm on your calendar and you will be able to join a video call.
 
-*If the guide who created the session is not there, please email them (as well as <mailto:phase0@devbootcamp.com>).*
+You do not need to sign up for office hours, just jump into the hangout and ask your questions anytime during that hour. You don't need to stay the whole time.
 
-Please use office hours for getting help with github. Prep guides can help debug your issues with github and it's far easier to do that in a video call as opposed to email. 
+Please note: Office hours are times to get help with concepts in the Phase 0 curriculum. We know that many of you take some extra time to work on other projects you want help on, but advanced questions from these projects should wait for DBC on site.
+
+*If the guide who created the session is not there, please email phase 0 <mailto:phase0@devbootcamp.com>.
+
 
