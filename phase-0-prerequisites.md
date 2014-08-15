@@ -23,8 +23,8 @@ Before you begin Phase 0, there are prerequisites that need to be met to ensure 
 ####3. Request to join your Google+ Community. The link will be given to you in your Phase 0 Welcome email. 
 This is **vital** to success in Phase 0. We communicate with students primarily through the community.
 
-####4. [Add the google calendars](intro-gps-signup.md) with the calendars in your google+ community. 
-They are listed under the "About this Community" section on the main page. You should have an office hours/ tutoring calendar and a cohort-specific calendar. 
+####4. [Add the office hour google calendar](intro-gps-signup.md). 
+It is listed under the "About this Community" section on the main page of your google+ community. 
 
 ####5. [Watch "EQ: Emotional Intelligence"](https://vimeo.com/99779530) 15 min *Please watch this if you haven't already*
 
