@@ -7,7 +7,7 @@ This will be updated as you ask questions on the google+ community.
 **A:** From this point, all of our sessions will be conducted via google hangout. If you signed up properly, you should have an event on your google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro-gps-signup.md) to sign up. 
 
 **Q: How do I change my DBC email address?** <br>
-**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should first change your email address on [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and then contact the [facilitator](contact-and-support-list.md) with the following template to change your address: 
+**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should first change your email address on [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and then contact us at phase0@devbootcamp.com with the following template to change your address: 
 
   Please include (just copy paste and fill in):
   
