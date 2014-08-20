@@ -6,9 +6,13 @@
 
 You must complete feedback on [Feedbackinator](https://socrates.devbootcamp.com/feedback/new) for every pairing session (GPS and Peer Pairing) you complete to receive credit for it. If you do not submit feedback for your pair, we will not know you have done the pairing session, and you may be flagged for not meeting Phase 0 expectations. 
 
-**Make sure you watch [Engineering Empathy: EQ and Feedback prior to giving feedback](http://vimeo.com/76762772).**
+**Make sure you watch [Engineering Empathy on Feedback](https://vimeo.com/99780302) prior to giving feedback.**
 
-#### All feedback must be anonymous to protect privacy.** 
+Also note, Socrates will not display your feedback (feedback from others to you) until you have four pieces that have been thoroughly rated, so it will take some before you get feedback. Pairing early and often will help ensure you get feedback sooner.
+
+
+
+#### All feedback must be anonymous to protect privacy.
 Abstain from writing your pair's name anywhere in the free-form text to protect their privacy. Other students review each piece of feedback and rate it for kindness, actionability, and specificity.  
 
 Feedback will not reach a student if it is not rated high enough on each of these measures by other students. This means that all feedback is viewed by many students, and it's important to make receiving feedback a safe and positive experience. 
