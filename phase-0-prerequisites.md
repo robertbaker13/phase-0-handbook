@@ -1,57 +1,102 @@
-[Table of Contents](readme.md)
-
-# Phase 0 Prerequisities
-
-Before you begin Phase 0, there are prerequisites that need to be met to ensure you are prepared for the experience. Please make sure to complete each task *prior to the start of week 1.*
-
-**Please note, we assume that each student has at least a week to prepare before entering Phase 0. If you have been admitted and have less than a week before phase 0 begins, we will be happy to work with you. Please make sure you at least complete all of the administrative tasks prior to beginning.**
-
-*** 
-## Tasks and Challenges
-
-### Administrative
-####1. Log on to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey"
-
-####2. Log in to [Socrates*](https://socrates.devbootcamp.com/) and update your profile with the following:
-   - [Twitter](https://twitter.com/)
-   - [LinkedIn](https://www.linkedin.com/)
-   - [Gravatar](http://en.gravatar.com/) (this is where we pull your picture for Socrates so make sure it's of your face!)
-   - [Hacker News](https://news.ycombinator.com/)
-   - [Google+](https://plus.google.com) We use google+ rather than facebook
-   - [Github](https://github.com/)
-
-####3. Request to join your Google+ Community. The link will be given to you in your Phase 0 Welcome email. 
-This is **vital** to success in Phase 0. We communicate with students primarily through the community.
-
-####4. [Add the office hour google calendar](intro-gps-signup.md). 
-It is listed under the "About this Community" section on the main page of your google+ community. 
-
-####5. [Watch "EQ: Emotional Intelligence"](https://vimeo.com/99779530) 15 min *Please watch this if you haven't already*
-
-####6. [Watch DBC's video on Feedback](https://vimeo.com/99780302) 27 min
-
-####7. [Watch "Pairing is Caring"](https://vimeo.com/76662569) 5 min
-
-####8. [Watch the "Stypi Tutorial"](https://vimeo.com/76870082) 2 min
-
-####9. Finish reading through the [Phase 0 Handbook](readme.md)! You want to be well acquainted with the program!
+<img src="http://i.imgur.com/MYCjKBP.jpg" height="75% "width="75%">
 
 
-### Competency-Based
+# Welcome to DBC!
 
-####1. Complete the [DBC Prep Objectives](https://gist.github.com/dbc-challenges/2712a4b3c9fc01a37840)
+*Last Revised 08/28/2014*
 
-####2. Review sections from Ruby Labs in Socrates - do not complete the exercises associated with each. *(This is not intended to teach you everything you need for the exercises, but is meant to be a review of the Prep Objectives)*
-   - [Introduction](https://socrates.devbootcamp.com/labs/ruby/introduction)
-   - [Primitives](https://socrates.devbootcamp.com/labs/ruby/primitives/)
-   - [Methods](https://socrates.devbootcamp.com/labs/ruby/methods/)
-   - [Branching](https://socrates.devbootcamp.com/labs/ruby/branching)
-   - [Collections](https://socrates.devbootcamp.com/labs/ruby/collections/)
+You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date. 
 
-####3. **Complete all 20 Exercises in [Socrates](https://socrates.devbootcamp.com/exercises)**. 
-If you are confident with each prep objective on ruby, these should take you around 4-6 hours. If not, it will probably take longer, so give yourself some time. It's important to have basic fundamentals before starting Phase 0. 
+**Please note:** We will send out your "Welcome to Phase 0" email on the Friday prior to your cohort start date to give you access to Dev Bootcamp systems. Please be on the lookout for these messages.
+
+If you have any questions, comments, concerns, or feedback for the Phase 0 team, please contact us at <phase0@devbootcamp.com>. Please mention your start date in the email. 
 
 
 
-* You will receive an email from Socrates with login information one week prior to the start of Phase 0.
+***
+# Before Entering Phase 0
 
+#### 0. Brief Introduction
+Read our [Blog Post](http://devbootcamp.com/2014/05/08/why-phase-0-is-key-to-your-success-at-dev-bootcamp/) on Phase 0.
+Phase 0 is an actual Phase of DBC; it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of DBC. 
+
+You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during phase 0 unless you expect to do the work during that time and have reliable access to internet. There are weekly deadlines for challenges, pairing requirements, and other tasks you will be required to do each week. 
+
+Anticipate spending between 15-20 hours a week on your work during Phase 0 (or more if you want to go above and beyond). Also, please do not quit your job before starting the program. You may decide that becoming a programmer isn't for you only a few weeks in, and then it will be very difficult to get your job back! Please wait to quit your jobs until you are at least 2 weeks away from coming onsite for the intensive portion of the program.
+
+
+#### 1. Create Accounts
+You will need each of these accounts prior to Phase 0, and we will ask you to provide links to your Socrates (our student application) profile when you receive your welcome email. 
+
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0. If you would like us to conduct email communications with you via gmail, update your email address in [apply.devbootcamp.com](http://apply.devbootcamp.com) as soon as possible **before** starting Phase 0. **Make sure to activate Google+! on this account**
+ 
+- [Twitter](https://twitter.com/)<br>You will be using Twitter throughout Phase 0 and will have some challenges using the Twitter API later.
+ 
+- [LinkedIn](https://www.linkedin.com/)<br> LinkedIn is an important resume tool and a part of your later career search, so it's good to fill it out now with your history and what you've been doing so you have a history. 
+ 
+- [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. [apply.devbootcamp.com](http://apply.devbootcamp.com))
+ 
+- [Hacker News](https://news.ycombinator.com/)<br> Is where many techies make contributions or spend time looking for new, exciting things in the tech community. Creating an account allows you to post and reply. 
+ 
+- [Github](https://github.com/)<br> You will start using github on the first day of Phase 0, so please create an account. This will be where you keep all of your code from Dev Bootcamp and becomes your technical resume when you apply for jobs - so you may want to select your username with that in mind. 
+
+#### 2. Personal Preparation
+
+You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (often at the same time). It's important to prepare yourself for success by recognizing how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at Dev Bootcamp more fulfilling. You will be spending a significant amount of time working with others, so it's also vital to practice explaining your ideas to others. *Keep track of the your explanations and results below. You will be asked to submit your responses on .*
+
+You need to be able to:
+
+- Explain the difference between <a href="http://examinedexistence.com/carol-dweck-on-fixed-mindset-vs-growth-mindset/" target="_blank">growth and fixed mindset</a>.
+- Identify my 
+<a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
+- Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+
+
+#### 3. Typing and shortcuts
+It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
+
+Take a baseline <a href = "http://www.typingtest.com/index.html" target="_blank">test</a> to see how fast you currently type. 
+
+Then practice. Try <a href = "http://www.typingtest.com/index.html" target="_blank">test</a>[typing.io](http://typing.io/) to practice typing code, which has a ton of strange symbols. Typing can be fun to practice and you can't get too good at it.
+
+For shortcuts, try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts. 
+
+You need to be able to:
+ - Type at least 40 words per minute
+ - Use common shortcuts in Sublime
+
+#### 4. Read the [Phase 0 Handbook](readme.md)
+This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Bootcamp!
+
+#### 5. Watch
+The following videos introduce some key concepts of the Phase 0 experience. 
+You will be expected to be familiar with each of these prior to starting Phase 0.
+
+- Engineering Empathy: [EQ: Emotional Intelligence](https://vimeo.com/99779530) 15 min 
+- Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
+- Checking in before [Pairing](https://vimeo.com/76662569) 5 min
+- Our collaborative coding editor [Stypi](https://vimeo.com/76870082) 2 min
+
+#### 6. Complete the End of Prep Survey
+Navigate to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey" This is required to start Phase 0.
+
+
+
+#### 7. Additional Resources
+Take a look at a couple of these resources that look interesting to you. 
+
+
+#### Free 
+- <a href = "http://mindsetonline.com/">Mindset Online</a> by Carol Dweck. This links to the website, but you can also read the book about fixed and growth mindset.
+- <a href= "https://cs50.harvard.edu/" target="_blank"> CS 50: Harvard Intro to Computer Science Course</a> Interesting and accessible lectures. These are great for students who want to know more about basic Computer Science. See the <a href= "http://d2o9nyf4hwsci4.cloudfront.net/2014/spring/lectures/0/w/syllabus/syllabus.html" target="_blank">syllabus</a> for a list of covered topics.
+- <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicago Grasshopper 2014)
+
+#### Books
+- <a href= "http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050" target="_blank">*Pragmatic Thinking and Learning*</a> by Andy Hunt. This book covers "how our brains are wired, and how to take advantage of your brain's architecture. You'll learn new trice and tips to learn more, faster, and retain more of what you learn."
+- <a href = "http://shop.oreilly.com/product/9780596518387.do" target="_blank">*Apprenticeship Patterns*</a> by Dave Hoover. Are you doing all you can to further your career as a software developer? With today's rapidly changing and ever-expanding technologies, being successful requires more than technical expertise. To grow professionally, you also need soft skills and effective learning techniques. Honing those skills is what this book is all about. Authors Dave Hoover and Adewale Oshineye have cataloged dozens of behavior patterns to help you perfect essential aspects of your craft.
+- <a href = "http://pragprog.com/book/cfcar2/the-passionate-programmer" target="_blank">*The Passionate Programmer*</a> by Chad Fowler. This book is about creating a remarkable career in software development. In most cases, remarkable careers don’t come by chance. They require thought, intention, action, and a willingness to change course when you’ve made mistakes. Most of us have been stumbling around letting our careers take us where they may. It’s time to take control. This revised and updated second edition lays out a strategy for planning and creating a radically successful life in software development.
+- <a href = "http://pragprog.com/book/tpp/the-pragmatic-programmer" target = "_blank">*The Pragmatic Programmer*</a> by Andrew Hunt and David Thomas. Straight from the programming trenches, The Pragmatic Programmer: From Journeyman to Master cuts through the increasing specialization and technicalities of modern software development to examine the core process—what do you do, as an individual and as a team, if you want to create software that’s easy to work with and good for your users.
+
+***
+
+Go to the Phase 0 Handbook [Table of Contents](readme.md)
