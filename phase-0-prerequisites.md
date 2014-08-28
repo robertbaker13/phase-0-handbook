@@ -34,7 +34,7 @@ You will need each of these accounts prior to Phase 0, and we will ask you to pr
  
 - [LinkedIn](https://www.linkedin.com/)<br> LinkedIn is an important resume tool and a part of your later career search, so it's good to fill it out now with your history and what you've been doing so you have a history. 
  
-- [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. [apply.devbootcamp.com](http://apply.devbootcamp.com))
+- [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. [apply.devbootcamp.com](http://apply.devbootcamp.com)
  
 - [Hacker News](https://news.ycombinator.com/)<br> Is where many techies make contributions or spend time looking for new, exciting things in the tech community. Creating an account allows you to post and reply. 
  
