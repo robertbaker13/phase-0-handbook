@@ -42,5 +42,6 @@ If you have two separate google accounts, make sure you are signing up under the
 
 **For many other questions**
 Make sure you read through the handbook thoroughly. Substitute "Phase 0 Handbook" for "Syllabus" in the following cartoon. 
+
 ![syllabus cartoon](imgs/syllabus-cartoon.gif)
 
