@@ -40,7 +40,7 @@ If you have two separate google accounts, make sure you are signing up under the
 **Q: Is Phase 0 going to be operating over the December 2-week break?**<br>
 **A:** No. Phase 0 will be suspended over the same two weeks that the rest of the campuses are closed. The dates of closure are December 22 - January 5. You can still do work during this time if you wish, but staff will not be responding to emails or updating curriculum during this time. 
 
-**For many other questions**
+**For many other questions**<br>
 Make sure you read through the handbook thoroughly. Substitute "Phase 0 Handbook" for "Syllabus" in the following cartoon. 
 
 ![syllabus cartoon](imgs/syllabus-cartoon.gif)
