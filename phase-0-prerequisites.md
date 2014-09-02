@@ -88,8 +88,10 @@ Take a look at a couple of these resources that look interesting to you.
 
 #### Free 
 - <a href = "http://mindsetonline.com/">Mindset Online</a> by Carol Dweck. This links to the website, but you can also read the book about fixed and growth mindset.
+- UC San Diego Coursera Course <a href="https://www.coursera.org/course/learning" target="_blank">Learning How to Learn</a> 
 - <a href= "https://cs50.harvard.edu/" target="_blank"> CS 50: Harvard Intro to Computer Science Course</a> Interesting and accessible lectures. These are great for students who want to know more about basic Computer Science. See the <a href= "http://d2o9nyf4hwsci4.cloudfront.net/2014/spring/lectures/0/w/syllabus/syllabus.html" target="_blank">syllabus</a> for a list of covered topics.
 - <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicago Grasshopper 2014)
+
 
 #### Books
 - <a href= "http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050" target="_blank">*Pragmatic Thinking and Learning*</a> by Andy Hunt. This book covers "how our brains are wired, and how to take advantage of your brain's architecture. You'll learn new trice and tips to learn more, faster, and retain more of what you learn."
