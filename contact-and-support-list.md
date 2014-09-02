@@ -17,7 +17,6 @@
 | Connor Harwood | <mailto:Harwood.connor@gmail.com>
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
-| Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
 | Katherine Hayden | <mailto:katherineimogene@gmail.com> |
 | Keaty Gross | <mailto:holla@keaty.com>
 | Laura Crowe | <mailto:lleecrowe@gmail.com> |
