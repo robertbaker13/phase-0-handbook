@@ -21,12 +21,17 @@ This will be updated as you ask questions on the google+ community.
 **A:** In order to maintain an optimal learning environment for students in phases 1 - 3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, sign up for a tour ([CHI](http://my.setmore.com/shortBookingPage/0df7e742-ac22-4daf-bb03-7d5519a01fe1), [NYC](http://my.setmore.com/shortBookingPage/64ca252f-bf57-4680-b027-c2ed82bcb493), [SF](http://my.setmore.com/shortBookingPage/df34b42d-2a7d-47d9-8a24-f8bfe36de9f0)) from 4-6pm on Tuesdays or attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events. Please do not drop by at any other time. If you have a question about the tour email hello@devbootcamp.com. 
 
 **Q: What are the hours at DBC?** <br>
-**A:** Core hours vary by location. 
+**A:** Building and Core hours vary by location. 
 
-In Chicago, core hours are 8:00am - 5:00pm. Lunch is from 11:30am - 1:00pm. 
-In New York City and San Francisco, core hours are from 9:00am - 6:00pm . Lunch is from 12:30pm - 2:00pm. 
+Core hours are the hours of instruction where students are required to be on site and teachers will be present.
 
-<!-- Building hours are different as well.  -->
+In **Chicago**, core hours are 8:00am - 5:00pm, and lunch is from 11:30am - 1:00pm.
+
+In **New York City** and **San Francisco**, core hours are from 9:00am - 6:00pm, and lunch is from 12:30pm - 2:00pm. 
+
+Building hours for New York City and San Francisco are 7:00am - 2:00am. Students are not allowed to be in the building outside of these hours. 
+
+In Chicago, the building is open 24/7, but students are not allowed to stay the night. 
 
 **Q: I'm trying to add the office hour calendar to my calendar, and it says I don't have access. What do I do?**<br>
 **A:** There are a few reasons this could happen, but it's almost always a permissions issue. As you can imagine, we don't want just ANYONE able to add themselves to
