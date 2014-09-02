@@ -16,33 +16,17 @@
 | Buck O'Leary | <mailto:howardeoleary@gmail.com>
 | Connor Harwood | <mailto:Harwood.connor@gmail.com>
 | Emily Anderson | <mailto:anderson.emilyhi@gmail.com> |
-| Emily Foley | <mailto:foleyemilym@gmail.com> |
 | Emmanuel Kaunitz | <mailto:ekaunitz@devbootcamp.com> |
 | Jonathan Howden | <mailto:jonathanhowden@gmail.com> |
-| Jonathan Wu | <mailto:jonathan.x.wu@gmail.com> |
 | Katherine Hayden | <mailto:katherineimogene@gmail.com> |
 | Keaty Gross | <mailto:holla@keaty.com>
 | Laura Crowe | <mailto:lleecrowe@gmail.com> |
 | Lorena Mesa | <mailto:lorena.n.mesa@gmail.com> |
 | Matt Higgins | <mailto:matthew.alan.higgins@gmail.com> |
-| Mohit Ramchandani | <mailto:mohitr35@gmail.com> |
 | Neal Peters | <mailto:nealcpeters@gmail.com> |
 | Pei Xiong Liu | <mailto:peixiong.liu@gmail.com> |
-| Rick Rubio | <mailto:ickarubio@gmail.com> |
-| Roy Lee | <mailto:lee.sh.roy@gmail.com> |
-<!--
-##### Contact your Phase 0 Facilitator
-Regarding 
-- Changing cohorts or withdrawing
-- Your progress
-- Learning strategies
-- GPS
-- *and anything not included elsewhere*
-
- |Location |Contact |
-> |---------|--------|
-> |Chicago | <mailto:abi@devbootcamp.com>|
-> |New York City | <mailto:samblackman@devbootcamp.com>|
-> |San Francisco| <mailto:greg@devbootcamp.com>
--->
-
+| Osama Zayyad | <mailto:o.zayyad@gmail.com> |
+| Ben Brostoff | <mailto:ben.brostoff@gmail.com> |
+| Michael Hamel | <mailto:hamel.michael.p@gmail.com> |
+| Kenneth Mendoça | <mailto:mendonca.kr@gmail.com> |
+| Armando Reed | <mailto:armandoreed@gmail.com> |
