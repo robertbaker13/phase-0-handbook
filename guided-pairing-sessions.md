@@ -18,7 +18,9 @@ Each GPS challenge is designed to reinforce the learning objectives covered in t
 
 ## Expectations
 
-Each student is required to attend five Guided Pairing Sessions (GPS) during Phase 0. Sessions are based on units and follow a specific curriculum. For this reason, they are only offered during specific times in each particular unit.** 
+Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Sessions are based on units and follow a specific curriculum. For this reason, they are only offered during specific times in each particular unit.
+
+The following schedule will be used for cohorts starting Phase 0 on or after 9/15/2014.
 
 	Unit 1:
  	 - Week 1: Introductory Session
@@ -27,15 +29,17 @@ Each student is required to attend five Guided Pairing Sessions (GPS) during Pha
     
     Unit 2
      - Week 5: GPS 2.1
+     - Week 6: GPS 2.2
      
     Unit 3
      - Week 7: GPS 3.1
+     - Week 8: GPS 3.2
 
 
 ### Courtesy
 
-* Please connect to a reliable internet network in a quiet place
-* Wear headphones during GPS to reduce feedback
+* Please connect to a reliable internet network in a quiet place.
+* Wear headphones during GPS to reduce feedback.
 * Cancel any sessions you cannot make **more than 6 hours prior to your session.**
 * If you have something come up last minute, email your instructor and pair to let them know you will not be able to attend the session.
 * Please note: We only create enough sessions for every person to attend one. Please bear that in mind and try to avoid missing or having to reschedule any sessions.
