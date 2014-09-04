@@ -7,15 +7,9 @@ This will be updated as you ask questions on the google+ community.
 **A:** From this point, all of our sessions will be conducted via google hangout. If you signed up properly, you should have an event on your google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro-gps-signup.md) to sign up. 
 
 **Q: How do I change my DBC email address?** <br>
-**A:** Unfortunately this isn't very simple at this point since we use multiple systems. You should first change your email address on [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and then contact us at phase0@devbootcamp.com with the following template to change your address: 
+**A:** You'll need to do two things to start the process for changing your email. Log into [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and change your account email first. Then complete the "Email Address Change Request" form located on your task list. 
 
-  Please include (just copy paste and fill in):
-  
-  1. Name:
-  2. Cohort and location:
-  3. Old email address:
-  4. New email address:
-  5. Do you want your email changed in Socrates as well? 
+This form will only be viewable once you officially start Phase 0. Please try to change your email at least one week prior to your phase 0 start. Once you get a Socrates login, you will need to complete the email address change request form.
 
 **Q: Can we visit or use DBC space in Phase 0?** <br>
 **A:** In order to maintain an optimal learning environment for students in phases 1 - 3, phase 0 students are not permitted to study in DBC sites prior to starting phase 1. Phase 0 students may, however, sign up for a tour ([CHI](http://my.setmore.com/shortBookingPage/0df7e742-ac22-4daf-bb03-7d5519a01fe1), [NYC](http://my.setmore.com/shortBookingPage/64ca252f-bf57-4680-b027-c2ed82bcb493), [SF](http://my.setmore.com/shortBookingPage/df34b42d-2a7d-47d9-8a24-f8bfe36de9f0)) from 4-6pm on Tuesdays or attend DBCx meetups ( [CHI](http://www.meetup.com/Chicago-DevBootcamp-Speaker-Series/), [NYC](http://www.meetup.com/DBCx-NYC/), [SF](http://www.meetup.com/DBCx-SF-Dev-Bootcamp-San-Francisco-Open-Learning/)) in the space during events. Please do not drop by at any other time. If you have a question about the tour email hello@devbootcamp.com. 
