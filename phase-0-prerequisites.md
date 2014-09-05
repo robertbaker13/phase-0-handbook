@@ -28,7 +28,7 @@ Anticipate spending between 15-20 hours a week on your work during Phase 0 (or m
 #### 1. Create Accounts
 You will need each of these accounts prior to Phase 0, and we will ask you to provide links to your Socrates (our student application) profile when you receive your welcome email.
 
-- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0. If you would like us to conduct email communications with you via gmail, update your email address in [apply.devbootcamp.com](http://apply.devbootcamp.com) as soon as possible **before** starting Phase 0. **Make sure to activate Google+! on this account**
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0. If you would like us to conduct email communications with you via gmail, update your email address in [apply.devbootcamp.com](http://apply.devbootcamp.com) as soon as possible **before** starting Phase 0. **Make sure to activate Google+ on this account**
 
 - [Twitter](https://twitter.com/)<br>You will be using Twitter throughout Phase 0 and will have some challenges using the Twitter API later.
 
@@ -52,7 +52,7 @@ You need to be able to:
 - Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 
 
-### 3. Update your browser
+#### 3. Update your browser
 It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).
 
 
