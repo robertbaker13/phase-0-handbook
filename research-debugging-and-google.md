@@ -18,7 +18,7 @@ Programmers use the term debugging to describe trying to figure out why code isn
 - **Remove code** until it's working again, then add code back in, one small change at a time, until you can pin-point the code that breaks.
 - **Look at the console** and play with the code.  Does it output what you thought it would in the console? If not, figure out what would. If it does, what's different about my code file? (the web inspector, js console, or IRB)
 - **Print stuff out**. In HTML, you can add borders to elements with CSS. In JavaScript, you can use `document.write`, `console.log`, and `alert`. In Ruby, try `puts`, `print`, or `p`.
-- **Describe the code**, line-by-line, to an imaginary friend, [rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or friendly bear.  They know nothing and give know feedback, so you better be really really clear!
+- **Describe the code**, line-by-line, to an imaginary friend, [rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or friendly bear.  They know nothing and give no feedback, so you better be really really clear!
 - **Research**. This includes Googling, StackOverflow, books, and blog posts.
 
 ### Using a Debugger
