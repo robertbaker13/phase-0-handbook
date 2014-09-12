@@ -26,8 +26,3 @@ In apply.devbootcamp.com there is a tutoring request form. Sign in and fill this
 
 Make sure you hit SAVE AND EXIT not save and continue, otherwise the email trigger will not fire.
 
-
-#### Canceling
-To cancel, you will need to go to the **master calendar** and click the 'x' next to your email address - then SAVE. **DO NOT USE the RSVP to cancel** - That is the event on your *personal* calendar and will not remove you from the session on the master. You need to cancel attendance **at least 6 hours in advance** to give other students a chance to sign up. 
-
-If you cancel, be sure to delete [FULL] from the title. 
