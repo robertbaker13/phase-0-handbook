@@ -18,7 +18,7 @@ In order to be successful at Dev Bootcamp, students need to:
 5. Be excited to teach others
 5. Adopt, adapt, or create approaches to solving problems
 
-*Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/) *
+*Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/)*
 
 
 ## Learning and Thinking Styles
