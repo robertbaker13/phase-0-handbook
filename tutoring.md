@@ -5,7 +5,7 @@
 ## Sessions
 The phase 0 guides provide a few 30 minute one-on-one sessions for you to use. These are limited, but can be helpful if you are feeling particularly stuck after consulting your peers and attending office hours. Due to the short timeframe of these meetings, prepare your questions ahead of time to get the most out the sessions.
 
-There are also [office hours](office_hours.md) if you some small issues that needs looking at.
+There are also [office hours](office_hours.md) if you a small issue you would like help with.
 
 
 ## Expectations
