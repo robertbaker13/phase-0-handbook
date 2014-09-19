@@ -4,9 +4,7 @@
 
 Office hours are a time that you can ask questions and bring issues you are having to a phase 0 guide. Some examples of office hours issues are: looking over code, working through parts of a challenge, problems setting up git, getting your development environment on track.
 
-To access the video chat, you need to add the office hours and tutoring calendar to your google calendars.
-
-Follow this [link](https://www.google.com/calendar/embed?src=devbootcamp.com_nlp0d3j0ot6q9rgll6bu6vpjqg@group.calendar.google.com&ctz=America/Los_Angeles) and press the tiny rectangle on the bottom right with the + Google Calendar. Confirm on your calendar and you will be able to join a video call.
+You can access the office hours schedule through the [phase0.devbootcamp.com](phase0.devbootcamp.com) app. You will be able to add the office hour to your calendar to keep track of updates and join the video call when the event occurs.
 
 You do not need to sign up for office hours, just jump into the hangout and ask your questions anytime during that hour. You don't need to stay the whole time.
 
