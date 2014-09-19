@@ -51,7 +51,7 @@ Most students report that peer-pairing sessions are the most helpful and benefic
 *Tip: How did you contact them? A number of students have had issues contacting others via google. Try contacting your pair via email. If you still have difficulty, let your facilitator know and they can try to put you in contact with one another.*
 
 **Problem: "My pair stood me up!"**<br> 
-*Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that there actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
+*Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that their actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
 
 
 **Problem: "My pair drove AND navigated during the session."**<br>
