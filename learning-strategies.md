@@ -55,22 +55,23 @@ All this said, Dev Bootcamp is not the right learning environment for everyone, 
 ####Yellow flags
 We gauge a student's fit in Phase 0 and Dev Bootcamp through their kindness, integrity, and effort that they put into the program. Participation and communication are key components. Students who demonstrate any or a combination of the indicators below may be put on a path for monitoring or being asked to leave. These indicators, or Yellow flags include, but are not limited to:
 
-	- Leaving challenges unfinished
-	- Not following the submission procedure
-	- Copying code on solo challenges
-	- Demonstrating apathy for their pair or the challenge
-	- Letting a pair drive and navigate during a GPS session (taking a back seat)
-	- Missing Guided Pairing Sessions (GPS)
-	- Missing scheduled peer-pairing sessions
-	- Having difficulty engaging with a pair
-	- Lacking the ability to demonstrate the learning objectives
-	- Failing to submit or rate feedback
-	- Not submitting the Reflections
+- Leaving challenges unfinished
+- Not following the submission procedure
+- Copying code on solo challenges
+- Demonstrating apathy for their pair or the challenge
+- Letting a pair drive and navigate during a GPS session (taking a back seat)
+- Missing Guided Pairing Sessions (GPS)
+- Missing scheduled peer-pairing sessions
+- Having difficulty engaging with a pair
+- Lacking the ability to demonstrate the learning objectives
+- Failing to submit or rate feedback
+- Not submitting the Reflections
 
 ####Getting asked to leave
-It's not our goal to kick people out of the program. It is our goal to identify people who will not thrive at Dev Bootcamp. We truly want to save students the pain of leaving their jobs, moving etc. only to find out that Dev Bootcamp isn't the right environment for them.
+It's not our goal to kick people out of the program. It *is* our goal to identify people who will not thrive at Dev Bootcamp. We truly want to save students the pain of leaving their jobs, moving, etc. only to find out that Dev Bootcamp isn't the right environment for them.
 
 We take the decision to ask a student to leave seriously, and we do so after considerable thought. Having one yellow flag emerge during the course of Phase 0 is not a deal-breaker in and of itself, but showing a combination or repeatedly demonstrating any of these indicators is a problem. If this happens, we will warn the student through email. We make decisions to allow students to continue, or ask them to leave, at the end of each unit.
 
-In the event a student is asked to leave, Dev Bootcamp will provide the student with a full refund, including the non-refundable deposit.
+In the event a student is asked to leave because they are struggling with the material, Dev Bootcamp will provide the student with a full refund, including the non-refundable deposit.
 
+However, if a student is asked to leave because they've fallen out of integrity with DBC, they will receive a partial refund less the non-refundable deposit and $200 for every week they were in Phase 0.
