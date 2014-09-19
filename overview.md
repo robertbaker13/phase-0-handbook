@@ -24,6 +24,8 @@ You are expected to pair with a peer a number of times each unit. See [Peer-Pair
 ###Submissions
 You will be asked to submit your challenges at the end of each week. They are due each Sunday at 11:59pm.
 
+Although we ask you to submit your challenges by a deadline, that is mainly to help keep you on track for being prepared for DBC. We will not be checking the vast majority of your code during phase 0. (A code review takes about 15 minutes per challenge and we simply do not have the resources for that). At this point you will receive feedback on two challenges during Phase 0. The majority of feedback will be given by your peers. This is very similar to the immersive part of the program as well. 
+
 ### Challenges
 
 Completing challenges does not mean that you have the right answer, the perfect code, or the best explanation.  It is your **own, honest, best** attempt at tackling the challenge using the process we defined (pseudocode, code, refactor, reflect), and we are most concerned with how quickly you can learn, not the "right" answer.
