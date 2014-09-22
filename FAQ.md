@@ -27,17 +27,6 @@ Building hours for New York City and San Francisco are 7:00am - 2:00am. Students
 
 In Chicago, the building is open 24/7, but students are not allowed to stay the night. 
 
-**Q: I'm trying to add the office hour calendar to my calendar, and it says I don't have access. What do I do?**<br>
-**A:** There are a few reasons this could happen, but it's almost always a permissions issue. As you can imagine, we don't want just ANYONE able to add themselves to
-sessions, so we only allow certain people viewing and editing access. We do this through google groups. 
-
-What email address are you receiving our communications from? If it is different from your google calendar account, you'll need to submit an email address change request (shown above). 
-
-If you have two separate google accounts, make sure you are signing up under the one we sent the invite to. If you want to change it, please submit and email address change request. 
-
-**Q: I didn't receive a google calendar invite. How can I get access to the necessary calendars?**<br>
-**A:** Because we use google groups to maintain permissions (far easier than inviting everyone separately), you won't always receive an email. But if your address is correct in the google group, you automatically have access. Go to the google+ community and find the two calendar links under "About this community." You can then add them. 
-
 **Q: Is DBC closed on US federal holidays?**<br>
 **A:** DBC only honors the following holidays that occur during phases: Thanksgiving and Independence Day (July 4). During those days, the staff has the day off, but the curriculum is still up and needs to be completed. 
 
