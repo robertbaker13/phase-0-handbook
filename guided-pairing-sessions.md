@@ -56,7 +56,7 @@ NOTE: If you are paired with an instructor without another pair, the session wil
 
 
 ## Success Guidelines
-These sessions are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, they are also ways for us to track how you are doing in Phase 0 to this point and will be used as determining factors in whether you will continue through the program or not. Guided Pairing Sessions give us a better idea of whether you will be successful in the program. This is not meant to discourage you or make you think each session is a test. We guage your success based on the following metrics. 
+These sessions are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, they are also ways for us to track how you are doing in Phase 0 to this point and will be used as determining factors in whether you will continue through the program or not. Guided Pairing Sessions give us a better idea of whether you will be successful in the program. This is not meant to discourage you or make you think each session is a test. We gauge your success based on the following metrics. 
 
 ###Culturally we are looking for your:
 
