@@ -14,13 +14,13 @@ Software Engineers pair in order to:
 * share or transfer knowledge
 * on-board new developers
 
-That said pairing varies between teams.  Some pair 99% of the time; some pair only some of the time; others pair only when it makes sense.  
+That said pairing varies between teams.  Some pair 99% of the time; some pair only some of the time; others pair only when it makes sense.
 
-Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open-mind on pairing throughout DBC and challenge yourself to work on your pairing skills while here. 
+Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open-mind on pairing throughout DBC and challenge yourself to work on your pairing skills while here.
 
 ### Pairing Arrangements
 
-Within the industry there are a number of different pairing arrangements.  In each case, **two programmers code with only one person typing at a time.** 
+Within the industry there are a number of different pairing arrangements.  In each case, **two programmers code with only one person typing at a time.**
 
 #### Driver-Navigator Pairing
 Driver-Navigator pairing involves the driver typing and the navigator talking and leading the driver.  The driver gives input, but should be focused on the area of code instructed by the navigator.  **The driver presses the gas, but the navigator says when to turn.**
@@ -36,7 +36,7 @@ This is a variation of Driver-Navigator pairing, where one person is more knowle
 * **Novice observes** In this scenario, the novice observes while the expert drives and navigates.  This can be used to demonstrate information, but should never be used for a full pairing session.
 
 #### Switching Roles
-It is common -- and *expected* -- that pairs switch roles.  
+It is common -- and *expected* -- that pairs switch roles.
 
 Ideally, switching happens organically.
 Half way through each pairing session you and your pair should switch roles if you haven't already.
@@ -46,7 +46,7 @@ Half way through each pairing session you and your pair should switch roles if y
 
 ## Pairing in Phase 0
 
-For Phase 0 (and much of your time as DBC), we will use **Driver-Navigator** pairing.  
+For Phase 0 (and much of your time as DBC), we will use **Driver-Navigator** pairing.
 
 *If there is a case where one student is more knowledgable or has already completed a problem, you should almost always use Expert-Novice where Expert Drives*
 
@@ -67,18 +67,18 @@ This means:
 Successful pairing requires two components:
 
 #### Good Communication
-Good communication during pairing is mainly through vocalizing your thoughts and thought process. 
+Good communication during pairing is mainly through vocalizing your thoughts and thought process.
 
-If you don't understand, you should tell your partner. 
+If you don't understand, you should tell your partner.
 
-If you want to try something in IRB, tell your pair.  
+If you want to try something in IRB, tell your pair.
 
-If you want to go research something, tell your partner. 
+If you want to go research something, tell your partner.
 
-*Tell your partner everything you are thinking and doing!* 
+*Tell your partner everything you are thinking and doing!*
 
 #### Being on the same page
-Both people should know the exact line of code and the solution or concept they are discussing. 
+Both people should know the exact line of code and the solution or concept they are discussing.
 
 **Good pairing sessions feel like a conversation**.
 
@@ -92,3 +92,9 @@ While pairing in Phase 0, **you cannot communicate too much**.  For realz.
 I hope it goes without saying (but I will say it anyway) that pairing or any other communication during DBC should not involve inappropriate topics.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
 
 
+## Pairing Resources
+- [Peer-Pairing in Phase 0](peer-pairing-sessions.md)
+- Good Check-ins for [Pairing](https://vimeo.com/76662569) Video: 5 min
+- Our collaborative coding editor video [Stypi](https://vimeo.com/76870082) 2 min
+- G[uided Pairing Sessions (GPS) in Phase 0](guided-pairing-sessions.md)
+- Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
