@@ -87,4 +87,7 @@ end
 p divide_number(8920, 34) == 262.35294
 
 ```
-If you run this code, it will return false.
+
+If you run this code, it will return false. This tells us that our expected output (262.35294) is not what is ACTUALLY being output. Now we can see what is being output, by removing or commenting out the '== 262.35294' and from there we can change how our method works to reach the desired output.
+
+Generally, you want to write tests for all of the
