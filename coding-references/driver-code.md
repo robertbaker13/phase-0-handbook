@@ -6,10 +6,10 @@ You may hear people at DBC talk about driver code, this is a term that pretty mu
 
 ## Making things run
 
-Say you create a really syoull ruby method that took you a long time to write.
+Say you create a really cool ruby method that took you a long time to write.
 
+lets say that I have a file called start_up.rb
 ```ruby
-start_up.rb
 
 def algorithm_for_my_start_up
   puts "Hey! You should consider signing up for my product."
@@ -112,11 +112,19 @@ Some of the challenges you will complete have a panel of Rspec tests you will ex
 Rspec is daunting to beginners, so I will break down a simple Rspec example to give you an idea of what is going on. You do not have to have ANY knowledge about how to write Rspec tests during phase 0.
 
 ```ruby
+# this is called a describe block. It allows us to encapsulate different responsibilities of tests.
+# You can assume that everything between this do..end will have to do with the variable old_string.
 
-describe "old_string" do                       # this is called a describe block. It allows us to encapsulate different responsibilities of tests. you can assume that everything betyouen this do..end will have to do with the variable old_string.
+describe "old_string" do
 
-  it "has the value 'Ruby is cool'" do         # it block. This is the start of the test. you can write a string to describe what this test is going to be testing. In this case you want old_string to have the value of 'Ruby is cool'.
-    expect(old_string).to eq "Ruby is cool"    # this is the expectation. Code gets executed inside the expect method and the output is compared to the string "Ruby is cool". There are many ways you can compare like .to eq, .to be, .to not_be etc.
+  it "has the value 'Ruby is cool'" do         # it block. This is the start of the test. you can write a string to
+                                               # describe what this test is going to be testing. In this case you want
+                                               # old_string to have the value of 'Ruby is cool'.
+
+    expect(old_string).to eq "Ruby is cool"    # this is the expectation. Code gets executed inside the expect method
+                                               # and the output is compared to the string "Ruby is cool". There are many
+                                               # ways you can compare like .to eq, .to be, .to not_be etc.
+
   end                                          # end of the it block
 
 end                                            # end of the describe block
