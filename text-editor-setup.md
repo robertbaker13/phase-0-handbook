@@ -22,7 +22,7 @@ Linux support:
 
 ### 3. Add sublime as your default editor for git:
 
-```$ git config --global core.editor subl```
+```$ git config --global core.editor "subl -w"```
 
 remember the $ is just the sign for the directory. You don't type that in.
 
