@@ -8,9 +8,13 @@
 
 Here are some guides:
 
-Official Sublime guide:
+OSX support:
 
-[OSX](https://www.sublimetext.com/docs/2/osx_command_line.html)
+```
+ln -fs "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+```
+
+also check out the [Official Guide](https://www.sublimetext.com/docs/2/osx_command_line.html).
 
 Windows users use this:
 
