@@ -1,89 +1,133 @@
 # Driver Test Code with Ruby
 
-As a student at DBC, you will probably encounter a few different ways of writing Driver code.
+## What is Driver test code?
 
-###1) Driver Code
-Driver code simply calls a method or creates an object. It takes your code and actually makes it run. 
-```ruby
-separate_comma(1000)
+You may hear people at DBC talk about driver code, this is a term that pretty much exists inside the scope of dev bootcamp. Everyone else in the software development industry calls this 'testing'. The purpose of driver test code is two-fold. To make your program run and to test that it is working as you intend.
 
-nike = shoe.new("air jordan")
+## Making things run
 
-```
+Say you create a really cool ruby method that took you a long time to write.
 
-###2) Driver Code with Comments
-Driver code that has an expected result commented out. You will have to do a mental check to see whether the output is what you expected.
-```ruby
-separate_comma(1000)    # => "1,000"
-```
-
-###3) Driver Test Code 
-Driver test code uses the equality operator (==) to check whether the method call is equal to what you expected. If the code worked properly, it will return `true`. If it is not functioning as you expected, it will return false.
-```ruby 
-puts separate_comma(1000) == "1,000"
-```
-
-###What format of test code is best?
-
-You are a human and you are smart! Much smarter than a computer. But it takes a lot of brain power to remember exactly what you want something to look like. Let's take a Roman Numeral converter, for instance. It would get really easy to get a bit boggled down in the details or miss an error. 
-
+lets say that I have a file called start_up.rb
 ```ruby
 
-num_to_roman(25) == "XXV"
-num_to_roman(1999) == "MCMXCIX"
-
+def algorithm_for_my_start_up
+  puts "Hey! You should consider signing up for my product."
+  puts "What is your name?"
+  name = gets.chomp
+  puts "What is your bank account number?"
+  money = gets.chomp
+end
 ```
-
-So simply calling the method isn't the best option because you have to remember, and manually check, whether your expected output is what you got. 
-That's a lot of work for you, and it's conveniently what computers are good at! 
-
-Moreover, since other programmers are lazy and don't care what the output should be, you should make it as simple as possible to know whether something is working properly. To do this, you'll want to write Driver Test Code (#3) that returns a simple `true` if it's working, `false ` otherwise. 
-
-When you are debugging it may be useful to use the second option because seeing the actual output of the tests is much more helpful than seeing a `true` or `false`. However, after your code is working correctly and passing your tests, you shouldn't leave the expectation in a comment. Imagine if you were another programmer and you ran this test code. You'd see (in this case) a long list of numbers, and it would be unclear whether the code was actually working correctly.
+Now if I go into the terminal and run my program
 
 ```shell
-> ruby separate_commas.rb
-7
-883
-1,233
-89,434
-100,334,555
-1,893,320,493,894,578
+$ ruby start_up.rb
 ```
-
-Option 3 helps dramatically.  When running this format of test code, all the tests return `true` or `false`.  Another programmer immediately knows if the program is correctly working.  And a quick look at the test code makes the input and output clear.
-
-```shell
-> ruby separate_commas.rb
-true
-true
-true
-true
-true
-true
-```
-
-It's important to test as many cases as possible where your code could mess up, we call these "edge cases" to make sure any little exception is covered. Otherwise you could end up not testing all the cases you thought. 
+Nothing happened! Why? you defined our method but have not __called__ our method yet. you need to add some code to make our code run.
 
 ```ruby
-nums_to_words(1) == "one"
-nums_to_words(10) == "ten"
-nums_to_words(100) == "one hundred"
-nums_to_words(150) == "one hundred fifty"
-nums_to_words(199) == "one hundred ninety nine"
-nums_to_words(213) == "two hundred thirteen" #=> This could easily return something like "two hundred ten three".
+def algorithm_for_my_start_up
+  puts "Hey! You should consider signing up for my product."
+  puts "What is your name?"
+  name = gets.chomp
+  puts "What is your bank account number?"
+  money = gets.chomp
+end
+
+algoritm_for_my_start_up
+```
+
+Now when you run the code in the terminal, it will execute the method. This makes our code run, but what about methods that don't automatically print to the screen?
+
+```ruby
+def business_logic(number)
+  sum = number + 5
+end
+
+business_logic(5)
+```
+
+This code will execute, but nothing gets put to the console. you need to dress up our method call to view what is going on.
+
+```ruby
+def business_logic(number)
+  sum = number + 5
+end
+
+p business_logic(5)
+```
+
+you have the option to use `p` or `puts` or `print` here. Here is a handy chart to see the difference:
+
+| Name of method | Does it return the value of the method or variable | Does it print to the console | Does it automatically add a newline at the end of the return value |
+|---------------|-------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------|
+| `puts`   |  No, returns nil |  Yes  | Yes |
+| `p`      | Yes | Yes | Yes |
+| `print` | No, returns nil | Yes | No |
+
+If you are looking to return a value and print it to the console, `p` is your choice. If you just want to print to the console then you can use `puts`. `print` is more of a specialized method.
+
+Now when you run this code, you will see the number 10 on the terminal.
+
+##Testing our expectations
+
+Now that you know how to run the code and see what is being returned, you want to set up a set of expectations to see if our code is behaving like you expect it to. Testing is a core concept in programming and you will be doing plenty of it in your career.
+
+Testing basically ansyours the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. Specifically using the '==' comparator.
+
+The most popular testing framework for Ruby is called Rspec, and the most popular testing framework for Javascript is called Jasmine *the more you know*.
+
+Take this code:
+
+```ruby
+def divide_number(dividend, divisor)
+  quotient = dividend / divisor
+end
+
+divide_number(8920, 34)
+```
+
+This is math that most of us can not do in our head, can you trust the computer to do what you expect it to? Lets write some tests to see.
+
+```ruby
+def divide_number(dividend, divisor)
+  quotient = dividend / divisor
+end
+
+p divide_number(1000, 25) == 40 # returns true
+
+p divide_number(8920, 34) == 262.35294 # returns false
 
 ```
 
-###An optimal test code format
-So this isn't a perfect form of tests, and there are testing frameworks that help. You'll encounter testing frameworks in various weeks in phase 0. For now, using driver test code is a good start, but you can also challenge yourself to write tests that provide more clarity. 
+If you run this code, it will return one true and one false. This tells us that our expected output (262.35294) for the second test is not what is ACTUALLY being output. You can see what is being output by removing or commenting out the '== 262.35294' and from there you can change how our method works to reach the desired output.
 
-You can write Driver test code to help immediately answer questions like:
-* "What is the actual test that is passing or failing?"  
-* "What is the context of the test?"
-* "What did the code return if it failed?"
-* "If there was an error when the code ran, what was it?"
+Generally, you want to write tests for all of the outputs of your methods. You can also try and find inputs that will break your code. These inputs are called edge cases. For example, an edge case for the divide_number method could be divide_number(10, 0). This would result in an error and crash your program because you can not divide by 0.
 
-In a future challenge, try writing some test code that answers some of these questions!  While it's not mandatory for your solutions, (only Option 3 is at this point), investigating how to create a good testing suite is a very worthwhile endeavor.
+## Rspec
 
-Later, when we dealve into [Rspec](http://en.wikipedia.org/wiki/RSpec), you'll understand just how much work went into making the industry standard testing suite for ruby and rails.
+Some of the challenges you will complete have a panel of Rspec tests you will execute to test your expectations for you. You can use the rspec on its own, and you can write your own test code (like you did above, not in Rspec) to help you reach the correct output.
+
+Rspec is daunting to beginners, so I will break down a simple Rspec example to give you an idea of what is going on. You do not have to have ANY knowledge about how to write Rspec tests during phase 0.
+
+```ruby
+# this is called a describe block. It allows us to encapsulate different responsibilities of tests.
+# You can assume that everything between this do..end will have to do with the variable old_string.
+
+describe "old_string" do
+
+  it "has the value 'Ruby is cool'" do         # it block. This is the start of the test. you can write a string to
+                                               # describe what this test is going to be testing. In this case you want
+                                               # old_string to have the value of 'Ruby is cool'.
+
+    expect(old_string).to eq "Ruby is cool"    # this is the expectation. Code gets executed inside the expect method
+                                               # and the output is compared to the string "Ruby is cool". There are many
+                                               # ways you can compare like .to eq, .to be, .to not_be etc.
+
+  end                                          # end of the it block
+
+end                                            # end of the describe block
+```
+
+Again, don't waste your time learning Rspec now, the only thing you have to know is that you need to run rspec files with `$ rspec file_name.rb` You will spend plenty of time learning and writing Rspec tests on site.
