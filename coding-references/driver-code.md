@@ -1,8 +1,8 @@
 # Driver Test Code with Ruby
 
-## What is Driver test code?
+## What is Driver Test Code?
 
-You may hear people at DBC talk about driver code, this is a term that pretty much exists inside the scope of dev bootcamp. Everyone else in the software development industry calls this 'testing'. The purpose of driver test code is two-fold. To make your program run and to test that it is working as you intend.
+You may hear people at DBC talk about driver code. This is a term that pretty much exists inside the scope of Dev Bootcamp. Everyone else in the software development industry calls this 'testing'. The purpose of driver code is two-fold: to make your program run and to test that it is working as you intended.
 
 ## Making things run
 
