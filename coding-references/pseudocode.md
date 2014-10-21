@@ -25,11 +25,11 @@ Instead, you would probably want something more like:
 ```ruby
 #PSEUDOCODE
 # Create array all letters
-# split input of letters into array
+# Split input of letters into array
 # Iterate through the input array 
 # Check index of letter in all_letters array
 # index = index + 1
-# push index to new array
+# Push index to new array
 # Convert finished array of numbers to string
 ```
 
@@ -37,5 +37,5 @@ You should feel free to supplement your pseudocoding with trying things out in I
 
 If you would like guidance or an some ideas on how to write pseudocode, take a look at this [pseudocode standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) example.
 
-Pseudocode is for you. It may seem trivial and silly  for simple challenges, but its an important and necessary step when you are working on more complex problems. You will want to get into practice of pseudocoding early so you are prepared for organizing your thoughts when it's required. 
+Pseudocode is for you. It may seem trivial and silly  for simple challenges, but it's an important and necessary step when you are working on more complex problems. You will want to get into practice of pseudocoding early so you are prepared for organizing your thoughts when it's required. 
 
