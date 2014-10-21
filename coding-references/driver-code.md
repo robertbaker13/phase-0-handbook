@@ -8,7 +8,7 @@ You may hear people at DBC talk about driver code, this is a term that pretty mu
 
 Say you create a really cool ruby method that took you a long time to write.
 
-lets say that I have a file called start_up.rb
+Let's say that I have a file called start_up.rb
 ```ruby
 
 def algorithm_for_my_start_up
@@ -19,12 +19,12 @@ def algorithm_for_my_start_up
   money = gets.chomp
 end
 ```
-Now if I go into the terminal and run my program
+Now I go in to the terminal and run my program.
 
 ```shell
 $ ruby start_up.rb
 ```
-Nothing happened! Why? you defined our method but have not __called__ our method yet. you need to add some code to make our code run.
+Nothing happened! Why? We defined our method but have not __called__ our method yet. We need to add some code to make our code run.
 
 ```ruby
 def algorithm_for_my_start_up
@@ -48,7 +48,7 @@ end
 business_logic(5)
 ```
 
-This code will execute, but nothing gets put to the console. you need to dress up our method call to view what is going on.
+This code will execute, but nothing gets put to the console. We need to dress up our method call to view what is going on.
 
 ```ruby
 def business_logic(number)
@@ -58,7 +58,7 @@ end
 p business_logic(5)
 ```
 
-you have the option to use `p` or `puts` or `print` here. Here is a handy chart to see the difference:
+You have the option to use `p` or `puts` or `print` here. Here is a handy chart to see the difference:
 
 | Name of method | Does it return the value of the method or variable | Does it print to the console | Does it automatically add a newline at the end of the return value |
 |---------------|-------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------|
@@ -76,7 +76,7 @@ Now that you know how to run the code and see what is being returned, you want t
 
 Testing basically ansyours the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. Specifically using the '==' comparator.
 
-The most popular testing framework for Ruby is called Rspec, and the most popular testing framework for Javascript is called Jasmine *the more you know*.
+The most popular testing framework for Ruby is called Rspec, and the most popular testing framework for JavaScript is called Jasmine.
 
 Take this code:
 
@@ -88,7 +88,7 @@ end
 divide_number(8920, 34)
 ```
 
-This is math that most of us can not do in our head, can you trust the computer to do what you expect it to? Lets write some tests to see.
+This is math that most of us can not do in our head. Can you trust the computer to do what you expect it to? Let's write some tests to see.
 
 ```ruby
 def divide_number(dividend, divisor)
@@ -101,9 +101,9 @@ p divide_number(8920, 34) == 262.35294 # returns false
 
 ```
 
-If you run this code, it will return one true and one false. This tells us that our expected output (262.35294) for the second test is not what is ACTUALLY being output. You can see what is being output by removing or commenting out the '== 262.35294' and from there you can change how our method works to reach the desired output.
+If you run this code, it will return one true and one false. This tells us that our expected output (262.35294) for the second test is not what is ACTUALLY being output. You can see what is  output by removing or commenting out the '== 262.35294'. From there you can change how our method works to reach the desired output.
 
-Generally, you want to write tests for all of the outputs of your methods. You can also try and find inputs that will break your code. These inputs are called edge cases. For example, an edge case for the divide_number method could be divide_number(10, 0). This would result in an error and crash your program because you can not divide by 0.
+Generally, you want to write tests for all of the outputs of your methods. You can also try and find inputs that will break your code. These inputs are called edge cases. For example, an edge case for the divide_number method could be divide_number(10, 0). This would result in an error and crash your program because you cannot divide by 0.
 
 ## Rspec
 
@@ -130,4 +130,4 @@ describe "old_string" do
 end                                            # end of the describe block
 ```
 
-Again, don't waste your time learning Rspec now, the only thing you have to know is that you need to run rspec files with `$ rspec file_name.rb` You will spend plenty of time learning and writing Rspec tests on site.
+Again, don't waste your time learning Rspec now. The only thing you have to know is that you need to run Rspec files with `$ rspec file_name.rb` You will spend plenty of time learning and writing Rspec tests on site.
