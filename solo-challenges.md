@@ -51,7 +51,7 @@ If we suspect the work you submitted is not your own, which we determine from se
 
 ## Code Review and Feedback
 
-You will receive a code review and feedback twice in phase 0 (once in unit 1 and once in unit 2). This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve, without presenting it in, pardon my French, a shit sandwich. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp? 
+You will receive a code review and feedback twice in Phase 0 (once in Unit 1 and once in Unit 2). This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp? 
 
 Although we do not give grades, we will evaluate your code to see if you are learning the objectives we are covering. If you seem to be struggling, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan. 
 
