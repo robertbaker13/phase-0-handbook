@@ -35,14 +35,14 @@ If you are starting as a bashful beginner, your attempts may not even yield a wo
 ***
 The objectives and challenges for each unit are not suggestions, and they are not optional.  These are expectations that we have of you in order for you to succeed and thrive during Phase 0, which will determine whether or not you’ll thrive during phases 1-3 at DBC.
 
-We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to contact your Phase 0 Facilitator. [See Contacts](contact-and-support-list.md)
+We expect you to satisfy your objectives on time, which means completing the week’s assignments and challenges by the following Sunday at 11:59pm.  If for any reason you cannot submit all of the challenges by that day, you need to [contact](contact-and-support-list.md) your Phase 0 Facilitator. 
 
 If you are not meeting these objectives and we do not know why, we start assuming one of two things:
 
 1. You are having trouble with the content and are unable to learn quickly enough to satisfy the objectives.
 2. You are not committed to Phase 0 and something has changed regarding your commitments to DBC and your learning.
 
-In either of these cases if we cannot clear with you what’s going on and give you the assistance you need, this indicates to us that you might not be a good fit for DBC.
+In either of these cases if we cannot find out what’s going on and give you the assistance you need, this indicates to us that you might not be a good fit for DBC.
 
 So if the situation persists and you are not satisfying your objectives, not asking for help, and we don’t know your situation, we will review your admittance to DBC and potentially ask you to withdraw or delay your admittance.
 
