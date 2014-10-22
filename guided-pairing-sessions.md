@@ -9,7 +9,7 @@ Guided Pairing Sessions (GPS) were started with a few goals in mind:
  2. Help students develop greater technical understanding by giving them access to instructors
  3. Prepare students for Dev Bootcamp (DBC) by placing them in a similar scenario to day-to-day life at DBC
 
-Instructors use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and help students develop a deeper understanding of technical material. 
+Instructors use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and to help students develop a deeper understanding of technical material. 
 
 Each GPS challenge is designed to reinforce the learning objectives covered in the unit up to that point. These are opportunities for you to identify and clarify concepts that are confusing as well as to get practice pairing. 
 <br>
