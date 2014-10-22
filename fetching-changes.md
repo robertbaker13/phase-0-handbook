@@ -8,7 +8,7 @@ Navigate to the appropriate directory in your terminal. Make sure you are in the
 
 
 ## Using the Command Line 
-*(Adapted from [Github](https://help.github.com/articles/syncing-a-fork)).*
+*(Adapted from [GitHub](https://help.github.com/articles/syncing-a-fork)).*
 
 **Note: Syncing your fork only updates your local copy of the repository; it does not update your repository on GitHub.**
 
