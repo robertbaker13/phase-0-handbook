@@ -18,7 +18,7 @@ GPS are mandatory pairing sessions held six times in Phase 0. You must attend GP
 
 ### Here are the steps to sign up:
 
-1. Click on "Sign up for a GPS Session" in the [scheduling app](https://phase0.devbootcamp.com/login).
+1. Navigate to the [scheduling app](https://phase0.devbootcamp.com/login).
 2. You will be taken to a screen to sign up for a GPS. Click "Sign up for a GPS."
 3. You'll see all available times. Click "Sign Up" on one that works for you.
 
