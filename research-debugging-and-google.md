@@ -2,11 +2,11 @@
 
 # Research, Debugging, and Google
 
-Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  This site (Github) was built to help people share code.
+Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  This site (GitHub) was built to help people share code.
 
 In fact, sharing code, either as an open source project or teaching through blog posts or talks, is part of the ethos of many software developers and especially within the Ruby on Rails community.
 
-Learning to Google and find solutions online is an essential part of learning  to code and being a successful coder.
+Learning to utilize Google and find solutions online is an essential part of learning to code and being a successful coder.
 
 That said, it does not come without some murky ethical waters, particularly for students.
 
@@ -16,10 +16,10 @@ Programmers use the term debugging to describe trying to figure out why code isn
 
 ### Tips for Debugging
 - **Remove code** until it's working again, then add code back in, one small change at a time, until you can pin-point the code that breaks.
-- **Look at the console** and play with the code.  Does it output what you thought it would in the console? If not, figure out what would. If it does, what's different about my code file? (the web inspector, js console, or IRB)
+- **Look at the console** and play with the code. Does it output what you thought it would in the console? If not, figure out what would. If it does, what's different about my code file? (the web inspector, js console, or IRB)
 - **Print stuff out**. In HTML, you can add borders to elements with CSS. In JavaScript, you can use `document.write`, `console.log`, and `alert`. In Ruby, try `puts`, `print`, or `p`.
 - **Describe the code**, line-by-line, to an imaginary friend, [rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or friendly bear.  They know nothing and give no feedback, so you better be really really clear!
-- **Research**. This includes Googling, StackOverflow, books, and blog posts.
+- **Research**. This includes Google, StackOverflow, books, and blog posts.
 
 ### Using a Debugger
 Debuggers are tools that will stop the execution of your code, so you can play with things while it's running.
