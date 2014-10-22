@@ -74,9 +74,9 @@ Now when you run this code, you will see the number 10 on the terminal.
 
 Now that you know how to run the code and see what is being returned, you want to set up a set of expectations to see if our code is behaving like you expect it to. Testing is a core concept in programming and you will be doing plenty of it in your career.
 
-Testing basically ansyours the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. Specifically using the '==' comparator.
+Testing answers the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. Specifically using the '==' comparator.
 
-The most popular testing framework for Ruby is called Rspec, and the most popular testing framework for JavaScript is called Jasmine.
+The most popular testing framework for Ruby is called RSpec, and the most popular testing framework for JavaScript is called Jasmine.
 
 Take this code:
 
@@ -105,11 +105,11 @@ If you run this code, it will return one true and one false. This tells us that 
 
 Generally, you want to write tests for all of the outputs of your methods. You can also try and find inputs that will break your code. These inputs are called edge cases. For example, an edge case for the divide_number method could be divide_number(10, 0). This would result in an error and crash your program because you cannot divide by 0.
 
-## Rspec
+## RSpec
 
-Some of the challenges you will complete have a panel of Rspec tests you will execute to test your expectations for you. You can use the rspec on its own, and you can write your own test code (like you did above, not in Rspec) to help you reach the correct output.
+Some of the challenges you will complete have a panel of RSpec tests you will execute to test your expectations for you. You can use the RSpec on its own, and you can write your own test code (like you did above, not in RSpec) to help you reach the correct output.
 
-Rspec is daunting to beginners, so I will break down a simple Rspec example to give you an idea of what is going on. You do not have to have ANY knowledge about how to write Rspec tests during phase 0.
+RSpec is daunting to beginners, so I will break down a simple RSpec example to give you an idea of what is going on. You do not have to have ANY knowledge about how to write RSpec tests during Phase 0.
 
 ```ruby
 # this is called a describe block. It allows us to encapsulate different responsibilities of tests.
@@ -130,4 +130,4 @@ describe "old_string" do
 end                                            # end of the describe block
 ```
 
-Again, don't waste your time learning Rspec now. The only thing you have to know is that you need to run Rspec files with `$ rspec file_name.rb` You will spend plenty of time learning and writing Rspec tests on site.
+Again, don't waste your time learning RSpec now. The only thing you have to know is that you need to run RSpec files with `$ rspec file_name.rb` You will spend plenty of time learning and writing RSpec tests on site.
