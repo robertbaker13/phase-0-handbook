@@ -30,6 +30,5 @@ In order to make sure you and your pairs receive the feedback you've each submit
 
 Unfortunately, there is no counter in Socrates for you to keep track of the amount you rate, so it is up to you to find a way to keep track of how many pieces you've rated. You will be expected to keep track of how much feedback you rate and enter it on your weekly submission form. 
 
-**If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx)
-
+**If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx)**
 
