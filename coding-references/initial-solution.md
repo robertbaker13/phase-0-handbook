@@ -2,7 +2,7 @@
 
 Now you actually get to code! Your entire goal here is to translate your pseudocode into code. This should be easy if you took your time to pseudocode well.
 
-If your pseudocode is not easy to implement, modify it, and re-attempt to code it. 
+If your pseudocode is not easy to implement, modify it and re-attempt to code it. 
 
 Run your code often to check whether you are successfully passing your tests. 
 
