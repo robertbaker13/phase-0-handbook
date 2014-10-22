@@ -1,4 +1,4 @@
-# How to Fetch Devbootcamp's Curriculum Changes 
+# How to Fetch Dev Bootcamp's Curriculum Changes 
 
 Dev Bootcamp makes modifications and edits to the curriculum often. When this happens you'll need to "fetch" the changes from Github.com into your personal repository. This can be confusing to do, so thankfully, we've created this handy guide for you to do it via the command line or GitHub app.
 
