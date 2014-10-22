@@ -31,7 +31,7 @@ Please keep in mind that all students are busy and working hard to balance work 
 
 You will be successful if you:
 
-	- Check in with your pair according to the [Pairing is Caring](http://vimeo.com/76662569) video. 
+	- Check in with your pair according to the Pairing is Caring* video. 
 	- Decide which of you will be driver and navigator, discuss what each role requires, and stick with it. 
 	- Ask your pair to switch roles so you each know your responsibilities
 	- Keep communication open and tell your pair when you need time to think
@@ -41,6 +41,7 @@ You will be successful if you:
 	- Use feedback you've received to become a better pair
 	- Alternate between driving and navigating. Aim to spend about 50% of your time in each role.
 
+*[Pairing is Caring](http://vimeo.com/76662569)
 
 ### Problems and Tips
 Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
