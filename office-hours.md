@@ -10,6 +10,6 @@ You do not need to sign up for office hours, just jump into the hangout and ask 
 
 Please note: office hours are times to get help with concepts in the Phase 0 curriculum. We know that many of you take some extra time to work on other projects you want help on, but advanced questions from these projects should wait for DBC on site.
 
-*If the guide who created the session is not there, please email Phase 0 at <mailto:phase0@devbootcamp.com>.
+*If the guide who created the session is not there, please email <mailto:phase0@devbootcamp.com>.
 
 
