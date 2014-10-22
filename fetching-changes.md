@@ -1,10 +1,10 @@
 # How to Fetch Devbootcamp's Curriculum Changes 
 
-Devbootcamp makes modifications and edits to the curriculum often. When this happens you'll need to "fetch" the changes from Github.com into your personal repository. This can be confusing to do, so thankfully, we've created this handy guide for you to do it via the command line or GitHub app.
+Dev Bootcamp makes modifications and edits to the curriculum often. When this happens you'll need to "fetch" the changes from Github.com into your personal repository. This can be confusing to do, so thankfully, we've created this handy guide for you to do it via the command line or GitHub app.
 
-It's important to note that **fetching changes will NOT override your work.** On the rare occasion we do modify a 'my_solution' file, you may have a merge conflict, All you'll have to do is select which parts you want. This is not likely to happen, so don't worry about it much. 
+It's important to note that **fetching changes will NOT override your work.** On the rare occasion we do modify a 'my_solution' file, you may have a merge conflict. All you'll have to do is select which parts you want. This is not likely to happen, so don't worry about it much. 
 
-Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase-0-unit-1`, `phase-0-unit-2`, or `phase-0-unit-3`. Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
+Navigate to the appropriate directory in your terminal. Make sure you are in the **master branch** of the repo you want to update (`phase-0-unit-1`, `phase-0-unit-2`, or `phase-0-unit-3`). Check this by running `git branch` in your terminal. DO NOT try fetching changes into a different repo (than the one you want to update) or your [USERNAME].github.io repo. You will mess things up!
 
 
 ## Using the Command Line 
@@ -78,7 +78,7 @@ $ git branch -va
 ```
 
 ###2. Merge the changes
-Now that you have Devbootcamp's changes stored in your local repository, you need to merge the changes with yours. 
+Now that you have Dev Bootcamp's changes stored in your local repository, you need to merge the changes with yours. 
 
 First make sure you are on your master branch. 
 
@@ -92,7 +92,7 @@ $ git checkout master
 # switch to your master branch
 ```
 
-Then merge the changes.This will bring your master branch into sync with Devbootcamp's master branch - and you won't lose your local changes. 
+Then merge the changes. This will bring your master branch into sync with Dev Bootcamp's master branch - and you won't lose your local changes. 
 
 ```shell
 $ git merge upstream/master
@@ -101,7 +101,7 @@ $ git merge upstream/master
 
 If you did not have any un-synced commits, git will perform a "fast-forward". 
 
-Sometimes git will open up a vim or sublime window and ask for a commit message. If you're in sublime, you can simply save and quit, or change the top line with a commit message you choose - then save and quit. 
+Sometimes git will open up a Vim or Sublime window and ask for a commit message. If you're in Sublime, you can simply save and quit, or change the top line with a commit message you choose - then save and quit. 
 
 If you have a weird window pop up that looks like this: ![vim window](imgs/vim-window.png)
 
@@ -110,7 +110,7 @@ If you have a weird window pop up that looks like this: ![vim window](imgs/vim-w
 ###3. Commit and push your new local repository with your remote fork on github.com
 
 ```shell
-$ git commit -m "added Devbootcamp's changes"
+$ git commit -m "added Dev Bootcamp's changes"
 
 $ git push origin master
 # origin refers to the name of the remote repo
