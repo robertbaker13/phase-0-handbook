@@ -91,5 +91,5 @@ I hope it goes without saying (but I will say it anyway) that pairing or any oth
 - [Peer-Pairing in Phase 0](peer-pairing-sessions.md)
 - Good Check-ins for [Pairing](https://vimeo.com/76662569) Video: 5 min
 - Our collaborative coding editor video [Stypi](https://vimeo.com/76870082) 2 min
-- G[uided Pairing Sessions (GPS) in Phase 0](guided-pairing-sessions.md)
+- [Guided Pairing Sessions (GPS) in Phase 0](guided-pairing-sessions.md)
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
