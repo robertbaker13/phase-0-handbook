@@ -4,7 +4,7 @@
 
 Office hours are a time that you can ask questions and bring issues to a Phase 0 guide. Some examples of office hours issues are: looking over code, working through parts of a challenge, problems setting up git, or getting your development environment on track.
 
-You can access the office hours schedule through the [phase0.devbootcamp.com](phase0.devbootcamp.com) app. You will be able to add the office hour to your calendar to keep track of updates and join the video call when the event occurs.
+You can access the office hours schedule through the [phase0.devbootcamp.com](http://phase0.devbootcamp.com) app. You will be able to add the office hour to your calendar to keep track of updates and join the video call when the event occurs.
 
 You do not need to sign up for office hours, just jump into the hangout and ask your questions anytime during that hour. You don't need to stay the whole time.
 
