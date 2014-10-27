@@ -22,7 +22,7 @@ Phase 0 is an actual Phase of DBC; it is not optional. We cover the fundamentals
 
 You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges, pairing requirements, and other tasks you will be required to do each week.
 
-Anticipate spending between 15-20 hours a week on your work during Phase 0 (or more if you want to go above and beyond). Also, please do not quit your job before starting the program. You may decide that becoming a programmer isn't for you only a few weeks in, and then it will be very difficult to get your job back! Please wait to quit your jobs until you are at least 2 weeks away from coming onsite for the intensive portion of the program.
+Anticipate spending between 15-25 hours a week on your work during Phase 0 (or more if you want to go above and beyond). Also, please do not quit your job before starting the program. You may decide that becoming a programmer isn't for you only a few weeks in, and then it will be very difficult to get your job back! Please wait to quit your jobs until you are at least 2 weeks away from coming onsite for the intensive portion of the program.
 
 
 #### 1. Create Accounts
