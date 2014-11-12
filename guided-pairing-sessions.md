@@ -48,7 +48,7 @@ The following schedule will be used for cohorts starting Phase 0 on or after 9/1
 
 ## The Instructor's Role
 
-Each instructor has a slightly different style when conducting GPS sessions. Some are more active in guiding you through a challenge and some are more hands off. It is up to you to ask your instructor to become more or less active in your sessions. Most instructors will watch your session and let you work through the challenge with your pair and ask you to pause if we feel you are getting off track or about to go down a rabbit hole. Instructors will also give you help with coding conventions, tips,  style, and communication. They are also there to answer questions, help you ask good questions, and make sure you and your pair are on a similar page.
+Each instructor has a slightly different style when conducting GPS sessions. Some are more active in guiding you through a challenge and some are more hands off. It is up to you to ask your instructor to become more or less active in your sessions. Most instructors will watch your session and let you work through the challenge with your pair and ask you to pause if they feel you are getting off track or about to go down a rabbit hole. Instructors will also give you help with coding conventions, tips,  style, and communication. They are also there to answer questions, help you ask good questions, and make sure you and your pair are on a similar page.
 
 Although you have one hour with the instructor, the challenges often take longer than an hour, which means you will likely need to set aside time to finish the challenge with your pair. After the hour is up, the instructor will leave you on your own to finish the challenge. You can finish at any time you and your pair are able to meet that week.
 
