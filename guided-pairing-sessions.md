@@ -101,7 +101,7 @@ These sessions are intended to help you become a better pair, have a stronger co
 
 ##Feedback and Transparency
 
-You will receive feedback for the GPS sessions in two ways: 1) verbally in the final 5-10 minutes of each session and 2) via email. The verbal feedback will address immediate impressions from the session whereas feedback via email will be tailored to you. Email feedback will also include a summary of whether we believe you are on track for success at Dev Bootcamp.
+You will receive feedback for the GPS sessions via email. Email feedback will include a summary of whether the guide believes you are on track for success at Dev Bootcamp.
 	
 We are sharing this information with you for a couple of reasons:
 
