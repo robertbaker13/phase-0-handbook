@@ -20,16 +20,22 @@ Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2
 
 ## Pairing in Phase 0
 
-When pairing, there will be a driver and a navigator. Just imagine what driving a car would be like with 2 drivers! And with 2 navigators you do not actually get anywhere. This is where defining explicit roles can help you be more productive in coding.
+During phase-0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginner. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
+
+The first step in pairing is to decide who will be driver and navigator. Here are the definitions of the roles.
 
 Driver:
 
-This is the person with the hands on the keyboard. By default all typing of code should come from the driver. If the navigator wants to type something, asking permission would be the best procedure.
+This is the person with the hands on the keyboard. By default all typing of code should come from the driver. If the navigator wants to type something, asking permission is the best procedure.
 
 
 Navigator:
 
 This is the person who is not typing. This frees you up to look for syntax errors, research quickly, have docs open etc. Your role in the development of the program is the same as the driver, you just do not type unless permission is granted.
+
+Just like driving, you would not get very far with 2 drivers or 2 navigators. Take the time to talk about it before you get started with coding.
+
+## Pairing Dynamics
 
 Who has the power in this relationship?
 
@@ -82,8 +88,8 @@ Both people should know the exact line of code and the solution or concept they 
 **Good pairing sessions feel like a conversation**.
 
 
-## Respectful Communication
-Be mindful of what topics you bring up in convorsation with your pair. Treat your pairing session like you would an office space. Do not say anything that would not say to your future bosses, coworkers, and employees.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
+## Respect
+Be mindful of what topics you bring up in conversation with your pair. Treat your pairing session like you would an office space. Do not say anything that would not say to your future bosses, coworkers, and employees.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
 
 
 ## Pairing Resources
