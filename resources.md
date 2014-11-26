@@ -31,6 +31,7 @@
 - [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/) 
 - [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
 - [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
+- [Web Design with HTML, CSS, JavaScript and jQuery Set](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=la_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1417033824&sr=1-1) by Jon Duckett (Books)
 
 #### JavaScript
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
