@@ -50,7 +50,7 @@ You need to be able to:
 - Identify my
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
 - Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
-
+- Identify strategies to work more effectively. Read [Nine Things Successful People Do Differently](https://hbr.org/2011/02/nine-things-successful-people/) for inspiration.
 
 #### 3. Update your browser
 It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).
