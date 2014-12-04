@@ -20,7 +20,8 @@ Each GPS challenge is designed to reinforce the learning objectives covered in t
 
 Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Sessions are based on units and follow a specific curriculum. For this reason, they are only offered during specific times in each particular unit.
 
-The following schedule will be used for cohorts starting Phase 0 on or after 9/15/2014.
+Sessions will be posted by noon the Friday before the week starts on the [Phase 0 App](https://phase0.devbootcamp.com). It is vital you sign up for these sessions early so you can attend. We only make enough sessions for each student to attend one, and you are expected to make it a priority to sign up and attend your session. Failing to sign up for a session is highly problematic for us and for your future participation in Phase 0.
+
 
 	Unit 1:
  	 - Week 1: Introductory Session
@@ -41,10 +42,14 @@ The following schedule will be used for cohorts starting Phase 0 on or after 9/1
 * Please connect to a reliable internet network in a quiet place.
 * Wear headphones during GPS to reduce feedback.
 * Cancel any sessions you cannot make **more than 6 hours prior to your session.**
-* If you have something come up last minute, email your instructor and pair to let them know you will not be able to attend the session.
-* Please note: We only create enough sessions for every person to attend one. Please bear that in mind and try to avoid missing or having to reschedule any sessions.
+* If you have an emergency come up at the last minute, email your instructor, pair, and <phase0@devbootcamp.com> to let them know you will not be able to attend the session. Then cancel your slot.
 * If you need to reschedule, but all appointments are booked, please make an announcement to your cohort through email or on your community page to ask someone to switch.
 
+### Commitment to IKE
+
+We only create enough sessions for every person to attend one. Please bear that in mind and avoid missing or having to reschedule any sessions.
+
+If you are marked absent from a session you've signed up for, you will receive an email that states you are out of integrity with Dev Bootcamp. We take this very seriously and if we do not receive a response within 24 hours we will begin initiating withdrawal procedures.
 
 ## The Instructor's Role
 
