@@ -14,7 +14,7 @@ See [Code Smells](http://blog.codinghorror.com/code-smells/). FYI: When he refer
 For example:
 
 ```ruby
-  # the code below is jibberish, but is what method chaining is. It's easily recognizable due to the many methods chained together by "."
+  # the code below is gibberish, but that is what method chaining is. It's easily recognizable due to the many methods chained together by "."
 
    "hello".split(//).join.match(/\w/).gsub
 ```
