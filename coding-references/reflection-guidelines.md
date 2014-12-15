@@ -2,13 +2,11 @@
 
 Reflecting is an incredibly important part of the learning process. It requires you to take a moment and think about what you've learned, what is confusing, and where you need to go. It documents your learning process. 
 
-Reflections are mandatory for each challenge. 
+Reflections are mandatory for each challenge. Reflections should only take about **10-15 minutes** and be about a paragraph long.
 
-When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. 
+When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. It will make it easier for you to go back and re-teach yourself or know what you were thinking. Your reflections aren't just for you and your teachers, they are for your fellow cohortmates as well.
 
-Remember, your reflections aren't just for teachers, they are for your fellow cohortmates to learn from, so be generous! You could end up helping a fellow student learn something new.
-
-Answer the following questions (in addition to the challenge-specific questions) in your reflection:
+Use these questions as a guideline. Choose the questions that will help you reflect on your process. You do not have to answer every question.
 
 * What parts of your strategy worked? What problems did you face?    
 * What questions did you have while coding? What resources did you find to help you answer them?  
