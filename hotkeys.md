@@ -1,48 +1,5 @@
 [Table of Contents](readme.md)
 
-# Setting up Sublime Text 
-
-### 1. Download Sublime Text from [Sublime Text](http://www.sublimetext.com/)
-
-### 2. Create a symlink (symbolic link) to open Sublime from your console.
-
-Here are some guides:
-
-OSX support:
-
-```
-ln -fs "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
-```
-
-also check out the [Official Guide](https://www.sublimetext.com/docs/2/osx_command_line.html).
-
-Windows users use this:
-
-[Windows](http://stackoverflow.com/questions/9440639/sublime-text-from-command-line-win7)
-
-Linux support:
-
-[Ubuntu](http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2/227617#227617)
-
-### 3. Add Sublime as your default editor for git:
-
-```$ git config --global core.editor "subl -w"```
-
-remember the $ is just the sign for the directory. You don't type that in.
-
-And here is how you can make it the default for the finder app in your OS:
-
-[OSX](http://www.youtube.com/watch?v=iMpYa5WZUTg)
-
-Windows:
-
-[Windows](http://stackoverflow.com/questions/9450895/sublime-as-default-editor)
-
-Linux: 
-
-[Ubuntu](http://askubuntu.com/questions/396938/how-do-i-make-sublime-text-3-the-default-text-editor)
-
-
 # Sublime Hotkeys
 
 Here is a reference for Sublime Text shortcuts pick 1 or 2 everytime you start a challenge 
