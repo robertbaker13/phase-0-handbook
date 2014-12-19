@@ -3,8 +3,6 @@
 
 # Welcome to DBC!
 
-*Last Revised 08/28/2014*
-
 You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date.
 
 **Please note:** We will send out your "Welcome to Phase 0" email on the Friday prior to your cohort start date to give you access to Dev Bootcamp systems. Please be on the lookout for these messages.
