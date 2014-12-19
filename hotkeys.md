@@ -1,8 +1,7 @@
 [Table of Contents](readme.md)
 
 # Sublime Hotkeys
-
-Here is a reference for Sublime Text shortcuts pick 1 or 2 everytime you start a challenge 
+Sublime has a ton of built-in shortcuts that will save you time when programming. 
 
 [Sublime Shortcut OSX](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 
