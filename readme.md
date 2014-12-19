@@ -19,7 +19,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 12. [Tutoring Sessions](tutoring.md)
 13. [Contact and Support List](contact-and-support-list.md)
 14. [Phase 0 Reading/Resource List](resources.md)
-15. [Text Editor Setup](text-editor-setup.md)
+15. [Sublime Text Hotkeys](hotkeys.md)
 16. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
 17. [FAQ's](FAQ.md)
 
