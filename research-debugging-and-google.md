@@ -1,4 +1,4 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 # Research, Debugging, and Google
 
@@ -52,7 +52,7 @@ Questions you should ask yourself to find keywords are:
 
 1. What tech are you using? (HTML, CSS, Ruby, etc)
 2. Are you using a framework (Rails), library (jQuery), gem (Jekyll), or specific technique (Object-oriented)?
-3. What are you trying to accomplish? (Position div in center? Return a string in Ruby?) 
+3. What are you trying to accomplish? (Position div in center? Return a string in Ruby?)
 4. Are there other or generic terms for anything? (i.e. "element" instead of "div"; "class" instead of "object")
 
 #### 3) Break it up

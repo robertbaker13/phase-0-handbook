@@ -1,7 +1,7 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 # Sublime Hotkeys
-Sublime has a ton of built-in shortcuts that will save you time when programming. 
+Sublime has a ton of built-in shortcuts that will save you time when programming.
 
 [Sublime Shortcut OSX](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 
@@ -17,9 +17,9 @@ option/alt + click and drag  box style highlighting, also an easy way to create 
 
 cmd + d find next instance of highlighted word, easily replace key words!
 
-cmd + p quick open file, just start typing the name of the file. 
+cmd + p quick open file, just start typing the name of the file.
 
-cmd + shift + V paste and indent correctly. 
+cmd + shift + V paste and indent correctly.
 
 cmd + y redo, opposite of undo.
 
@@ -31,7 +31,7 @@ cmd + / comment or uncomment selected text/line.
 
 cmd + [ or ] indent or un-indent line or selected lines.
 
-cmd + shift + p open command prompt. 
+cmd + shift + p open command prompt.
 
 
 

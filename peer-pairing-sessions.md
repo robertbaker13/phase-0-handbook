@@ -1,10 +1,10 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 # Peer-Pairing Sessions
 
 
 ## Purpose
-Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes, but it's not as easy as it may seem. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. Building relationships like this takes practice, so we've incorporated pair programming into Phase 0!  
+Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes, but it's not as easy as it may seem. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. Building relationships like this takes practice, so we've incorporated pair programming into Phase 0!
 
 
 EXTRA READING: [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)
@@ -24,15 +24,15 @@ As part of Phase 0, students are expected to pair program with a member of your 
 
 ## Courtesy
 
-Please keep in mind that all students are busy and working hard to balance work and Phase 0 requirements. If it turns out you can not make the session you've scheduled with your pair for any reason, please contact your pair as soon as possible. Try your best to work from a quiet place with a reliable internet connection. 
+Please keep in mind that all students are busy and working hard to balance work and Phase 0 requirements. If it turns out you can not make the session you've scheduled with your pair for any reason, please contact your pair as soon as possible. Try your best to work from a quiet place with a reliable internet connection.
 
 
 ## Success Guidelines
 
 You will be successful if you:
 
-	- Check in with your pair according to the Pairing is Caring* video. 
-	- Decide which of you will be driver and navigator, discuss what each role requires, and stick with it. 
+	- Check in with your pair according to the Pairing is Caring* video.
+	- Decide which of you will be driver and navigator, discuss what each role requires, and stick with it.
 	- Ask your pair to switch roles so you each know your responsibilities
 	- Keep communication open and tell your pair when you need time to think
 	- Ask your pair for their opinions and ideas often
@@ -49,7 +49,7 @@ Most students report that peer-pairing sessions are the most helpful and benefic
 **Problem: "My pair isn't responding to my messages."**<br>
 *Tip: How did you contact them? A number of students have had issues contacting others via Google. Try contacting your pair via email. If you still have difficulty, let your facilitator know and they can try to put you in contact with one another.*
 
-**Problem: "My pair stood me up!"**<br> 
+**Problem: "My pair stood me up!"**<br>
 *Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that their actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
 
 

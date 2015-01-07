@@ -1,4 +1,4 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 ## Resources and Reading List
 
@@ -28,13 +28,13 @@
 - [Hexidecimal color](http://skillcrush.com/2012/05/07/hexadecimal/)
 - [Classes vs IDs](http://skillcrush.com/2013/01/28/understanding-css-classes-vs-ids/)
 - [The Difference Between IDs and Classes](http://css-tricks.com/the-difference-between-id-and-class/)
-- [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/) 
+- [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
 - [Downloading CSS from a website](http://www.cssbasics.com/download-css-styles-from-a-website/)
 - [Decoupling HTML from CSS](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
 - [Web Design with HTML, CSS, JavaScript and jQuery Set](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=la_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1417033824&sr=1-1) by Jon Duckett (Books)
 
 #### JavaScript
-- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*
 
@@ -51,11 +51,11 @@
 
 #### Ruby
 - [A Beginners Guide to Ruby](http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/)
-- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)   
-- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)  
-- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope) 
+- [Introduction to Refactoring](http://sourcemaking.com/refactoring/introduction-to-refactoring)
+- [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)
+- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope)
 - [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)  
+- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)
 - [Humble little Ruby Book](http://www.humblelittlerubybook.com/)
 - [Eloquent Ruby](http://eloquentruby.com/)
 - [Confident Ruby](http://www.confidentruby.com/)
@@ -65,7 +65,7 @@
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
 - [SQL tutorial](http://www.sqlcourse2.com/index.html)
 - [SQL SELECT statements](https://www.youtube.com/watch?v=DDIAnk6CRsU)
-- [SQL Tutorial on w3schools.org](http://www.w3schools.com/sql/default.asp)   
+- [SQL Tutorial on w3schools.org](http://www.w3schools.com/sql/default.asp)
 - [Zetcode's SQLite Tutorial](http://zetcode.com/db/sqlite/)
 - [VIDEO: Databases and SQL - an introduction](http://www.youtube.com/watch?v=SVV7HjKmFY4)
 - [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)

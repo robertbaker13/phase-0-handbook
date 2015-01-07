@@ -1,4 +1,4 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 We ask you to use many different web applications during Phase 0. These are in the process of being consolidated into a portal to improve the student user experience, but we aren't there yet. It can be pretty overwhelming to get used to all of these different applications, on top of learning to code, so we wanted to provide an overview of each system so you can familiarize yourself with each sooner and make the transition into Phase 0 easier.
 

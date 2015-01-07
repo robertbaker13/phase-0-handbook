@@ -1,4 +1,4 @@
-[Table of Contents](readme.md)
+[Table of Contents](README.md)
 
 # Office Hours
 

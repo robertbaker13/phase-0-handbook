@@ -67,7 +67,7 @@ You need to be able to:
  - Type at least 40 words per minute
  - Use common shortcuts in Sublime
 
-#### 5. Read the [Phase 0 Handbook](readme.md)
+#### 5. Read the [Phase 0 Handbook](README.md)
 This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Bootcamp!
 
 #### 6. Watch
@@ -104,4 +104,4 @@ Take a look at a couple of these resources that look interesting to you.
 
 ***
 
-Go to the Phase 0 Handbook [Table of Contents](readme.md)
+Go to the Phase 0 Handbook [Table of Contents](README.md)
