@@ -55,7 +55,7 @@
 - [Ruby for Newbies](http://net.tutsplus.com/sessions/ruby-for-newbies)
 - [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope)
 - [GangesLearning (Videos)](https://www.youtube.com/user/GangesLearning)
-- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black2/)
+- [The Well-Grounded Rubyist (Book)](http://www.manning.com/black3/)
 - [Humble little Ruby Book](http://www.humblelittlerubybook.com/)
 - [Eloquent Ruby](http://eloquentruby.com/)
 - [Confident Ruby](http://www.confidentruby.com/)
