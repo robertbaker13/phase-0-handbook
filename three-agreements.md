@@ -18,7 +18,7 @@ At Dev Bootcamp, we have codes of conduct that support an optimal learning envir
 - Posting and responding to questions on the community
 - Going through the entire process outlined in each challenge
 
-Part of being in integrity also means that when you fall out of it for whatever reason (such as being a human being) you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
+Part of being in integrity also means that when you fall out of it for whatever reason (such as being a human) you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
 
 ## The second agreement: Kindness
 We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does not preclude giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK). 
@@ -28,7 +28,6 @@ We expect all of you and staff to show kindness by providing feedback and code r
 Last but not least, we expect you to be kind to yourself.  You've taken a big risk and are making a big change.  Give yourself some space and understanding as you face the challenges of our program. 
 
 ## The third agreement: Whole Self
-## Whole Self
 
 We expect you to bring your intelligence, your focus, your creativity, and your personality into each challenge every day. If you are struggling, we expect you to ask others (including staff) for help. If you find that you're holding some part of you back from this experience, we ask that you focus on being authentic with your pair, your cohort, and staff. DBC flourishes when all of us feel safe being authentic with each other.
 
