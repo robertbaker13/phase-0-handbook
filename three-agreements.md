@@ -1,4 +1,4 @@
-# The Three Agreements: Integrity, Kindness, and Effort (IKE)
+# The Three Agreements: Integrity, Kindness, and Whole Self
 
 At Dev Bootcamp, we have three agreements that guide our actions (this includes staff). We expect every person to uphold these values every day in Phase 0 and in the program. By enrolling in DBC, you agree to these agreements. 
 
@@ -27,10 +27,14 @@ We expect all of you and staff to show kindness by providing feedback and code r
 
 Last but not least, we expect you to be kind to yourself.  You've taken a big risk and are making a big change.  Give yourself some space and understanding as you face the challenges of our program. 
 
-## The third agreement: Effort
-This may be the most straight-forward agreement. In essence, we expect you to bring your whole self (your intelligence, focus, creativity, and personality) into each challenge every day. This means that we expect you to do your best to meet each learning competency. If you are struggling, we expect you to ask others (including staff) for help.
+## The third agreement: Whole Self
+## Whole Self
 
-We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The DBC experience is fundamentally about *learning*. We expect you to demonstrate effort and mastery of each learning competency by completing the challenges. 
+We expect you to bring your intelligence, your focus, your creativity, and your personality into each challenge every day. If you are struggling, we expect you to ask others (including staff) for help. If you find that you're holding some part of you back from this experience, we ask that you focus on being authentic with your pair, your cohort, and staff. DBC flourishes when all of us feel safe being authentic with each other.
+
+This includes exposing your ignorance and being open to uncomfortable emotional and technical challenges at DBC.
+
+We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The DBC experience is fundamentally about *learning*. We expect you to demonstrate effort and mastery of each learning competency by completing the challenges.
 
 ***
 
