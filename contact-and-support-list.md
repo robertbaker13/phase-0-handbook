@@ -25,10 +25,12 @@
 - Gary Sperka
 - Joan Torres
 - Kel Kanhirun
-- Jay Dave
 - Andrew Larson
 - Neal Peters
 - Lorena Mesa
-- Brendan Susens-Jackson
 - Ismail Kalimi
 - Brooks Roley
+- Kelsey Ando
+- Melissa Porto
+- Jessica Armstrong
+- Nixon Ramin
