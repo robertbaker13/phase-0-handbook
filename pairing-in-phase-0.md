@@ -87,6 +87,14 @@ Both people should know the exact line of code and the solution or concept they 
 
 **Good pairing sessions feel like a conversation**.
 
+## Pairing Remotely
+
+Pairing over the internet has its unique issues. It is easy to misinterpret peoples intentions and tone when you do not have a full picture of their body language, technical issues can create added difficulties on understanding one another. Be aware of these issues and be proactive in combating them.
+
+Overcommunication is preferable when working remotely, especially when you are just starting to pair with someone. You can find out how they like to work and communicate as you go, but to start be overly expressive of your needs. It really helps to get things started on the right foot!
+
+Phase 0 is built to prepare you for working on site at DevBootcamp, but post DevBootcamp you may work at a job that is 100% remote and only communicate with people over the internet. These skills will put you in a great place to feel comfortable with jobs like this.
+
 
 ## Respect
 Be mindful of what topics you bring up in conversation with your pair. Treat your pairing session like you would an office space. Do not say anything that would not say to your future bosses, coworkers, and employees.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
