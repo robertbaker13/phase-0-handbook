@@ -41,25 +41,6 @@ Who has the power in this relationship?
 
 Neither role is more powerful than the other. You are just 2 programmers trying to solve a problem together. The roles are there to make you more efficient, not bog you down. Think of this as a brainstorming session with the driver holding the marker. Both of you are thinking of ideas simultaneously and discussing which ones are good enough to get on the board.
 
-My pair is not listening to me!
-
-What a great opportunity to practice your interpersonal skills! If you feel like there is a problem in your pair arrangement, stop the session and say something. It helps no one to 'grin and bear it.' Your pair will appreciate the insight with how they are effecting other people and you will get to voice your concerns. Make sure you bring up your concerns with Actionable Specific and Kind feedback. I messages are a great way to do this. [I messaging](http://en.wikipedia.org/wiki/I-message), I messages generally follow this format
-
-I feel... (Insert feeling word)
-when... (tell what caused the feeling).
-I would like... (tell what you want to happen instead).
-
-example:
-
-I felt ignored when I brought up my idea about how many arguments that method should accept. I would like to have more of an open discourse with the direction of the code.
-
-Instead of:
-
-You aren't listening to me, stop being difficult. I want to talk about the number of arguments the method should accept.
-
-It sounds silly, but it is an amazingly powerful communication tool that prevents conflicts from escalating.
-
-
 #### Switching Roles
 It is common -- and *expected* -- that pairs switch roles.
 
@@ -95,6 +76,22 @@ Overcommunication is preferable when working remotely, especially when you are j
 
 Phase 0 is built to prepare you for working on site at DevBootcamp, but post DevBootcamp you may work at a job that is 100% remote and only communicate with people over the internet. These skills will put you in a great place to feel comfortable with jobs like this.
 
+## Strategies for difficult sessions
+If you feel your pair isn't listening to you or taking your perspective into account. You need to speak up! If you feel like there is a problem in your pair arrangement, say something. It helps no one to 'grin and bear it.' Your pair will appreciate the insight with how they are effecting other people and you will get to voice your concerns. Make sure you bring up your concerns with specific, actionable,and kind feedback. "I messages" are a great way to do this. [I messaging](http://en.wikipedia.org/wiki/I-message), "I messages" generally follow this format
+
+I feel... (Insert feeling word)
+when... (tell what caused the feeling).
+I would like... (tell what you want to happen instead).
+
+For example:
+
+I felt ignored when I brought up my idea about how many arguments that method should accept. I would like to have more of an open discourse with the direction of the code.
+
+Instead of:
+
+You aren't listening to me, stop being difficult. I want to talk about the number of arguments the method should accept.
+
+It sounds silly, but it is an amazingly powerful communication tool that prevents conflicts from escalating.
 
 ## Respect
 Be mindful of what topics you bring up in conversation with your pair. Treat your pairing session like you would an office space. Do not say anything that would not say to your future bosses, coworkers, and employees.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
