@@ -11,7 +11,8 @@ Guided Pairing Sessions (GPS) were started with a few goals in mind:
 
 Instructors use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and to help students develop a deeper understanding of technical material.
 
-Each GPS challenge is designed to reinforce the learning objectives covered in the unit up to that point. These are opportunities for you to identify and clarify concepts that are confusing as well as to get practice pairing.
+Each GPS challenge is designed to reinforce the learning competencies covered up to and including the previous week's challenges. These are opportunities for you to identify and clarify concepts that are confusing as well as to get practice pairing. You should feel free to include additional concepts you've learned in the current week as well.
+
 <br>
 <br>
 
@@ -45,7 +46,7 @@ Sessions will be posted by noon the Friday before the week starts on the [Phase 
 * If you have an emergency come up at the last minute, email your instructor, pair, and <phase0@devbootcamp.com> to let them know you will not be able to attend the session. Then cancel your slot.
 * If you need to reschedule, but all appointments are booked, please make an announcement to your cohort through email or on your community page to ask someone to switch.
 
-### Commitment to IKE
+### Commitment to the [3 Agreements](three-agreements.md)
 
 We only create enough sessions for every person to attend one. Please bear that in mind and avoid missing or having to reschedule any sessions.
 
