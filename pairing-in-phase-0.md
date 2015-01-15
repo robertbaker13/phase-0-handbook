@@ -18,43 +18,53 @@ That said pairing varies between teams.  Some pair 99% of the time; some pair on
 
 Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2009/06/pair_programming_is_kryptonite/). We ask that you keep an open-mind on pairing throughout DBC and challenge yourself to work on your pairing skills while here.
 
-### Pairing Arrangements
+## Pairing in Phase 0
 
-Within the industry there are a number of different pairing arrangements.  In each case, **two programmers code with only one person typing at a time.**
+During phase-0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginner. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
 
-#### Driver-Navigator Pairing
-Driver-Navigator pairing involves the driver typing and the navigator talking and leading the driver. The driver gives input, but should be focused on the area of code instructed by the navigator.  **The driver presses the gas, but the navigator says when to turn.**
+The first step in pairing is to decide who will be driver and navigator. Here are the definitions of the roles.
 
-#### Ping Pong Pairing
-This is probably the most common pairing technique professionally, particularly in [Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) environments. It involves one person writing a test for the code and the other person writing the code to pass the test.  You may use this type of pairing in Phases 2 and 3.
+Driver:
 
-#### Expert-Novice Pairing
-This is a variation of Driver-Navigator pairing, where one person is more knowledgable about the problem or technique than the other. Depending on the goal of the pairing session, this can either involve:
+This is the person with the hands on the keyboard. By default all typing of code should come from the driver. If the navigator wants to type something, asking permission is the best procedure.
 
-* **Expert Drives** The expert acts as a mentor helping to guide the novice in the right direction without giving away too much.  This variation is often used during job interviews.
-* **Novice Drives** This allows the expert to relay information and teach in a very focused way.  However, there is risk of the novice disengaging if the expert just tells him/her what to do.  Pairing should always feel like a conversation.
-* **Novice Observes** In this scenario, the novice observes while the expert drives and navigates.  This can be used to demonstrate information, but should never be used for a full pairing session.
+
+Navigator:
+
+This is the person who is not typing. This frees you up to look for syntax errors, research quickly, have docs open etc. Your role in the development of the program is the same as the driver, you just do not type unless permission is granted.
+
+Just like driving, you would not get very far with 2 drivers or 2 navigators. Take the time to talk about it before you get started with coding.
+
+## Pairing Dynamics
+
+Who has the power in this relationship?
+
+Neither role is more powerful than the other. You are just 2 programmers trying to solve a problem together. The roles are there to make you more efficient, not bog you down. Think of this as a brainstorming session with the driver holding the marker. Both of you are thinking of ideas simultaneously and discussing which ones are good enough to get on the board.
+
+My pair is not listening to me!
+
+What a great opportunity to practice your interpersonal skills! If you feel like there is a problem in your pair arrangement, stop the session and say something. It helps no one to 'grin and bear it.' Your pair will appreciate the insight with how they are effecting other people and you will get to voice your concerns. Make sure you bring up your concerns with Actionable Specific and Kind feedback. I messages are a great way to do this. [I messaging](http://en.wikipedia.org/wiki/I-message), I messages generally follow this format
+
+I feel... (Insert feeling word)
+when... (tell what caused the feeling).
+I would like... (tell what you want to happen instead).
+
+example:
+
+I felt ignored when I brought up my idea about how many arguments that method should accept. I would like to have more of an open discourse with the direction of the code.
+
+Instead of:
+
+You aren't listening to me, stop being difficult. I want to talk about the number of arguments the method should accept.
+
+It sounds silly, but it is an amazingly powerful communication tool that prevents conflicts from escalating.
+
 
 #### Switching Roles
 It is common -- and *expected* -- that pairs switch roles.
 
-Ideally, switching happens organically.
-Half way through each pairing session you and your pair should switch roles if you haven't already.
+Discuss with your pair before starting the exercise at what point you would like to switch (time based, exercise based, etc.).
 
-## Pairing in Phase 0
-
-For Phase 0 (and much of your time as DBC), we will use **Driver-Navigator** pairing.
-
-*If there is a case where one student is more knowledgable or has already completed a problem, you should almost always use Expert-Novice where Expert Drives*
-
-In Phase 0, we will be **very rigid about roles** for pairing.Once you enter DBC, you will have more flexibility.  However, we want to ingrain appropriate action for each role.
-
-This means:
-
-* The Driver should *never* be looking at a line of code they are not told to look at by the Navigator.
-* The Navigator should always describe what code they are looking at by the line number.
-* The Driver should *never* type code or comments before discussing with the Navigator.
-* **No one should spend an entire pairing session as the Driver**. The exception to this is *Expert-Novice pairing* where you should always use *Expert Drives*.
 
 ## Successful Pairing
 
@@ -77,14 +87,17 @@ Both people should know the exact line of code and the solution or concept they 
 
 **Good pairing sessions feel like a conversation**.
 
+## Pairing Remotely
 
-### Remote pairing
-Pairing remotely is more difficult than pairing in person.  You can't see a person's body language or face.  To be successful, **remote pairing requires discipline in adhering to pairing roles and excessive communication.**
+Pairing over the internet has its unique issues. It is easy to misinterpret peoples intentions and tone when you do not have a full picture of their body language, technical issues can create added difficulties on understanding one another. Be aware of these issues and be proactive in combating them.
 
-While pairing in Phase 0, **you cannot communicate too much**.  For realz.
+Overcommunication is preferable when working remotely, especially when you are just starting to pair with someone. You can find out how they like to work and communicate as you go, but to start be overly expressive of your needs. It really helps to get things started on the right foot!
 
-## Respectful Communication
-I hope it goes without saying (but I will say it anyway) that pairing or any other communication during DBC should not involve inappropriate topics.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
+Phase 0 is built to prepare you for working on site at DevBootcamp, but post DevBootcamp you may work at a job that is 100% remote and only communicate with people over the internet. These skills will put you in a great place to feel comfortable with jobs like this.
+
+
+## Respect
+Be mindful of what topics you bring up in conversation with your pair. Treat your pairing session like you would an office space. Do not say anything that would not say to your future bosses, coworkers, and employees.  DBC is a respectful place filled with people of diverse backgrounds.  In particular, negative comments of a sexual nature or related to sex, gender, sexual orientation, race, disability, and class should never be made and will not be tolerated.  Please email your instructor if you feel another student violated this policy.
 
 
 ## Pairing Resources
