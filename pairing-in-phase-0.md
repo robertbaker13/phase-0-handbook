@@ -26,14 +26,22 @@ The first step in pairing is to decide who will be driver and navigator. Here ar
 
 Driver:
 
-This is the person with the hands on the keyboard. By default all typing of code should come from the driver. If the navigator wants to type something, asking permission is the best procedure.
+This is the person with the hands on the keyboard. By default all typing of code should come from the driver. If the navigator wants to type something, asking permission is the best procedure. Drivers should have a decent grasp on syntax and be able to implement most of what is discussed without step-by-step instructions from the navigator.
 
 
 Navigator:
 
-This is the person who is not typing. This frees you up to look for syntax errors, research quickly, have docs open etc. Your role in the development of the program is the same as the driver, you just do not type unless permission is granted.
+This is the person who is not typing. This frees you up to look for syntax errors, research quickly, have docs open etc. Your role in the development of the program is the same as the driver, you just do not type unless permission is granted. 
 
-Just like driving, you would not get very far with 2 drivers or 2 navigators. Take the time to talk about it before you get started with coding.
+The navigator is not an annoying back-seat driver. The role is **not** to say:
+
+"Type d.e.f. space my underscore method new line"
+
+instead it should go something like: "Let's make a method. What should we call it?"
+
+If the driver needs help with syntax, by all means help them, but pairing shoud be a conversation, not step-by-step directions.
+
+Take the time to discuss your understandings of these roles and talk about characteristics of successful and unsucessful pairing sessions before you get started coding to ensure you are both on the same page.
 
 ## Pairing Dynamics
 
