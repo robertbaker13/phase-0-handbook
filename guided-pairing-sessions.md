@@ -11,7 +11,7 @@ Guided Pairing Sessions (GPS) were started with a few goals in mind:
 
 Instructors use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and to help students develop a deeper understanding of technical material.
 
-Each GPS challenge is designed to reinforce the learning competencies covered up to and including the previous week's challenges. These are opportunities for you to identify and clarify concepts that are confusing as well as to get practice pairing. You should feel free to include additional concepts you've learned in the current week as well.
+Each GPS challenge is designed to reinforce the learning competencies covered up to and including the previous week's challenges. These are opportunities for you to identify and clarify concepts that are confusing as well as to get practice pairing. You should feel free to include additional concepts you've learned in the current week as well. Sometimes we will address new concepts. In these instances, we expect you to research in the session and show of your researching abilities. 
 
 <br>
 <br>
