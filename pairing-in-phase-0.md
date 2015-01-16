@@ -37,7 +37,7 @@ The navigator is not an annoying back-seat driver. The role is **not** to say:
 
 "Type d.e.f. space my underscore method new line"
 
-instead it should go something like: "Let's make a method. What should we call it?"
+Instead it should go something like: "Let's make a method. What should we call it?"
 
 If the driver needs help with syntax, by all means help them, but pairing shoud be a conversation, not step-by-step directions.
 
