@@ -10,7 +10,6 @@
 
 ## Your Wonderful Guides:
 
-- Emily Anderson
 - Matt Higgins
 - Ken Luk
 - Morgan O Leary
@@ -31,6 +30,9 @@
 - Ismail Kalimi
 - Brooks Roley
 - Kelsey Ando
-- Melissa Porto
 - Jessica Armstrong
 - Nixon Ramin
+- Danielle Sublett
+- Ambreen Hasan
+- David Christian
+- Sarah Taurchini
