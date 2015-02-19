@@ -23,11 +23,28 @@ Each student is required to attend six Guided Pairing Sessions (GPS) during Phas
 
 Sessions will be posted by noon the Friday before the week starts on the [Phase 0 App](https://phase0.devbootcamp.com). It is vital you sign up for these sessions early so you can attend. We only make enough sessions for each student to attend one, and you are expected to make it a priority to sign up and attend your session. Failing to sign up for a session is highly problematic for us and for your future participation in Phase 0.
 
+For cohorts that start Phase 0 on or after February 23, 2015.
 
-	Unit 1:
- 	 - Week 1: Introductory Session
- 	 - Week 2: GPS 1.1
-  	 - Week 3: GPS 1.2
+    Unit 1:
+     - Week 1: Introductory Session
+     - Week 2: GPS 1.1
+     - Week 3: GPS 1.2
+
+    Unit 2
+     - Week 4: GPS 2.1
+     - Week 5: GPS 2.2
+     - Week 6: GPS 2.3
+
+    Unit 3
+     - Week 7: GPS 3.1
+
+
+For Cohorts that started Phase 0 on or before February 2, 2015.
+
+    Unit 1:
+     - Week 1: Introductory Session
+     - Week 2: GPS 1.1
+     - Week 3: GPS 1.2
 
     Unit 2
      - Week 5: GPS 2.1
