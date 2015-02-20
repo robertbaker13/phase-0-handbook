@@ -15,9 +15,9 @@ As part of Phase 0, students are expected to pair program with another student i
 * Unit 1: 4 times
 * Unit 2: 6 times
 * Unit 3: 6 times
-While it is not mandatory, we encourage students to pair with a different person in each session.  This ensures you do not get use to somones pairing style. 
+While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get use to somones pairing style. We also recommend you split up your sessions and pair twice per week. You also do not need to pair in week 1.
 
-It is up to you to arrange pairing sessions. We encourage students to simply post in the Google+ community saying you want to pair.  When you make the request, we find it helps to say what time you are looking to pair (including a time zone) and what challenge you want to pair on.  Once another student says they are avalible to pair you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+It is up to you to arrange pairing sessions. We encourage students to simply post in the Google+ community saying you want to pair. When you make the request, we find it helps to say what time you are looking to pair (including a time zone) and what challenge you want to pair on. Once another student says they are avalible to pair you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
 * A peer pairing session must be 45 minutes
 * You can work on any of the challenges for the week except for the solo challenges
