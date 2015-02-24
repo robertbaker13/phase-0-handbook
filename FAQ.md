@@ -4,7 +4,7 @@
 This will be updated as you ask questions on the Google+ community.
 
 **Q: Are Introductory Sessions on Skype or Google?**<br>
-**A:** From this point, all of our sessions will be conducted via Google Hangout. If you signed up properly, you should have an event on your Google calendar with a link to join the video call. Join the call at the appropriate times. Follow [these instructions](intro-gps-signup.md) to sign up.
+**A:** From this point, all of our sessions will be conducted via Google Hangout. Please sign up for your introductory session on the [Phase 0 app](https://phase0.devbootcamp.com). 
 
 **Q: How do I change my DBC email address?** <br>
 **A:** You'll need to do two things to start the process for changing your email. Log into [Dev Bootcamp's Application Website](http://apply.devbootcamp.com/) and change your account email first. Then complete the "Email Address Change Request" form located on your task list.
