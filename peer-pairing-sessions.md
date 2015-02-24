@@ -7,22 +7,23 @@
 Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. These are skills that are strengthen with practice, which is why we have incorporated pair programming into Phase 0!
 
 
-[Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/) is a great article to further explain the benifits of pair programming.
+Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benifits of pair programming.
 
 
 ## Expectations
 As part of Phase 0, students are expected to pair program with another student in their cohort, from any location:
-* Unit 1: 4 times
+* Unit 1: 4 times (You are not expected to pair in week 1).
 * Unit 2: 6 times
 * Unit 3: 6 times
-While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get use to somones pairing style. We also recommend you split up your sessions and pair twice per week. You also do not need to pair in week 1.
 
-It is up to you to arrange pairing sessions. We encourage students to simply post in the Google+ community saying you want to pair. When you make the request, we find it helps to say what time you are looking to pair (including a time zone) and what challenge you want to pair on. Once another student says they are avalible to pair you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get use to just one person's unique pairing style. We also recommend pairing twice per week, but this is flexible. You can pair more in one week and less in the next.
 
-* A peer pairing session must be 45 minutes
-* You can work on any of the challenges for the week except for the solo challenges
-* Some challenges are labled as "Mandatory Pairing," you must pair on those
-* Your GPS sessions DO NOT count as one of the peer pairing sessions
+It is up to each student to arrange pairing sessions. We suggest posting in the Google+ community to request a pairing session. In your post, please state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+
+* A peer pairing session must be 45 minutes.
+* You can work on any of the challenges for the week except for the solo challenges.
+* You must pair on "Mandatory Pairing" challenges.
+* Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
 
 
 ## Courtesy
@@ -34,16 +35,16 @@ Try your best to work from a quiet place with a reliable internet connection. It
 
 ## Success Guidelines
 
-You will be successful if you:
+You will be successful in your Peer-Pairing sessions if you:
 
-	- Check in with your pair according to the [Pairing is Caring](http://vimeo.com/76662569) video.
-	- Decide which of you will start as the driver and navigator, discuss what each role requires, and stick with it.
-	- Alternate between driving and navigating. Aim to spend about 50% of your time in each role.
-	- Keep communication open and tell your pair when you need time to think
-	- Ask your pair for their opinions and ideas often
-	- Allow yourself to make mistakes
-	- Submit feedback to help your pair improve
-	- Use feedback you've received to become a better pair
+- Check in with your pair according to the [Pairing is Caring](http://vimeo.com/76662569) video.
+- Decide which of you will start as the driver and navigator, discuss what each role requires, and stick with it.
+- Alternate between driving and navigating. Aim to spend about 50% of your time in each role.
+- Keep communication open and tell your pair when you need time to think.
+- Ask your pair for their opinions and ideas often.
+- Allow yourself to make mistakes.
+- Submit feedback to help your pair improve.
+- Use feedback you've received to become a better pair.
 	
 
 ### Problems and Tips
