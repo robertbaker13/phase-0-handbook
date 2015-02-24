@@ -51,7 +51,7 @@ You will be successful in your Peer-Pairing sessions if you:
 Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
 
 **Problem: "My pair isn't responding to my messages."**<br>
-*Tip: How did you contact them? A number of students have had issues contacting others via Google. Try contacting your pair via email. If you still have difficulty, email your facilitator using the Phase0@devbootcamp.com email address and they can try to put you in contact with one another.*
+*Tip: Try contacting your pair via email. You should have access to their email address on the [Phase 0 App](https://phase0.devbootcamp.com) and [Socrates](https://socrates.devbootcamp.com). If you still have difficulty, email <phase0@devbootcamp.com> we can try to put you in contact with one another.*
 
 **Problem: "My pair stood me up!"**<br>
 *Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that their actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
