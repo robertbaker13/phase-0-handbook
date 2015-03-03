@@ -1,10 +1,10 @@
 # Driver Test Code with Ruby
 
-## What is Driver Test Code?
+## What is Driver Code?
 
 You may hear people at DBC talk about driver code. This is a term that pretty much exists inside the scope of Dev Bootcamp. Everyone else in the software development industry calls this 'testing'. The purpose of driver code is two-fold: to make your program run and to test that it is working as you intended.
 
-## Making things run
+## Driver code makes things run.
 
 Say you create a really cool ruby method that took you a long time to write.
 
@@ -70,13 +70,11 @@ If you are looking to return a value and print it to the console, `p` is your ch
 
 Now when you run this code, you will see the number 10 on the terminal.
 
-##Testing our expectations
+## Driver Test Code
 
-Now that you know how to run the code and see what is being returned, you want to set up a set of expectations to see if our code is behaving like you expect it to. Testing is a core concept in programming and you will be doing plenty of it in your career.
+Now that you know how to run the code and see what is being returned, you want to set up a set of expectations to see if our code is behaving like you expect it to. Testing is a core concept in programming and you will be doing plenty of it in your career. In Phase 0, you will use your own Ruby knowledge to "test," which basically means using `==` to see if what you got was what you expected. Testing answers the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. 
 
-Testing answers the question "What do I want my code to do?" There are tons of testing libraries to help you structure your tests, but for now you will focus on creating a set of simple expectations using what you know in Ruby. Specifically using the '==' comparator.
-
-The most popular testing framework for Ruby is called RSpec, and the most popular testing framework for JavaScript is called Jasmine.
+(The most popular testing framework for Ruby is called RSpec, and the most popular testing framework for JavaScript is called Jasmine, you will see RSpec in Phase 0, but we aren't asking you to learn RSpec)
 
 Take this code:
 
@@ -85,7 +83,7 @@ def divide_number(dividend, divisor)
   quotient = dividend / divisor
 end
 
-divide_number(8920, 34)
+divide_number(8920, 34) # This is driver code. It simply calls the method.
 ```
 
 This is math that most of us can not do in our head. Can you trust the computer to do what you expect it to? Let's write some tests to see.
