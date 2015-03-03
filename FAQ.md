@@ -28,10 +28,10 @@ Building hours for New York City and San Francisco are 7:00am - 2:00am. Students
 In Chicago, the building is open 24/7, but students are not allowed to stay the night.
 
 **Q: Is DBC closed on US federal holidays?**<br>
-**A:** DBC only honors the following holidays that occur during phases: Thanksgiving and Independence Day (July 4). During those days, the staff has the day off, but the curriculum is still up and needs to be completed.
+**A:** DBC only honors the following holidays that occur during phases: Thanksgiving, Independence Day (July 4), and New Year's Day. During those days, the staff has the day off, but the curriculum is still up and needs to be completed. Phase 0 staff honor the following additional holidays: Martin Luther King, Jr. Day, Memorial Day, Labor Day, and the day after Thanksgiving. 
 
-**Q: Is Phase 0 going to be operating over the December 2-week break?**<br>
-**A:** No. Phase 0 will be suspended over the same two weeks that the rest of the campuses are closed. The dates of closure are December 22 - January 5. You can still do work during this time if you wish, but staff will not be responding to emails or updating curriculum during this time.
+**Q: I'm thinking of getting a new laptop. What are your suggestions?**<br>
+**A:** We have a [document](https://docs.google.com/document/d/13JGWKAjjdx7-0kpLCmBQN2i5C5xhlgnVflj6CuQrvMk/edit?usp=sharing) written by a former student with some info on laptops. This is not super official DBC policy or anything, but hopefully it helps. 
 
 **For many other questions**<br>
 Make sure you read through the handbook thoroughly. Substitute "Phase 0 Handbook" for "Syllabus" in the following cartoon.
