@@ -13,29 +13,26 @@
 
 ## Your Wonderful Guides:
 
-- Matt Higgins
-- Ken Luk
-- Morgan O Leary
-- Annie Baer
-- Kenneth Mendonça
-- Michael Hamel
-- Laura Crowe
-- Armando Reed
-- Ben Brostoff
-- Caroline Artz
-- Emmanuel Kaunitz
-- Gary Sperka
-- Joan Torres
-- Kel Kanhirun
-- Andrew Larson
-- Neal Peters
-- Lorena Mesa
-- Ismail Kalimi
-- Brooks Roley
-- Kelsey Ando
-- Jessica Armstrong
-- Nixon Ramin
-- Danielle Sublett
-- Ambreen Hasan
-- David Christian
-- Sarah Taurchini
+- Morgan O.
+- Ismail K.
+- Sarah T.
+- Ambreen H.
+- Danielle S.
+- Brooks R.
+- Matt H.
+- Michael H.
+- Laura C.
+- Caroline A.
+- Ben B.
+- Andrew L.
+- Lorena M.
+- Armando R.
+- Tam D.
+- Neal P.
+- Nelly L.
+- James H.
+- Gary S.
+- Kelsey A.
+- Jessica A.
+- Nixon R.
+
