@@ -87,14 +87,14 @@ Navigate to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete t
 Take a look at a couple of these resources that look interesting to you.
 
 
-#### Free
+##### Free
 - <a href = "http://mindsetonline.com/">Mindset Online</a> by Carol Dweck. This links to the website, but you can also read the book about fixed and growth mindset.
 - UC San Diego Coursera Course <a href="https://www.coursera.org/course/learning" target="_blank">Learning How to Learn</a>
 - <a href= "https://cs50.harvard.edu/" target="_blank"> CS 50: Harvard Intro to Computer Science Course</a> Interesting and accessible lectures. These are great for students who want to know more about basic Computer Science. See the <a href= "http://d2o9nyf4hwsci4.cloudfront.net/2014/spring/lectures/0/w/syllabus/syllabus.html" target="_blank">syllabus</a> for a list of covered topics.
 - <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicago Grasshopper 2014)
 
 
-#### Books
+##### Books
 - <a href= "http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050" target="_blank">*Pragmatic Thinking and Learning*</a> by Andy Hunt. This book covers "how our brains are wired, and how to take advantage of your brain's architecture. You'll learn new trice and tips to learn more, faster, and retain more of what you learn."
 - <a href = "http://shop.oreilly.com/product/9780596518387.do" target="_blank">*Apprenticeship Patterns*</a> by Dave Hoover. Are you doing all you can to further your career as a software developer? With today's rapidly changing and ever-expanding technologies, being successful requires more than technical expertise. To grow professionally, you also need soft skills and effective learning techniques. Honing those skills is what this book is all about. Authors Dave Hoover and Adewale Oshineye have cataloged dozens of behavior patterns to help you perfect essential aspects of your craft.
 - <a href = "http://pragprog.com/book/cfcar2/the-passionate-programmer" target="_blank">*The Passionate Programmer*</a> by Chad Fowler. This book is about creating a remarkable career in software development. In most cases, remarkable careers don’t come by chance. They require thought, intention, action, and a willingness to change course when you’ve made mistakes. Most of us have been stumbling around letting our careers take us where they may. It’s time to take control. This revised and updated second edition lays out a strategy for planning and creating a radically successful life in software development.
