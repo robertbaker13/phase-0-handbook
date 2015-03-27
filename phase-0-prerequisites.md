@@ -70,7 +70,7 @@ You need to be able to:
 #### 5. Computer setup
 We provide computer setup instructions in Week 1 to help you get a developer environment up and running. That said, these instuctions are most beneficial on a computer that has a "clean" environment (i.e. one that hasn't been set up for development before), so please avoid trying to set up your computer in advance of Phase 0 if you haven't already. If you are working on a machine that has already been configured, you may have more issues with setup. 
 
-We highly recommend using either unix or linux rather than Windows if you have the option. If you have a windows machine, it would be good to look into [running linux on Windows](http://www.howtogeek.com/170870/5-ways-to-run-linux-software-on-windows/) prior to Phase 0. We provide Unix (Apple) computers on site, and linux commands are more similar to unix.
+We highly recommend using either Unix or Linux rather than Windows if you have the option. If you have a Windows machine, it would be good to look into [running Linux on Windows](http://www.howtogeek.com/170870/5-ways-to-run-linux-software-on-windows/) prior to Phase 0. We provide Unix (Apple) computers on site, and Linux commands are more similar to Unix.
 
 #### 6. Read the [Phase 0 Handbook](README.md)
 This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Bootcamp!
