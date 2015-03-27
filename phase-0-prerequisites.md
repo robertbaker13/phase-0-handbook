@@ -67,32 +67,34 @@ You need to be able to:
  - Type at least 40 words per minute
  - Use common shortcuts in Sublime
 
-#### 5. Read the [Phase 0 Handbook](README.md)
+#### 5. Computer setup
+We provide computer setup instructions in Week 1 to help you get a developer environment up and running. That said, these instuctions are most beneficial on a computer that has a "clean" environment (i.e. one that hasn't been set up for development before), so please avoid trying to set up your computer in advance of Phase 0 if you haven't already. If you are working on a machine that has already been configured, you may have more issues with setup. 
+
+We highly recommend using either unix or linux rather than Windows if you have the option. If you have a windows machine, it would be good to look into [running linux on Windows](http://www.howtogeek.com/170870/5-ways-to-run-linux-software-on-windows/) prior to Phase 0. We provide Unix (Apple) computers on site, and linux commands are more similar to unix.
+
+#### 6. Read the [Phase 0 Handbook](README.md)
 This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Bootcamp!
 
-#### 6. Watch
+#### 7. Watch
 The following videos introduce some key concepts of the Phase 0 experience.
 You will be expected to be familiar with each of these prior to starting Phase 0.
 
 - Engineering Empathy: [EQ: Emotional Intelligence](https://vimeo.com/99779530) 15 min
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
 - Checking in before [Pairing](https://vimeo.com/76662569) 5 min
-- Our collaborative coding editor [Stypi](https://vimeo.com/76870082) 2 min
 
-#### 7. Complete the End of Prep Survey
+#### 8. Complete the End of Prep Survey
 Navigate to [apply.devbootcamp.com](http://apply.devbootcamp.com) and complete the "End of Prep Survey" This is required to start Phase 0.
 
-
-#### 8. Additional Resources
+#### 9. Additional Resources (Optional)
 Take a look at a couple of these resources that look interesting to you.
-
 
 ##### Free
 - <a href = "http://mindsetonline.com/">Mindset Online</a> by Carol Dweck. This links to the website, but you can also read the book about fixed and growth mindset.
 - UC San Diego Coursera Course <a href="https://www.coursera.org/course/learning" target="_blank">Learning How to Learn</a>
 - <a href= "https://cs50.harvard.edu/" target="_blank"> CS 50: Harvard Intro to Computer Science Course</a> Interesting and accessible lectures. These are great for students who want to know more about basic Computer Science. See the <a href= "http://d2o9nyf4hwsci4.cloudfront.net/2014/spring/lectures/0/w/syllabus/syllabus.html" target="_blank">syllabus</a> for a list of covered topics.
 - <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicago Grasshopper 2014)
-
+- [Codecademy](http://www.codecademy.com/). It never hurts to get familiar with the HTML & CSS, Ruby, and JavaScript tracks before Phase 0 starts if you have the time.
 
 ##### Books
 - <a href= "http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050" target="_blank">*Pragmatic Thinking and Learning*</a> by Andy Hunt. This book covers "how our brains are wired, and how to take advantage of your brain's architecture. You'll learn new trice and tips to learn more, faster, and retain more of what you learn."
