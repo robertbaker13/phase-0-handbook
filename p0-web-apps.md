@@ -66,3 +66,6 @@ For students who have developed a personal brand and followers on Twitter, you m
 You should also feel free to use the link to the massive twitter feed (linked in the Google+ Community) to see what others have written.
 
 If you would like others to look at your code and give them feedback, we suggest doing this on Twitter because it makes it a bit easier for others to find the links. Because your repositories are private, only other Phase 0 students and staff will be able to see your work.
+
+#7. Class Marker (Not pictured)
+This is where weekly quizzes are hosted and will be taken. You will need to log in with the email address you have associated with Dev Bootcamp. 
