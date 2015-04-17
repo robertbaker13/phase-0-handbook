@@ -19,7 +19,7 @@
 - [Git Immersion](http://gitimmersion.com/)
 
 #### HTML/CSS
-- [Intro to HTML](http://girldevelopit.com/assets/html-css/class1.html)
+- [Intro to HTML](http://girldevelopit.github.io/gdi-core-html-css/class1.html#/)
 - [Build a simple website](http://teamtreehouse.com/library/build-a-simple-website)
 - [Beginners guide to HTML and CSS](http://learn.shayhowe.com/html-css/)
 - [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
