@@ -1,7 +1,7 @@
 # Phase 0 Student Handbook
 
 
-This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact your [Phase 0 Facilitator](contact-and-support-list.md) , ask your instructor in your introductory session, or create an issue* to add a question to the [FAQ](FAQ.md).
+This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact The Phase 0 Team at [phase0@devbootcamp.com](mailto:phase0@devbootcamp.com) or ask your instructor in your introductory session during your first week of Phase 0.
 
 
 1. [Overview](overview.md)
@@ -22,5 +22,3 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 15. [Sublime Text Hotkeys](hotkeys.md)
 16. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
 17. [FAQ's](FAQ.md)
-
-*To create an issue, look at the vertical navigation bar at the right. There should be a circle with an exclamation point. Click on that, and then click the "new issue" button.
