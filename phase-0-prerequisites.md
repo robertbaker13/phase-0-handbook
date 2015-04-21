@@ -3,9 +3,22 @@
 
 # Welcome to DBC!
 
-You are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program by the end and will be ready to start Phase 0 by your start date.
+We are so excited that you have decided to embark on this amazing, life changing journey with us.  Over the next few months you are not only going to learn how to "Build Beautiful and Meaningful Things" but you are going to learna lot about yourself and otheres. There are a lot of staff at DBC you are going to interact with at different parts of the program. Each of these people are going to help guide you, support you, and challenge you all at the same time. Right now, you are about to start the remote part of DBC with the Phase 0 Team. 
 
-**Please note:** We will send out your "Welcome to Phase 0" email on the Friday prior to your cohort start date to give you access to Dev Bootcamp systems. Please be on the lookout for these messages.
+This is the phase of DBC where you can, more or less, work at your own pace to start learning the fundamentals of software development and get introduced to the culture of DBC. You are going to work on getting your machine set up and learn the basics of the command line and GitHub in the first week. Then you will move into other topics like CSS, HTML, Ruby and JS.  We have designed Phase 0 to accomplish a few main goals:
+* Get to know some of the people you are going to be on-site with. The main way this is going to get accomplished is within your accountability group, who you will check in with every week.
+* Get your feet wet with pairing. When you come on-site you are going to be pairing about 95% of the time and we want you to start getting use to this from Day 1. So in Phase 0 you are going to have required Peer Pairing sessions and Guided Pairing Sessions. After these sessions you will also give and receive feedback from your pair.
+* Ensure that every student enters Phase 1 with a baseline experience to build on during Phases 1 - 3. Some students come to DBC with a little more experience than others and we want there to be a way to level that out so eveyone has some experience starting Phase 1.
+* Introduce you to DBC's style of "learning how to learn." While at DBC, you are going to be given challenges that will help you learn certain concepts. There are a lot of methods you are going to use to turely understand these concepts. There might be a lecture or video or there might be a specific book/document referenced in the challenge to guide you. But the main way you are going to learn the concepts is by working with your pair, using online docs and googling when you get stuck. Along the way there will be a lot of people you can ask questions to. The guides in Phase 0, instructors in Phases 1 - 3, and other alumni/mentors along the way.
+* Learning to expose your ignormace. This means knowing when you do not know something and being able to ask a quesion. There will be so many people along your jouney at DBC that are willing and eager to help, you just have to ask for it. Whether it be a technical question, a concept you are not getting or simply needing someone to talk to and support you. 
+
+Right now you are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program and what is going to be expected of you once completeling these tasks and will be ready to start Phase 0 by your start date. If you do not feel fully acquanted or know exactly  what is expected of you, do not worry or freak out, there will be plenty of time to ask questions in your first week of Phase 0.
+
+Here is a rough timeline of what you can expect from now until your start date:
+* Right now you should be working on these prerequisites (please do not wait until your start date to do these)
+* You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Socrates, Phase 0 app, etc)
+* The Friday before you start we will check in again to remind you to complete everything that is required (it is especially important that we have your GitHub user name by the Friday before your start date)
+* During the first week of Phase 0 you will have an Intro Session with a member of the Phase 0 Team to make sure you have all your questions answered and are ready to hit the ground running
 
 If you have any questions, comments, concerns, or feedback for the Phase 0 team, please contact us at <phase0@devbootcamp.com>. Please mention your start date in the email.
 
@@ -18,19 +31,19 @@ If you have any questions, comments, concerns, or feedback for the Phase 0 team,
 Read our [Blog Post](http://devbootcamp.com/2014/05/08/why-phase-0-is-key-to-your-success-at-dev-bootcamp/) on Phase 0.
 Phase 0 is an actual Phase of DBC; it is not optional. We cover the fundamentals you will need to be successful in the intensive portion of DBC.
 
-You may be thinking that Phase 0 will not be intense because it is remote, but it is. Please refrain from scheduling any vacations, trips, etc. during Phase 0 unless you expect to do the work during that time and have reliable internet access. There are weekly deadlines for challenges, pairing requirements, and other tasks you will be required to do each week.
+During your time in Phase 0, you can expect to spend about 15-25 hours a week on the requirements and challenges in our curriculum. While there is some flexibility in when you decide do these challenges during the week, this is still a very intense experience that needs to be given time and dedication. We do not encourage students to schedule any trips or vacations during this time. It adds an extra level of stress to completing your assigned work while trying to enjoy your trip or trying to play catch up when you return. There are weekly deadlines for challenges, pairing requirements, and other tasks you will be required to do each week. It is also not possible for you to work ahead with your Phase 0 curriclum.
 
-Anticipate spending between 15-25 hours a week on your work during Phase 0 (or more if you want to go above and beyond). Also, please do not quit your job before starting the program. You may decide that becoming a programmer isn't for you only a few weeks in, and then it will be very difficult to get your job back! Please wait to quit your jobs until you are at least 2 weeks away from coming onsite for the intensive portion of the program.
+We also do not suggest students quit their full time job before starting the program. There is a chance you may decide that becoming a programmer isn't for you only a few weeks in. If this is the case, you want to make sure you have other options open to you.
 
 
 #### 1. Create Accounts
-You will need each of these accounts prior to Phase 0, and we will ask you to provide links to your Socrates (our student application) profile when you receive your welcome email.
+You will need each of these accounts prior to Phase 0, and we will ask you to provide links to your Socrates (our student application) profile when you receive your welcome email in the week prior to starting Phase 0.
 
-- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0. If you would like us to conduct email communications with you via gmail, update your email address in [apply.devbootcamp.com](http://apply.devbootcamp.com) as soon as possible **before** starting Phase 0. **Make sure to activate Google+ on this account**
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0 so it is necessary that you have a Gmail account for these. We encourage students to use this Gmail account for all communication in Phase 0. If your signed up with a differnt email address and now want to change it to your Gmail address please go to [apply.devbootcamp.com](http://apply.devbootcamp.com) **before** starting Phase 0. **Make sure to activate Google+ on this account**
 
-- [Twitter](https://twitter.com/)<br>You will be using Twitter throughout Phase 0 and will have some challenges using the Twitter API later.
+- [Twitter](https://twitter.com/)<br>You will be using Twitter throughout Phase 0 and will have some challenges using the Twitter API later when you come on-site.
 
-- [LinkedIn](https://www.linkedin.com/)<br> LinkedIn is an important resume tool and a part of your later career search, so it's good to fill it out now with your history and what you've been doing so you have a history.
+- [LinkedIn](https://www.linkedin.com/)<br> LinkedIn is an important resume tool and a part of your career search once you graduate DBC. Once you get to career week the Career Team will help edit and perfect this profile, but it helps if you have something to start from.
 
 - [Gravatar](http://en.gravatar.com/)<br> You will get a Socrates account when you start Phase 0, and it will pull your picture from Gravatar. Please make sure your picture is of your face so we can get as much practice with your name as possible. [apply.devbootcamp.com](http://apply.devbootcamp.com)
 
@@ -63,14 +76,10 @@ Then practice. Try <a href = "http://www.typingtest.com/index.html" target="_bla
 
 For shortcuts, try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts.
 
-You need to be able to:
- - Type at least 40 words per minute
- - Use common shortcuts in Sublime
-
 #### 5. Computer setup
 We provide computer setup instructions in Week 1 to help you get a developer environment up and running. That said, these instuctions are most beneficial on a computer that has a "clean" environment (i.e. one that hasn't been set up for development before), so please avoid trying to set up your computer in advance of Phase 0 if you haven't already. If you are working on a machine that has already been configured, you may have more issues with setup. 
 
-We highly recommend using either Unix or Linux rather than Windows if you have the option. If you have a Windows machine, it would be good to look into [running Linux on Windows](http://www.howtogeek.com/170870/5-ways-to-run-linux-software-on-windows/) prior to Phase 0. We provide Unix (Apple) computers on site, and Linux commands are more similar to Unix.
+If you are going to use a PC we highly recommend using either Unix or Linux rather than Windows.  You can look into [running Linux on Windows](http://www.howtogeek.com/170870/5-ways-to-run-linux-software-on-windows/) prior to Phase 0. We provide Unix (Apple) computers on site, and Linux commands are more similar to Unix.
 
 #### 6. Read the [Phase 0 Handbook](README.md)
 This detailed document outlines the Phase 0 Program in great depth, so please take time to read it and get comfortable with Phase 0 and Dev Bootcamp!
