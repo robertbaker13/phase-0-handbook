@@ -13,7 +13,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## To Do List 
 
-1. [Pairing in Phase 0](pairing-in-phase-0.md)
+1. Intro Sessions
 2. [Guided Pairing Sessions](guided-pairing-sessions.md)
 3. [Peer-Pairing Sessions](peer-pairing-sessions.md)
 4. [Feedback](feedback.md)
@@ -28,9 +28,10 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## Other Impotant Resouces 
 
-1. [Learning Strategies](learning-strategies.md)
-2. [Research, Debugging, and Google](research-debugging-and-google.md)
-3. [Phase 0 Reading/Resource List](resources.md)
-4. [Sublime Text Hotkeys](hotkeys.md)
-5. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
-6. [FAQ's](FAQ.md)
+1. [Pairing in Phase 0](pairing-in-phase-0.md)
+2. [Learning Strategies](learning-strategies.md)
+3. [Research, Debugging, and Google](research-debugging-and-google.md)
+4. [Phase 0 Reading/Resource List](resources.md)
+5. [Sublime Text Hotkeys](hotkeys.md)
+6. [Fetching DevBootcamp's curriculum changes](fetching-changes.md)
+7. [FAQ's](FAQ.md)
