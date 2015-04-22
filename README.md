@@ -5,19 +5,21 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## 1. The Basics
 
-1.1 [Welcome!](overview.md)
+__1.1 [Welcome!](overview.md)
 1.2 [Phase 0 Prerequisites](phase-0-prerequisites.md)
-1.3 [Integrity, Kindness, and Whole Self](three-agreements.md)
+1.3 [The Three Agreements](three-agreements.md)
 1.4 [Phase 0 Web Applications](p0-web-apps.md)
 1.5 [Contact and Support List](contact-and-support-list.md)
 
-## 2. Things you Must be Doing
+## 2. To Do List
 
 2.1 [Pairing in Phase 0](pairing-in-phase-0.md)
 2.2 [Guided Pairing Sessions](guided-pairing-sessions.md)
 2.3 [Peer-Pairing Sessions](peer-pairing-sessions.md)
 2.4 [Feedback](feedback.md)
 2.5 [Solo Challenges](solo-challenges.md)
+2.6 Submitting Weekly Challenges
+2.7 Accountability Groups
 
 ## 3. Getting Help
 
