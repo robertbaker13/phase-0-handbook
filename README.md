@@ -5,11 +5,11 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## 1. The Basics 
 1. Basics 
-  1.1 [Welcome!](overview.md)
-  1.2 [Phase 0 Prerequisites](phase-0-prerequisites.md)
-  1.3 [The Three Agreements](three-agreements.md)
-  1.4 [Phase 0 Web Applications](p0-web-apps.md)
-  1.5 [Contact and Support List](contact-and-support-list.md)
+    1.1 [Welcome!](overview.md)
+    1.2 [Phase 0 Prerequisites](phase-0-prerequisites.md)
+    1.3 [The Three Agreements](three-agreements.md)
+    1.4 [Phase 0 Web Applications](p0-web-apps.md)
+    1.5 [Contact and Support List](contact-and-support-list.md)
 
 ## 2. To Do List 
 
