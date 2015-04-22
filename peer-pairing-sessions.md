@@ -4,15 +4,15 @@
 
 
 ## Purpose
-Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. These are skills that are strengthen with practice, which is why we have incorporated pair programming into Phase 0!
 
+Pair programming has gained in popularity among companies as enabling developers to learn quickly and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. These are skills that are strengthen with practice, which is why we have incorporated pair programming into Phase 0!
 
 Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benifits of pair programming.
 
-
 ## Expectations
+
 As part of Phase 0, students are expected to pair program with another student in their cohort, from any location:
-* Unit 1: 4 times (You are not expected to pair in week 1).
+* Unit 1: 4 times (You are not expected to pair in week 1)
 * Unit 2: 6 times
 * Unit 3: 6 times
 
@@ -24,7 +24,8 @@ It is up to each student to arrange pairing sessions. We suggest posting in the 
 * You can work on any of the challenges for the week except for the solo challenges.
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
-
+* The number of peer pairing sessions you complete is self reported and on an honor system.
+* You must give feedback to your pair after every session.
 
 ## Courtesy
 
@@ -47,7 +48,8 @@ You will be successful in your Peer-Pairing sessions if you:
 - Use feedback you've received to become a better pair.
 	
 
-### Problems and Tips
+## Problems and Tips
+
 Most students report that peer-pairing sessions are the most helpful and beneficial aspect of the Phase 0 program, but sometimes students report having bad sessions. Here are some tips for the common complaints we've heard.
 
 **Problem: "My pair isn't responding to my messages."**<br>
@@ -55,7 +57,6 @@ Most students report that peer-pairing sessions are the most helpful and benefic
 
 **Problem: "My pair stood me up!"**<br>
 *Tip: Email your pair and present your side from your perspective. If you say something like, "I felt upset and disrespected by..." Let them know that their actions had consequences. Note: Please do not use feedbackinator to address this kind of issue.*
-
 
 **Problem: "My pair drove AND navigated during the session."**<br>
 *Tips: If you didn't clarify who would drive and navigate from the outset, you can ask to clarify it anytime in the session. If you did identify who would drive and navigate, but you feel you aren't able to play your role, you can ask your pair to take a step back on your duties so you can fulfill them. Try asking questions about potential design choices and offer your own ideas. Finally, if nothing is working, you can tell your pair that you need a break from the session and say you can reschedule for later since you don't feel the session is beneficial at the moment.*
