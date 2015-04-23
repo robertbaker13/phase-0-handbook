@@ -58,18 +58,15 @@ Each guide has a slightly different style when conducting GPS sessions. Some are
 
 Although you have one hour with the guide, the challenges often take longer than an hour, which means you will likely need to set aside another time to finish the challenge with your pair. After the hour is up, the guide will leave you on your own to finish the challenge. You can finish at any time you and your pair are able to meet that week.
 
-NOTE: If you are paired with an guide without another student, the session will be slightly different since you will be pairing with the guide. The guides are also not in the Feedbackinator, so you do not need to leave them feedback after the session.
-
-
 ## Success Guidelines
 These sessions are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, they are also ways for us to track how you are doing in Phase 0 to this point and if you are keeping up with and understanding the material. Guided Pairing Sessions give us a better idea of whether you will be successful in the program. 
 
 ###Culturally we are looking for your:
 
-	- Enthusiasm for programming and solving challenges!
+	- Enthusiasm for programming and solving challenges
 	- Willingness to check in, connect, and share how you are feeling
 	- Curiosity of how things work
-	- Showing your ignorance. If you don’t know something, speak up!
+	- Showing your ignorance. If you don’t know something, speak up
 	- Good balance of speaking and listening, driving and navigating
 	- Engage the Phase 0 instructor when you and your pair is stuck
 
@@ -107,14 +104,14 @@ These sessions are intended to help you become a better pair, have a stronger co
 
 ##Feedback and Transparency
 
-At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback via email. This feedback will give you spefics on your code and how the session went. This feedback will also give you an idea if you are ahead, on track, behind, or struggling in your cohort. This feedback is not meant to be a grade. It is meant to give you an better understanding of where your progress currently is and wehre it can improve. This feedback will also give you a sense of progress over time on if you are improving or starting to struggle more.
+At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback via email. This feedback will give you spefics on your code and how the session went. This feedback will also give you an idea if you are ahead, on track, behind, or struggling in in both cultural and technical competencies. This feedback is not meant to be a grade. It is meant to give you an better understanding of your current progress and wehre it can improve. This feedback will also give you a sense of progress over time on if you are improving or starting to struggle more.
 
-*Please Note: If you receive a message that says you are behind or struggling, please reach out to someone on the Phase 0 Team to discuss a plan to make sure you stay on track during Phase 0.
+*Please Note: If you receive a message that says you are behind or struggling, you must reach out to someone on the Phase 0 Team to discuss a plan to make sure you stay on track during Phase 0.
 
-We are sharing this information with you for a couple of reasons:
+We are sharing feedback in this format for a couple of reasons:
 
 1. We believe that information we collect pertaining to you and your progress should be transparent and easily available (to you)
-2. We want you to know whether you are on the track for success at Dev Bootcamp
+2. We want you to know whether you are on the track for further success at Dev Bootcamp
 3. We believe that you will be able to better tailor your preparation and progress in Phase 0 with this information
 
 You are also required to leave feedback for your pair in the Feedbackinator. If you end up pairing with a guide, they will be be in the feedbackinator, so if you want to provide them with feedback you can email them.
