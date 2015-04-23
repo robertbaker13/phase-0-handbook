@@ -16,7 +16,7 @@ Another imporant thing to note about this learning style is it's not necessarily
 
 * Giving and rating [feedback](https://github.com/Devbootcamp/phase-0-handbook/blob/master/feedback.md) for your cohort mates every week.
 
-* Submitting all the challenges and reflections as specified in the Curriculum at the end of the week
+* [Submitting](submitting-challenges.md) all the challenges and reflections as specified in the Curriculum at the end of the week
 
 * Four [solo challenges](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) that will be used for code reviews
 
