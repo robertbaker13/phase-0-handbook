@@ -13,13 +13,13 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## To Do List 
 
-1. Intro Sessions
+1. [Intro Sessions](intro-session.md)
 2. [Guided Pairing Sessions](guided-pairing-sessions.md)
 3. [Peer-Pairing Sessions](peer-pairing-sessions.md)
 4. [Feedback](feedback.md)
 5. [Solo Challenges](solo-challenges.md)
-6. Submitting Weekly Challenges
-7. Accountability Groups
+6. [Submitting Weekly Challenges](submitting-challenges.md)
+7. [Accountability Groups](accountability-groups.md)
 
 ## Getting Help 
 
