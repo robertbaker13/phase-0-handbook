@@ -20,7 +20,7 @@ In simplest form, this means being honest. One way to embody integrity is doing 
 Part of being in integrity also means that if you fall out of integrity, for whatever reason. you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
 
 ## The Second Agreement: Kindness
-We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does also means giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK).
+We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does also means giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK). This might also include a hard conversation.
 
 We expect everyone at DBC to show kindness by providing constant feedback to one another, holding each other accountable to unholding these three agreements, and by bringing ourselves 100% into each and every day. We also show kindness through showing respect to others and our space. 
 
@@ -28,4 +28,4 @@ Last but not least, we expect you to be kind to yourself.  You've taken a big ri
 
 ## The Third Agreement: Whole Self
 
-We expect you to bring your intelligence, your focus, your creativity, and your personality into each challenge every day. If you are struggling, we expect you to ask others (including staff) for help. If you find that you're holding some part of you back from this experience, we ask that you focus on being authentic with your pair, your cohort, and staff. DBC flourishes when all of us feel safe being authentic with each other.
+We expect you to bring your intelligence, your focus, your creativity, and your personality into each challenge every day. If you are struggling, we expect you to ask others (people in your cohort, alumni, or staff) for help. If you find that you're holding some part of you back from this experience, we ask that you focus on being authentic with your pair, your cohort, and staff. DBC flourishes when all of us feel safe being authentic with each other.
