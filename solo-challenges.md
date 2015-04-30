@@ -2,7 +2,7 @@
 
 # Solo Challenges
 
-Each week you will have one challenge specifically designated as a solo challenge. This challenge is different, and needs to be addressed on its own terms.
+There are four challenges in the curriculum that will be labeled "Solo Challenges"
 
 
 ## Purpose
