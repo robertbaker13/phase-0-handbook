@@ -8,10 +8,13 @@ When writing your reflection, write it for an audience. Tell a story of what you
 
 Use these questions as a guideline. Choose the questions that will help you reflect on your process. You do not have to answer every question.
 
-* What parts of your strategy worked? What problems did you face?    
-* What questions did you have while coding? What resources did you find to help you answer them?  
-* What concepts are you having trouble with, or did you just figure something out? If so, what?  
-* Did you learn any new skills or tricks?
-* How confident are you with each of the Learning Competencies? 
-* Which parts of the challenge did you enjoy?
-* Which parts of the challenge did you find tedious?
+###### What parts of your strategy worked? What problems did you face?
+###### What questions did you have while coding? What resources did you find to help you answer them?  
+###### What concepts are you having trouble with, or did you just figure something out? If so, what?  
+###### Did you learn any new skills or tricks?
+###### How confident are you with each of the Learning Competencies? 
+###### Which parts of the challenge did you enjoy?
+###### Which parts of the challenge did you find tedious?
+
+- I found this entire exercise to be quite easy, as I learned all of the necessary material in my preparations for the DBC admission interview.
+
